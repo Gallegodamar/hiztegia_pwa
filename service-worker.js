@@ -1,5 +1,4 @@
-
-const CACHE_NAME = 'hiztegia-pwa-cache-v3'; // Cache-aren bertsioa eguneratu aldaketak daudenean
+const CACHE_NAME = 'hiztegia-pwa-cache-v4'; // Cache-aren bertsioa eguneratu aldaketak daudenean
 const urlsToCache = [
   '/',
   '/index.html',
