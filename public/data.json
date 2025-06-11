@@ -167058,5 +167058,615 @@
     "id": 33448,
     "basque": "edonora",
     "spanish": "adb. a cualquier parte"
+  },
+  {
+    "id": 33449,
+    "basque": "hitz",
+    "spanish": "1 iz. palabra // 2 iz. (batez ere pl.) [norbaitek esandakoa] palabra // 3 iz. (pl.) [abestiarena] letra // 4 iz. palabra, promesa // 5 iz. palabra, turno; voz // 6 iz. (Erl.) [Hirutasun Santuko bigarren pertsona] (maiusk.) Palabra, Verbo // 7 iz. [hitz egiteko gaitasuna] habla // 8 iz. (Hizkl.) palabra, vocablo"
+  },
+  {
+    "id": 33450,
+    "basque": "hitz batean",
+    "spanish": "en una palabra"
+  },
+  {
+    "id": 33451,
+    "basque": "hitz batez",
+    "spanish": "por unanimidad"
+  },
+  {
+    "id": 33452,
+    "basque": "hitz berri",
+    "spanish": "neologismo"
+  },
+  {
+    "id": 33453,
+    "basque": "hitz eta pitz",
+    "spanish": "charlando, cotorreando"
+  },
+  {
+    "id": 33454,
+    "basque": "hitz gutxiko",
+    "spanish": "de pocas palabras"
+  },
+  {
+    "id": 33455,
+    "basque": "hitz gutxitan",
+    "spanish": "1 (kurtsiba esan kurtsiba eta kideko aditzekin) brevemente, en pocas palabras // 2 [laburbilduz] resumiendo"
+  },
+  {
+    "id": 33456,
+    "basque": "hitzak ari bira, dugun egina",
+    "spanish": "menos palabras y a los hechos"
+  },
+  {
+    "id": 33457,
+    "basque": "lan-hitzarmen kolektibo",
+    "spanish": "convenio colectivo"
+  },
+  {
+    "id": 33458,
+    "basque": "pub",
+    "spanish": "iz. pub"
+  },
+  {
+    "id": 33459,
+    "basque": "puber",
+    "spanish": "iz./izond. púber"
+  },
+  {
+    "id": 33460,
+    "basque": "pubertate",
+    "spanish": "iz. pubertad"
+  },
+  {
+    "id": 33461,
+    "basque": "pubeszente",
+    "spanish": "izond. (Bot.) pubescente"
+  },
+  {
+    "id": 33462,
+    "basque": "pubeszentzia",
+    "spanish": "iz. (Bot.) pubescencia"
+  },
+  {
+    "id": 33463,
+    "basque": "pubis",
+    "spanish": "1 iz. pubis // 2 iz. (Anat.) [hezurra] pubis"
+  },
+  {
+    "id": 33464,
+    "basque": "publikoki",
+    "spanish": "adb. públicamente"
+  },
+  {
+    "id": 33465,
+    "basque": "publirreportaje",
+    "spanish": "iz. (Heg.) publirreportaje"
+  },
+  {
+    "id": 33466,
+    "basque": "publizista",
+    "spanish": "iz. publicista"
+  },
+  {
+    "id": 33467,
+    "basque": "publizitario",
+    "spanish": "izond. publicitario, -a"
+  },
+  {
+    "id": 33468,
+    "basque": "publizitate",
+    "spanish": "iz. publicidad"
+  },
+  {
+    "id": 33469,
+    "basque": "poxi",
+    "spanish": "1 iz. (Ipar.) tajada, pedazo, pizca // 2 izond. (Ipar.) querido, -a, amado, -a"
+  },
+  {
+    "id": 33470,
+    "basque": "upa",
+    "spanish": "iz. (B) cuba, tonel"
+  },
+  {
+    "id": 33471,
+    "basque": "upa-ohol",
+    "spanish": "iz. duela, doga"
+  },
+  {
+    "id": 33472,
+    "basque": "upa lako",
+    "spanish": "(B) enorme, tremendo"
+  },
+  {
+    "id": 33473,
+    "basque": "upela",
+    "spanish": "Ik. upel"
+  },
+  {
+    "id": 33474,
+    "basque": "upeleratu",
+    "spanish": "du ad. encubar, entonelar"
+  },
+  {
+    "id": 33475,
+    "basque": "upelgintza",
+    "spanish": "iz. cubería, tonelería [arte u oficio]"
+  },
+  {
+    "id": 33476,
+    "basque": "beti",
+    "spanish": "1 adb. siempre; en todo momento; continuamente, una y otra vez // 2 adb. aún, todavía // 3 iz. eternidad, perpetuidad"
+  },
+  {
+    "id": 33477,
+    "basque": "beti eta beti",
+    "spanish": "constantemente, incesantemente, perpetuamente"
+  },
+  {
+    "id": 33478,
+    "basque": "beti-bateko",
+    "spanish": "izlag. monótono, -a, siempre igual"
+  },
+  {
+    "id": 33479,
+    "basque": "betiberde",
+    "spanish": "izond. (Bot.) perennifolio, -a, sempervirente"
+  },
+  {
+    "id": 33480,
+    "basque": "betibizi",
+    "spanish": "iz. (Bot.) siempreviva; perpetua"
+  },
+  {
+    "id": 33481,
+    "basque": "arduratan",
+    "spanish": "preocupado, -a, inquieto, -a"
+  },
+  {
+    "id": 33482,
+    "basque": "ardurati",
+    "spanish": "izond. preocupado, -a, cuidadoso, -a, atento, -a"
+  },
+  {
+    "id": 33483,
+    "basque": "ardurenean",
+    "spanish": "adb. (Ipar.) generalmente, comúnmente"
+  },
+  {
+    "id": 33484,
+    "basque": "aurpegia ala gurutzea",
+    "spanish": "cara o cruz"
+  },
+  {
+    "id": 33485,
+    "basque": "aldatzeko",
+    "spanish": "iz. muda, ropa de recambio"
+  },
+  {
+    "id": 33486,
+    "basque": "aldizkari-gordetzeko",
+    "spanish": "revistero"
+  },
+  {
+    "id": 33487,
+    "basque": "atzeko",
+    "spanish": "1 iz. [lemazaina, ontziko nagusia] timonel; patrón, -ona // 2 iz. [arrotza] forastero, -a, extranjero, -a, foráneo, -a // 3 izlag. de atrás, trasero, -a, posterior"
+  },
+  {
+    "id": 33488,
+    "basque": "aurrerantzeko",
+    "spanish": "izlag. posterior, futuro, -a, venidero, -a; a partir de este momento, de ahora en adelante"
+  },
+  {
+    "id": 33489,
+    "basque": "beldurtzeko",
+    "spanish": "izlag. temible, terrible; de temer; intimidatorio, -a"
+  },
+  {
+    "id": 33490,
+    "basque": "bihotz-bihotzeko",
+    "spanish": "muy íntimo"
+  },
+  {
+    "id": 33491,
+    "basque": "bizitzeko",
+    "spanish": "iz. (Ipar.) sustento, alimento"
+  },
+  {
+    "id": 33492,
+    "basque": "bihortzeko",
+    "spanish": "iz. horca o azada de dos púas"
+  },
+  {
+    "id": 33493,
+    "basque": "botila-irekigailu; botila-irekitzeko",
+    "spanish": "No encontrada"
+  },
+  {
+    "id": 33494,
+    "basque": "eltzeko",
+    "spanish": "iz. puchero, potaje, cocido"
+  },
+  {
+    "id": 33495,
+    "basque": "ertzeko",
+    "spanish": "iz. (Arm.) culata"
+  },
+  {
+    "id": 33496,
+    "basque": "gaitzeko",
+    "spanish": "izlag. (Ipar.) enorme, tremendo, -a"
+  },
+  {
+    "id": 33497,
+    "basque": "gutun-irekitzeko",
+    "spanish": "abrecartas"
+  },
+  {
+    "id": 33498,
+    "basque": "harritzeko",
+    "spanish": "iz. cosa extraordinaria, rareza, prodigio"
+  },
+  {
+    "id": 33499,
+    "basque": "hiruhortzeko",
+    "spanish": "iz. rastra, arado de tres púas"
+  },
+  {
+    "id": 33500,
+    "basque": "iltze-kentzeko",
+    "spanish": "iz. sacaclavos"
+  },
+  {
+    "id": 33501,
+    "basque": "lohihartzeko",
+    "spanish": "iz. buzo, mono [traje]"
+  },
+  {
+    "id": 33502,
+    "basque": "opalo-antzeko",
+    "spanish": "opalino, -a"
+  },
+  {
+    "id": 33503,
+    "basque": "paper-ebakitzeko",
+    "spanish": "cortapapeles; plegadera"
+  },
+  {
+    "id": 33504,
+    "basque": "patata-zuritzeko",
+    "spanish": "pelapatatas"
+  },
+  {
+    "id": 33505,
+    "basque": "zotzeko",
+    "spanish": "izlag. palabra con la que se denomina a la sidra que se tiene en la cuba (y no en botellas), de donde es escanciada"
+  },
+  {
+    "id": 33506,
+    "basque": "palakari",
+    "spanish": "iz. (Kir.) palista"
+  },
+  {
+    "id": 33507,
+    "basque": "palankari",
+    "spanish": "iz. (Kir.) lanzador de palanca"
+  },
+  {
+    "id": 33508,
+    "basque": "pareta-hari",
+    "spanish": "tendel"
+  },
+  {
+    "id": 33509,
+    "basque": "parlamentari",
+    "spanish": "iz. (Pol.) parlamentario, -a"
+  },
+  {
+    "id": 33510,
+    "basque": "pasaiari",
+    "spanish": "iz. pasajero, -a"
+  },
+  {
+    "id": 33511,
+    "basque": "pasako jujari",
+    "spanish": "(Kir.) en el juego de la pelota, juez auxiliar que cuida la línea trasera (pasa-marra) del frontón"
+  },
+  {
+    "id": 33512,
+    "basque": "paseari",
+    "spanish": "iz. paseante"
+  },
+  {
+    "id": 33513,
+    "basque": "pilotari",
+    "spanish": "iz. (Kir.) jugador de pelota, pelotari"
+  },
+  {
+    "id": 33514,
+    "basque": "pinttokari",
+    "spanish": "izond. (GN) abigarrado, -a, jaspeado, -a"
+  },
+  {
+    "id": 33515,
+    "basque": "pintukari",
+    "spanish": "iz. (Z) bebedor, -a"
+  },
+  {
+    "id": 33516,
+    "basque": "plekari",
+    "spanish": "iz. (Kir.) jugador de ple, jugador de pelota"
+  },
+  {
+    "id": 33517,
+    "basque": "politikari",
+    "spanish": "iz. político, -a [persona]"
+  },
+  {
+    "id": 33518,
+    "basque": "postari",
+    "spanish": "iz. cartero, -a; empleado, -a de correos"
+  },
+  {
+    "id": 33519,
+    "basque": "pozkari",
+    "spanish": "iz. (B) alegría, contento, satisfacción; alborozo, regocijo, júbilo"
+  },
+  {
+    "id": 33520,
+    "basque": "predikari",
+    "spanish": "iz. predicador, -a"
+  },
+  {
+    "id": 33521,
+    "basque": "sasipolitikari",
+    "spanish": "iz. politicastro, -a"
+  },
+  {
+    "id": 33522,
+    "basque": "segari",
+    "spanish": "iz. segador, -a"
+  },
+  {
+    "id": 33523,
+    "basque": "seihilabetekari",
+    "spanish": "iz. publicación semestral; revista semestral"
+  },
+  {
+    "id": 33524,
+    "basque": "senatari",
+    "spanish": "iz. senador, -a"
+  },
+  {
+    "id": 33525,
+    "basque": "sendakari",
+    "spanish": "1 iz. medicina, remedio, fármaco // 2 iz. Ik. sendagile"
+  },
+  {
+    "id": 33526,
+    "basque": "sestokari",
+    "spanish": "iz. (GN) chistoso, -a, ocurrente, gracioso, -a"
+  },
+  {
+    "id": 33527,
+    "basque": "soinkari",
+    "spanish": "iz. cargador, -a, carguero, -a; descargador, -a [persona]"
+  },
+  {
+    "id": 33528,
+    "basque": "soinu-teknikari",
+    "spanish": "técnico, -a de sonido"
+  },
+  {
+    "id": 33529,
+    "basque": "sorgin-afari",
+    "spanish": "cena de medianoche (de amigos o vecinos, que se hacía después de un trabajo colectivo)"
+  },
+  {
+    "id": 33530,
+    "basque": "sorgin-gosari",
+    "spanish": "refrigerio que se toma poco después de media noche"
+  },
+  {
+    "id": 33531,
+    "basque": "sugekari",
+    "spanish": "iz. (Zool.) secretario (Sagittarius serpentarius)"
+  },
+  {
+    "id": 33532,
+    "basque": "sukaldari",
+    "spanish": "iz. cocinero, -a"
+  },
+  {
+    "id": 33533,
+    "basque": "sumari",
+    "spanish": "izond. astuto, -a, sagaz, ingenioso, -a"
+  },
+  {
+    "id": 33534,
+    "basque": "tabernari",
+    "spanish": "iz. tabernero, -a, cantinero, -a; barman"
+  },
+  {
+    "id": 33535,
+    "basque": "talaiari",
+    "spanish": "iz. atalayero, vigía"
+  },
+  {
+    "id": 33536,
+    "basque": "talkari",
+    "spanish": "iz./izond. topador, -a, topetudo, -a"
+  },
+  {
+    "id": 33537,
+    "basque": "tapizari",
+    "spanish": "iz. tapicero, -a; persona que teje tapices"
+  },
+  {
+    "id": 33538,
+    "basque": "tarantari",
+    "spanish": "iz./izond. (B) charlatán enojoso, parlanchina molesta, empalagosa"
+  },
+  {
+    "id": 33539,
+    "basque": "tarratari",
+    "spanish": "izond. pedorro, -a, pedorrero, -a"
+  },
+  {
+    "id": 33540,
+    "basque": "taxi-gidari",
+    "spanish": "taxista"
+  },
+  {
+    "id": 33541,
+    "basque": "teknikari",
+    "spanish": "iz. técnico, -a [persona]"
+  },
+  {
+    "id": 33542,
+    "basque": "topasari",
+    "spanish": "iz. (B) remuneración o recompensa por un hallazgo"
+  },
+  {
+    "id": 33543,
+    "basque": "trafikari",
+    "spanish": "iz. traficante"
+  },
+  {
+    "id": 33544,
+    "basque": "triskari",
+    "spanish": "iz. bailador, -a"
+  },
+  {
+    "id": 33545,
+    "basque": "tronpetari",
+    "spanish": "iz. trompetista"
+  },
+  {
+    "id": 33546,
+    "basque": "trufari",
+    "spanish": "iz./izond. (Ipar.) burlón, -ona"
+  },
+  {
+    "id": 33547,
+    "basque": "turutari",
+    "spanish": "iz./izond. corneta [persona]"
+  },
+  {
+    "id": 33548,
+    "basque": "mehatxari",
+    "spanish": "izond. amenazador, -a"
+  },
+  {
+    "id": 33549,
+    "basque": "merkatari",
+    "spanish": "iz. comerciante, mercader"
+  },
+  {
+    "id": 33550,
+    "basque": "metafisikari",
+    "spanish": "iz. (Fil.) metafísico, -a [persona]"
+  },
+  {
+    "id": 33551,
+    "basque": "mihi-hari",
+    "spanish": "(Anat.) frenillo [de la lengua]"
+  },
+  {
+    "id": 33552,
+    "basque": "milikari",
+    "spanish": "izond. (Ipar.) lamedor, -a; adulador, -a, lisonjero, -a"
+  },
+  {
+    "id": 33553,
+    "basque": "minaketari",
+    "spanish": "iz. (Mil.) dragaminas, barreminas"
+  },
+  {
+    "id": 33554,
+    "basque": "mingainkari",
+    "spanish": "iz./izond. (Hizkl.) lingual, dorsal"
+  },
+  {
+    "id": 33555,
+    "basque": "ministrari",
+    "spanish": "Ik. ministro"
+  },
+  {
+    "id": 33556,
+    "basque": "mintzari",
+    "spanish": "iz. (Ipar.) orador, -a"
+  },
+  {
+    "id": 33557,
+    "basque": "moja-sari",
+    "spanish": "(Heg.) dote de religiosa"
+  },
+  {
+    "id": 33558,
+    "basque": "motor-gidari",
+    "spanish": "motorista"
+  },
+  {
+    "id": 33559,
+    "basque": "mugikari",
+    "spanish": "1 iz. móvil // 2 iz. (Art.) móvil"
+  },
+  {
+    "id": 33560,
+    "basque": "musikari",
+    "spanish": "iz. músico, -a [persona]"
+  },
+  {
+    "id": 33561,
+    "basque": "musurkari",
+    "spanish": "izond. (Ipar.) hozador, -a"
+  },
+  {
+    "id": 33562,
+    "basque": "muturkari",
+    "spanish": "izond. hocicador, -a, hozador, -a; boxeador, -a"
+  },
+  {
+    "id": 33563,
+    "basque": "nahastari",
+    "spanish": "iz. liante, enredador, -a; alborotador, -a"
+  },
+  {
+    "id": 33564,
+    "basque": "nahastekari",
+    "spanish": "1 iz. liante, enredador, -a; alborotador, -a // 2 iz. mezcla, mejunje, brebaje, pócima"
+  },
+  {
+    "id": 33565,
+    "basque": "narrastari",
+    "spanish": "iz./izond. (Zool.) reptil"
+  },
+  {
+    "id": 33566,
+    "basque": "nekazari",
+    "spanish": "iz./izond. agricultor, -a, campesino, -a, labrador, -a, labriego, -a"
+  },
+  {
+    "id": 33567,
+    "basque": "nahikari",
+    "spanish": "1 iz. deseo, anhelo, ansia, voluntad // 2 iz. simpatía, afección, afecto, apego"
+  },
+  {
+    "id": 33568,
+    "basque": "notari",
+    "spanish": "Ik. notario"
+  },
+  {
+    "id": 33569,
+    "basque": "numismatikari",
+    "spanish": "iz. numismático, -a [persona]"
+  },
+  {
+    "id": 33570,
+    "basque": "laborari",
+    "spanish": "iz. labrador, -a; agricultor, -a"
   }
 ]
