@@ -9455,16 +9455,6 @@
     "spanish": "iz. carne de cabrito"
   },
   {
-    "id": 1892,
-    "basque": "antz",
-    "spanish": "parecido, semejanza"
-  },
-  {
-    "id": 1893,
-    "basque": "antza",
-    "spanish": "según parece, al parecer; por lo que parece"
-  },
-  {
     "id": 1894,
     "basque": "antzalda",
     "spanish": "iz. transfiguración, trasfiguración"
@@ -65032,7 +65022,7 @@
   {
     "id": 13013,
     "basque": "hainbat + adb. + -en",
-    "spanish": "No encontrada"
+    "spanish": "(batez ere B) lo más... posible"
   },
   {
     "id": 13014,
@@ -65057,17 +65047,17 @@
   {
     "id": 13018,
     "basque": "hainbate(na)z",
-    "spanish": "regular, ni bien ni mal; tirando"
+    "spanish": "así pues, entonces"
   },
   {
     "id": 13019,
     "basque": "hainbate(na)z..., non...",
-    "spanish": "regular, ni bien ni mal; tirando"
+    "spanish": "tanto... , que..."
   },
   {
     "id": 13020,
     "basque": "hainbatean",
-    "spanish": "regular, ni bien ni mal; tirando"
+    "spanish": "tantas veces"
   },
   {
     "id": 13021,
@@ -167668,5 +167658,360 @@
     "id": 33570,
     "basque": "laborari",
     "spanish": "iz. labrador, -a; agricultor, -a"
+  },
+  {
+    "id": 33571,
+    "basque": "agidanean",
+    "spanish": "adb. según parece, según dicen, al parecer; por lo que parece"
+  },
+  {
+    "id": 33572,
+    "basque": "ei",
+    "spanish": "partik. (B) (aditz laguntzaile edo trinkoaren aurretik) según parece, al parecer, por lo visto; parece (que), dicen (que), se dice (que) // interj. ¡eh!"
+  },
+  {
+    "id": 33573,
+    "basque": "antz",
+    "spanish": "1 iz. semejanza, parecido, aire // 2 iz. aspecto, semblanza // 3 iz. imagen, figura // 4 iz. indicio, rastro; amago // 5 iz. manera, traza // 6 iz. (hitz-elkarteen bigarren osagai gisa) una especie de; semejante (a); algo // iz. (B) hedor, mal olor"
+  },
+  {
+    "id": 33574,
+    "basque": "ikusten denez",
+    "spanish": "por lo visto, por lo que se ve"
+  },
+  {
+    "id": 33575,
+    "basque": "ahotan",
+    "spanish": "(ibili, izan, eduki... aditzekin) de boca en boca, en boca de todos"
+  },
+  {
+    "id": 33576,
+    "basque": "hain... nola...",
+    "spanish": "tan... como..."
+  },
+  {
+    "id": 33577,
+    "basque": "jestu",
+    "spanish": "1 iz. (batez ere Ipar.) gesto // 2 iz. (batez ere Ipar.) gesto, actitud, postura"
+  },
+  {
+    "id": 33578,
+    "basque": "abdukzio",
+    "spanish": "iz. abducción"
+  },
+  {
+    "id": 33579,
+    "basque": "aerobio",
+    "spanish": "1 iz. (Biol.) aerobio // 2 izond. (Biol.) aerobio, -a"
+  },
+  {
+    "id": 33580,
+    "basque": "afiliazio",
+    "spanish": "iz. afiliación"
+  },
+  {
+    "id": 33581,
+    "basque": "akenio",
+    "spanish": "iz. (Bot.) aquenio"
+  },
+  {
+    "id": 33582,
+    "basque": "akreditazio",
+    "spanish": "iz. acreditación"
+  },
+  {
+    "id": 33583,
+    "basque": "alterazio propio",
+    "spanish": "(Mus.) alteración propia"
+  },
+  {
+    "id": 33584,
+    "basque": "aluminio",
+    "spanish": "iz. (Kim.) aluminio"
+  },
+  {
+    "id": 33585,
+    "basque": "aluntzio",
+    "spanish": "iz. (Erl.) (Ipar.) (zah.) extremaunción"
+  },
+  {
+    "id": 33586,
+    "basque": "aluzinazio",
+    "spanish": "Ik. haluzinazio"
+  },
+  {
+    "id": 33587,
+    "basque": "amalgamazio",
+    "spanish": "iz. amalgamación"
+  },
+  {
+    "id": 33588,
+    "basque": "amengio",
+    "spanish": "iz. (BN) venganza"
+  },
+  {
+    "id": 33589,
+    "basque": "amerizio",
+    "spanish": "iz. (Kim.) americio"
+  },
+  {
+    "id": 33590,
+    "basque": "amirazio",
+    "spanish": "iz. (zah.) admiración"
+  },
+  {
+    "id": 33591,
+    "basque": "amodio propio",
+    "spanish": "amor propio"
+  },
+  {
+    "id": 33592,
+    "basque": "amonio",
+    "spanish": "iz. (Kim.) amonio"
+  },
+  {
+    "id": 33593,
+    "basque": "amonizazio",
+    "spanish": "iz. amonización"
+  },
+  {
+    "id": 33594,
+    "basque": "amorrazio",
+    "spanish": "iz. (Heg.) (lgart.) enfado, indignación, rabia"
+  },
+  {
+    "id": 33595,
+    "basque": "Amurrio",
+    "spanish": "Amurrio"
+  },
+  {
+    "id": 33596,
+    "basque": "anaerobio",
+    "spanish": "iz./izond. (Biol.) anaerobio, -a"
+  },
+  {
+    "id": 33597,
+    "basque": "anbizio",
+    "spanish": "iz. ambición"
+  },
+  {
+    "id": 33598,
+    "basque": "anobulazio",
+    "spanish": "iz. (Med.) anovulación"
+  },
+  {
+    "id": 33599,
+    "basque": "anobulatorio",
+    "spanish": "iz./izond. (Med.) anovulatorio, -a"
+  },
+  {
+    "id": 33600,
+    "basque": "anodizazio",
+    "spanish": "iz. (Kim.) anodización"
+  },
+  {
+    "id": 33601,
+    "basque": "aurio",
+    "spanish": "iz. (Zool.) oropéndola (Oriolus oriolus)"
+  },
+  {
+    "id": 33602,
+    "basque": "aurrematrikulazio",
+    "spanish": "iz. (Heg.) prematriculación"
+  },
+  {
+    "id": 33603,
+    "basque": "aurresuposizio",
+    "spanish": "iz. (Hizkl.) (Log.) presuposición"
+  },
+  {
+    "id": 33604,
+    "basque": "autodeterminazio",
+    "spanish": "iz. autodeterminación"
+  },
+  {
+    "id": 33605,
+    "basque": "autoebaluazio",
+    "spanish": "iz. autoevaluación"
+  },
+  {
+    "id": 33606,
+    "basque": "autoedizio",
+    "spanish": "iz. autoedición"
+  },
+  {
+    "id": 33607,
+    "basque": "autoestimazio",
+    "spanish": "iz. (Psikol.) autoestima"
+  },
+  {
+    "id": 33608,
+    "basque": "autoestimulazio",
+    "spanish": "iz. autoestimulación"
+  },
+  {
+    "id": 33609,
+    "basque": "autoionizazio",
+    "spanish": "iz. (Fis.) (Kim.) autoionización"
+  },
+  {
+    "id": 33610,
+    "basque": "autolikidazio",
+    "spanish": "iz. (Admin.) (Heg.) autoliquidación"
+  },
+  {
+    "id": 33611,
+    "basque": "automutilazio",
+    "spanish": "iz. (Psikol.) automutilación"
+  },
+  {
+    "id": 33612,
+    "basque": "autopropultsio",
+    "spanish": "iz. autopropulsión"
+  },
+  {
+    "id": 33613,
+    "basque": "autoritario",
+    "spanish": "izond. autoritario, -a"
+  },
+  {
+    "id": 33614,
+    "basque": "ñirñirkari",
+    "spanish": "1 izond. brillante, resplandeciente // 2 izond. (Zool.) nictitante"
+  },
+  {
+    "id": 33615,
+    "basque": "ahostun",
+    "spanish": "iz./izond. (Hizkl.) sonoro, -a [sonido, fonema, consonante...]; que se pronuncia con vibración de las cuerdas vocales"
+  },
+  {
+    "id": 33616,
+    "basque": "alaba kutun",
+    "spanish": "hija predilecta"
+  },
+  {
+    "id": 33617,
+    "basque": "atun",
+    "spanish": "iz. (Zool.) atún (rojo); albacora; patudo // 1 iz. (Ipar.) (zah.) manera, modo, estilo // 2 iz. (Z) costumbre, hábito, uso; experiencia"
+  },
+  {
+    "id": 33618,
+    "basque": "balioaniztun",
+    "spanish": "adj. polivalente; plurivalente"
+  },
+  {
+    "id": 33619,
+    "basque": "betun",
+    "spanish": "1 iz. betún; alquitrán // 2 iz. (Heg.) [oinetakoentzako ziraia] betún"
+  },
+  {
+    "id": 33620,
+    "basque": "pisu superastun",
+    "spanish": "(Kir.) peso superpesado"
+  },
+  {
+    "id": 33621,
+    "basque": "sasijakitun",
+    "spanish": "iz./izond. sabidillo, -a, sabelotodo, resabido, -a"
+  },
+  {
+    "id": 33622,
+    "basque": "seme kutun",
+    "spanish": "hijo predilecto"
+  },
+  {
+    "id": 33623,
+    "basque": "ur astun",
+    "spanish": "(Kim.) agua pesada"
+  },
+  {
+    "id": 33624,
+    "basque": "zelulaniztun",
+    "spanish": "izond. (Biol.) pluricelular"
+  },
+  {
+    "id": 33625,
+    "basque": "pellokirten",
+    "spanish": "iz./izond. (lgart.) necio, -a"
+  },
+  {
+    "id": 33626,
+    "basque": "sokoten",
+    "spanish": "1 iz. (G) mancha producida por el pericarpio de la nuez // 2 izond. (G) holgazán, -ana"
+  },
+  {
+    "id": 33627,
+    "basque": "tripak jaten",
+    "spanish": "(bizi, ibili, egon... aditzekin) rabiando, irritándose, sufriendo, reconcomiéndose"
+  },
+  {
+    "id": 33628,
+    "basque": "txorten",
+    "spanish": "1 iz. (Bot.) peciolo; pedículo, pedúnculo; [mahatsarena] raspa // 2 iz. [txapelarena] rabillo, rabito, rabo"
+  },
+  {
+    "id": 33629,
+    "basque": "txosten",
+    "spanish": "iz. informe, memoria; ponencia"
+  },
+  {
+    "id": 33630,
+    "basque": "aizkora-kirten",
+    "spanish": "mango del hacha"
+  },
+  {
+    "id": 33631,
+    "basque": "arenbaten",
+    "spanish": "adb. (B) sin mucha diferencia, con poca diferencia; de manera parecida"
+  },
+  {
+    "id": 33632,
+    "basque": "aurten",
+    "spanish": "adb. este año, el año presente, hogaño"
+  },
+  {
+    "id": 33633,
+    "basque": "bazkariten",
+    "spanish": "comiendo; a comer"
+  },
+  {
+    "id": 33634,
+    "basque": "beharrezten",
+    "spanish": "iz. (B) inconveniencia; disparate, absurdo"
+  },
+  {
+    "id": 33635,
+    "basque": "bosten",
+    "spanish": "iz. quinto, quinta parte"
+  },
+  {
+    "id": 33636,
+    "basque": "eguazten",
+    "spanish": "iz. (B) miércoles ➥ asteazken"
+  },
+  {
+    "id": 33637,
+    "basque": "txisten",
+    "spanish": "iz. (B) colgajo, pingajo o támara que se arrastra adherido al vestido"
+  },
+  {
+    "id": 33638,
+    "basque": "zeharretik irten",
+    "spanish": "salirse/irse por la tangente"
+  },
+  {
+    "id": 33639,
+    "basque": "adorarazi, adoraraz, adorarazten",
+    "spanish": "du ad. Adoratzera behartu."
+  },
+  {
+    "id": 33640,
+    "basque": "agintarazi, agintaraz, agintarazten",
+    "spanish": "du ad. Agintzera behartu."
+  },
+  {
+    "id": 33641,
+    "basque": "amaiarazi, amaiaraz, amaiarazten",
+    "spanish": "du ad. Amaitzera behartu."
   }
 ]
