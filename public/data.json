@@ -1802,7 +1802,7 @@
   {
     "id": 361,
     "basque": "abiatu, abia, abiatzen",
-    "spanish": "da ad. ponerse en marcha, echar a andar; dirigirse, partir, salir, marcharse"
+    "spanish": "1  da ad. ponerse en marcha, echar a andar; dirigirse, partir, salir, marcharse // 2  da ad. comenzar, empezar // 3  du ad. (Ipar.) poner en marcha; iniciar; impulsar"
   },
   {
     "id": 362,
@@ -66285,11 +66285,6 @@
     "spanish": "1 iz. (Teknol.) toma, acometida // 2 iz. (Telekom.) roseta // iz. cantera; pedregal, zona pedregosa"
   },
   {
-    "id": 13266,
-    "basque": "hari",
-    "spanish": "hilo"
-  },
-  {
     "id": 13267,
     "basque": "hari mehea izan",
     "spanish": "tener pocas ganas; no tener muchas ganas"
@@ -81437,7 +81432,7 @@
   {
     "id": 16297,
     "basque": "jalgi",
-    "spanish": "salir // sacar; obtener"
+    "spanish": "1  da ad. (Ipar.) salir // 3  du ad. (Ipar.) sacar; obtener"
   },
   {
     "id": 16298,
@@ -168013,5 +168008,100 @@
     "id": 33641,
     "basque": "amaiarazi, amaiaraz, amaiarazten",
     "spanish": "du ad. Amaitzera behartu."
+  },
+  {
+    "id": 33642,
+    "basque": "begi-bistako",
+    "spanish": "izlag. que salta a la vista, evidente; visible"
+  },
+  {
+    "id": 33643,
+    "basque": "bistara",
+    "spanish": "a la vista"
+  },
+  {
+    "id": 33644,
+    "basque": "begi aitzin",
+    "spanish": "(leku-denborazko kasu-atzizkiez) a la vista, ante los ojos, delante de los ojos"
+  },
+  {
+    "id": 33645,
+    "basque": "begi",
+    "spanish": "1 iz. [organoa] ojo // 2 iz. [tresnetan, kirtena sartzekoa] ojo // 3 iz. [jostorratzarena] ojo // 4 iz. [ogiarena, gaztarena] ojo // 5 iz. burbuja // 6 iz. [zubiarena] ojo // 7 iz. [sarearena] malla, ojo // 8 iz. [zurarena] ojo // 9 iz. [saldaren, esnearen, ... gainekoa] ojo // 10 iz. (Bot.) yema; brote // 11 iz. (Meteorol.) [zikloi, ekaitz edo urakanarena] ojo // 12 iz. (Zool.) ojo"
+  },
+  {
+    "id": 33646,
+    "basque": "begi aurre",
+    "spanish": "(leku-denborazko kasu-atzizkiez) a la vista, ante los ojos, delante de los ojos"
+  },
+  {
+    "id": 33647,
+    "basque": "begietaraino",
+    "spanish": "enteramente, completamente, del todo, de pleno"
+  },
+  {
+    "id": 33648,
+    "basque": "jakitera",
+    "spanish": "de haber sabido"
+  },
+  {
+    "id": 33649,
+    "basque": "jakinean",
+    "spanish": "a sabiendas"
+  },
+  {
+    "id": 33650,
+    "basque": "nire/gure jakinean",
+    "spanish": "que yo sepa, que nosotros sepamos"
+  },
+  {
+    "id": 33651,
+    "basque": "jakin",
+    "spanish": "1  izond. determinado, -a, preciso, -a; notorio, -a, sabido, -a // 2  izond. sabedor, -a, conocedor, -a // 3  iz. conocimiento, saber"
+  },
+  {
+    "id": 33652,
+    "basque": "mugiarazi, mugiaraz, mugiarazten",
+    "spanish": "du ad. Mugitzera behartu."
+  },
+  {
+    "id": 33653,
+    "basque": "sostean",
+    "spanish": "repentinamente"
+  },
+  {
+    "id": 33654,
+    "basque": "sosteko",
+    "spanish": "izlag. repentino, -a, súbito, -a"
+  },
+  {
+    "id": 33655,
+    "basque": "sostenitu",
+    "spanish": "iz./izond. (Mus.) (Heg.) sostenido"
+  },
+  {
+    "id": 33656,
+    "basque": "sostenitu bikoitz",
+    "spanish": "(Mus.) (Heg.) doble sostenido"
+  },
+  {
+    "id": 33657,
+    "basque": "hari",
+    "spanish": "1 iz. hilo // 2 iz. (hed.) hilo, cable // 3 iz. [kontakizuna, mintzaldia, elkarrizketa] hilo // 4 iz. (Mus.) cuerda // 5 iz. (Teknol.) rosca"
+  },
+  {
+    "id": 33658,
+    "basque": "harian; hari-harian; hari batean",
+    "spanish": "(estar) a punto de; (colgar) de un hilo, (pender) de un hilo; en la cuerda floja"
+  },
+  {
+    "id": 33659,
+    "basque": "hari eroale",
+    "spanish": "(Fis.) hilo conductor"
+  },
+  {
+    "id": 33660,
+    "basque": "jalgi, jalgi, jalgitzen",
+    "spanish": "1  da ad. (Ipar.) salir // 3  du ad. (Ipar.) sacar; obtener"
   }
 ]
