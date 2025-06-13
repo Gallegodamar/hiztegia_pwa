@@ -86415,11 +86415,6 @@
     "spanish": "iz. vigor, fuerza, energía, brío"
   },
   {
-    "id": 17294,
-    "basque": "kementsu",
-    "spanish": "dinámico"
-  },
-  {
     "id": 17295,
     "basque": "kemindu, kemin(du), kemintzen",
     "spanish": "da/du ad. dar o tomar sabor a humo [los alimentos]"
@@ -135180,11 +135175,6 @@
     "spanish": "1  izond. exacto, -a, preciso, -a; minucioso, -a, detallado, -a; concreto, -a // 2  adb. exactamente, con exactitud, con precisión, en/al detalle, detalladamente"
   },
   {
-    "id": 27050,
-    "basque": "zehatz-mehatz",
-    "spanish": "detalladamente"
-  },
-  {
     "id": 27051,
     "basque": "Zehatzago esanda…",
     "spanish": "Más exactamente..."
@@ -168103,5 +168093,320 @@
     "id": 33660,
     "basque": "jalgi, jalgi, jalgitzen",
     "spanish": "1  da ad. (Ipar.) salir // 3  du ad. (Ipar.) sacar; obtener"
+  },
+  {
+    "id": 33661,
+    "basque": "orotariko",
+    "spanish": "izlag. general; universal"
+  },
+  {
+    "id": 33662,
+    "basque": "abeletxe",
+    "spanish": "1 iz. establo, majada, redil // 2 iz. granja"
+  },
+  {
+    "id": 33663,
+    "basque": "aitzintxe",
+    "spanish": "adb. (un) poco antes, hace poco (tiempo)"
+  },
+  {
+    "id": 33664,
+    "basque": "aldaetxe",
+    "spanish": "iz. casa cercana a la iglesia donde los campesinos que vivían lejos se mudaban de ropa o calzado para ir a la iglesia"
+  },
+  {
+    "id": 33665,
+    "basque": "amaetxe",
+    "spanish": "iz. casa de maternidad"
+  },
+  {
+    "id": 33666,
+    "basque": "aldetxe",
+    "spanish": "1 iz. (B) tejavana junto a una casa // 2 iz. (B) casa ajena"
+  },
+  {
+    "id": 33667,
+    "basque": "amaxe",
+    "spanish": "1 iz. (B) abuela // 2 iz. (B) suegra, madre política"
+  },
+  {
+    "id": 33668,
+    "basque": "babes-etxe",
+    "spanish": "asilo, hospicio"
+  },
+  {
+    "id": 33669,
+    "basque": "bahitetxe",
+    "spanish": "iz. casa de empeño(s), monte de piedad"
+  },
+  {
+    "id": 33670,
+    "basque": "bai horixe!",
+    "spanish": "sí por cierto; claro que sí, naturalmente que sí; ya lo creo; sí, cómo no"
+  },
+  {
+    "id": 33671,
+    "basque": "bainuetxe",
+    "spanish": "iz. balneario, casa de baños"
+  },
+  {
+    "id": 33672,
+    "basque": "banketxe",
+    "spanish": "iz. (Ekon.) banco [sede, oficina]"
+  },
+  {
+    "id": 33673,
+    "basque": "baratxe",
+    "spanish": "adb. (Ipar.) despacio, lentamente, poco a poco, paulatinamente"
+  },
+  {
+    "id": 33674,
+    "basque": "baserri-etxe",
+    "spanish": "caserío"
+  },
+  {
+    "id": 33675,
+    "basque": "barauts-etxe",
+    "spanish": "(Teknol.) portabrocas"
+  },
+  {
+    "id": 33676,
+    "basque": "baratxe-baratxe",
+    "spanish": "muy despacio, lentamente, paulatinamente"
+  },
+  {
+    "id": 33677,
+    "basque": "basetxe",
+    "spanish": "iz. caserío"
+  },
+  {
+    "id": 33678,
+    "basque": "terraila-etxe",
+    "spanish": "(Teknol.) volvedor"
+  },
+  {
+    "id": 33679,
+    "basque": "txiro-etxe",
+    "spanish": "casa de beneficencia"
+  },
+  {
+    "id": 33680,
+    "basque": "udaletxe",
+    "spanish": "iz. casa consistorial; ayuntamiento [edificio]"
+  },
+  {
+    "id": 33681,
+    "basque": "ume-kotxe",
+    "spanish": "(Heg.) coche de niño"
+  },
+  {
+    "id": 33682,
+    "basque": "mina-etxe",
+    "spanish": "portaminas"
+  },
+  {
+    "id": 33683,
+    "basque": "oinetxe",
+    "spanish": "1 iz. casa solariega, casa solar // 2 iz. horma del zapato"
+  },
+  {
+    "id": 33684,
+    "basque": "oraintxe",
+    "spanish": "adb. ahora mismo"
+  },
+  {
+    "id": 33685,
+    "basque": "orga-etxe",
+    "spanish": "conjunto de los adrales"
+  },
+  {
+    "id": 33686,
+    "basque": "partxe",
+    "spanish": "1 iz. (Heg.) (herr.) emplasto, cataplasma, vendaje // 2 iz. (Heg.) (herr.) remiendo; petacho"
+  },
+  {
+    "id": 33687,
+    "basque": "peluxe",
+    "spanish": "1 iz. (Ipar.) [oihala] felpa, peluche // 2 iz. [panpina] peluche"
+  },
+  {
+    "id": 33688,
+    "basque": "perletxe",
+    "spanish": "iz. (Med.) perleche, boquera"
+  },
+  {
+    "id": 33689,
+    "basque": "polizia-etxe",
+    "spanish": "comisaría"
+  },
+  {
+    "id": 33690,
+    "basque": "pontxe",
+    "spanish": "iz. ponche"
+  },
+  {
+    "id": 33691,
+    "basque": "portxe",
+    "spanish": "iz. porche"
+  },
+  {
+    "id": 33692,
+    "basque": "priore-etxe",
+    "spanish": "(Erl.) priorato"
+  },
+  {
+    "id": 33693,
+    "basque": "produkzio-etxe",
+    "spanish": "productora [empresa]"
+  },
+  {
+    "id": 33694,
+    "basque": "putetxe",
+    "spanish": "iz. (arrt.) casa de putas, casa de citas"
+  },
+  {
+    "id": 33695,
+    "basque": "serora-etxe",
+    "spanish": "1 casa donde habita la mujer que cuida la iglesia // 2 convento de monjas // 3 beaterio"
+  },
+  {
+    "id": 33696,
+    "basque": "klixe",
+    "spanish": "1 iz. [askotan erabiltzen den esaldi edo ideia] cliché // 2 iz. (Arg.) (Art. Graf.) cliché"
+  },
+  {
+    "id": 33697,
+    "basque": "kontsuletxe",
+    "spanish": "iz. consulado [casa o residencia]"
+  },
+  {
+    "id": 33698,
+    "basque": "kotxe",
+    "spanish": "1 iz. [zalgurdia, bagoia...] coche // 2 iz. (Heg.) [haurrentzakoa] coche (de niño) // 3 iz. Ik. 2 auto, automobil"
+  },
+  {
+    "id": 33699,
+    "basque": "lakoxe",
+    "spanish": "izlag. exactamente igual, igual, semejante a"
+  },
+  {
+    "id": 33700,
+    "basque": "landerretxe",
+    "spanish": "iz. asilo, casa de beneficencia"
+  },
+  {
+    "id": 33701,
+    "basque": "lanpara-etxe",
+    "spanish": "portalámparas"
+  },
+  {
+    "id": 33702,
+    "basque": "Leatxe",
+    "spanish": "Leache"
+  },
+  {
+    "id": 33703,
+    "basque": "lekaidetxe",
+    "spanish": "iz. convento [de frailes]"
+  },
+  {
+    "id": 33704,
+    "basque": "legetxe",
+    "spanish": "adb. (B) como, de igual modo"
+  },
+  {
+    "id": 33705,
+    "basque": "afixu",
+    "spanish": "iz. (Hizkl.) afijo"
+  },
+  {
+    "id": 33706,
+    "basque": "aho-sexu",
+    "spanish": "sexo oral"
+  },
+  {
+    "id": 33708,
+    "basque": "antxu",
+    "spanish": "iz. cordero de un año, añojo, recental; cabra de un año"
+  },
+  {
+    "id": 33709,
+    "basque": "artekotxu",
+    "spanish": "iz. (B) pequeño rencor"
+  },
+  {
+    "id": 33710,
+    "basque": "automespretxu",
+    "spanish": "iz. autodesprecio"
+  },
+  {
+    "id": 33711,
+    "basque": "baxu",
+    "spanish": "1 izond. [garaiera] bajo, -a // 2 izond. [magnitudea] bajo, -a // 3 iz./izond. (Mus.) bajo, -a; grave"
+  },
+  {
+    "id": 33712,
+    "basque": "bitamina-konplexu",
+    "spanish": "(Med.) complejo vitamínico"
+  },
+  {
+    "id": 33713,
+    "basque": "datu-fluxu",
+    "spanish": "(Inform.) flujo de datos"
+  },
+  {
+    "id": 33714,
+    "basque": "Edipo-konplexu",
+    "spanish": "(Psikol.) complejo de Edipo"
+  },
+  {
+    "id": 33715,
+    "basque": "enpatxu",
+    "spanish": "1 iz. (Ipar.) obstáculo, traba, embarazo // 2 iz. (Ipar.) tentación, escándalo // 3 iz. (Heg.) (herr.) empacho, indigestión"
+  },
+  {
+    "id": 33716,
+    "basque": "kautxu",
+    "spanish": "iz. caucho"
+  },
+  {
+    "id": 33717,
+    "basque": "hurrenez hurren",
+    "spanish": "sucesivamente, ordenadamente, cronológicamente; respectivamente"
+  },
+  {
+    "id": 33718,
+    "basque": "desira",
+    "spanish": "1 iz. (Ipar.) deseo // 2 iz. deseo (sexual), apetito sexual"
+  },
+  {
+    "id": 33719,
+    "basque": "desira-zerrenda",
+    "spanish": "lista de deseos"
+  },
+  {
+    "id": 33720,
+    "basque": "katabut",
+    "spanish": "iz. (zah.) ataúd"
+  },
+  {
+    "id": 33721,
+    "basque": "fier",
+    "spanish": "1 izond. (GN/Ipar.) altanero, -a; orgulloso, -a; altivo, -a // 2 izond. (GN/Ipar.) fuerte, indomable; laborioso, -a"
+  },
+  {
+    "id": 33722,
+    "basque": "kementsu",
+    "spanish": "izond. fuerte, robusto, -a, enérgico, -a, vigoroso, -a; valiente, valeroso, -a"
+  },
+  {
+    "id": 33723,
+    "basque": "elasturi",
+    "spanish": "iz. (Ipar.) palabrería, charlatanería; elocuencia, fluidez"
+  },
+  {
+    "id": 33724,
+    "basque": "zehatz-mehatz",
+    "spanish": "exactamente, con exactitud, en/al detalle, detalladamente, minuciosamente, con pelos y señales, con puntos y comas, meticulosamente"
   }
 ]
