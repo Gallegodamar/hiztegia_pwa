@@ -29660,11 +29660,6 @@
     "spanish": "iz. (Ipar.) sustento, alimento, lo necesario para vivir"
   },
   {
-    "id": 5939,
-    "basque": "bizigarri",
-    "spanish": "lo que da vida, lo que vivifica"
-  },
-  {
     "id": 5940,
     "basque": "bizigarritasun",
     "spanish": "iz. (Hirgz.) habitabilidad"
@@ -55208,11 +55203,6 @@
     "id": 11049,
     "basque": "ezuste",
     "spanish": "iz. sorpresa, cosa inesperada"
-  },
-  {
-    "id": 11050,
-    "basque": "ezustean",
-    "spanish": "de improviso, por sorpresa"
   },
   {
     "id": 11051,
@@ -168408,5 +168398,45 @@
     "id": 33724,
     "basque": "zehatz-mehatz",
     "spanish": "exactamente, con exactitud, en/al detalle, detalladamente, minuciosamente, con pelos y señales, con puntos y comas, meticulosamente"
+  },
+  {
+    "id": 33725,
+    "basque": "urruntzaile",
+    "spanish": "izond. (Anat.) abductor"
+  },
+  {
+    "id": 33726,
+    "basque": "bizigarri",
+    "spanish": "1 iz. lo que da vida, lo que vivifica // 2 iz. reconstituyente; tonificante; estimulante // 3 iz. condimento; lo que realza el sabor // 4 iz. [janaria, bizigaia] sustento, alimento, víveres // 5 izond. vivificante, estimulante; que anima, que da vigor // 6 izond. habitable"
+  },
+  {
+    "id": 33727,
+    "basque": "hirigintza",
+    "spanish": "iz. urbanización, planificación urbana; urbanismo"
+  },
+  {
+    "id": 33728,
+    "basque": "gogo",
+    "spanish": "1 iz. mente, pensamiento; espíritu, alma // 2 iz. memoria, recuerdo // 3 iz. deseo, voluntad, gana, ánimo // 4 iz. (Erl.) espíritu // 5 (Fil.) (Psikol.) mente"
+  },
+  {
+    "id": 33729,
+    "basque": "gogoargi",
+    "spanish": "1 izond. alegre, jovial, gozoso, -a // 2 iz. alegría, jovialidad, buen humor"
+  },
+  {
+    "id": 33730,
+    "basque": "gogoan jaso",
+    "spanish": "guardar en la memoria, memorizar"
+  },
+  {
+    "id": 33731,
+    "basque": "hitzetik hortzera",
+    "spanish": "1 repentinamente, inesperadamente; al instante // 2 continuamente, incesantemente, sin cesar"
+  },
+  {
+    "id": 33732,
+    "basque": "ezustean",
+    "spanish": "adb. de imprevisto, por sorpresa, inesperadamente; por arte de birlibirloque, (como) por arte de magia"
   }
 ]
