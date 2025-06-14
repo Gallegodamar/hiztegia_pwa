@@ -103290,11 +103290,6 @@
     "spanish": "iz. mutismo, silencio"
   },
   {
-    "id": 20673,
-    "basque": "mutur",
-    "spanish": "hocico, morro"
-  },
-  {
     "id": 20674,
     "basque": "mutur egin",
     "spanish": "(Ipar.) enfadarse; ponerse de morros, torcer el morro"
@@ -103487,7 +103482,7 @@
   {
     "id": 20712,
     "basque": "nabaritu, nabari(tu), nabaritzen",
-    "spanish": "da ad./ zaio ad. notarse; ser evidente/obvio, estar a la vista // notar; percibir, advertir, apreciar"
+    "spanish": "1  da ad./ zaio ad. notarse; ser evidente/obvio, estar a la vista // 2  du ad. notar; percibir, advertir, apreciar"
   },
   {
     "id": 20713,
@@ -168483,5 +168478,75 @@
     "id": 33741,
     "basque": "prekario",
     "spanish": "izond. (Zuz.) precario, -a"
+  },
+  {
+    "id": 33742,
+    "basque": "gora eta behera",
+    "spanish": "1 arriba y abajo; de un lado a otro // 2 sin cesar, insistiendo en, insistiendo sobre"
+  },
+  {
+    "id": 33743,
+    "basque": "gora handiko",
+    "spanish": "1 costoso, -a, caro, -a, valioso, -a // 2 importante, trascendental"
+  },
+  {
+    "id": 33744,
+    "basque": "gora jo",
+    "spanish": "(Zuz.) apelar"
+  },
+  {
+    "id": 33745,
+    "basque": "gorabehera",
+    "spanish": "1 iz. (batez ere pl.) alteraciones, altibajos, vaivenes, cambio(s); alteración, variación; fluctuación; mareas; diferencia; desigualdad del terreno, desnivel // 2 iz. (batez ere pl.) peripecia, aventura; adversidad, infortunio; trastorno, desorden; discrepancia, disparidad; incidencia, vicisitud // 3 iz. (lo) fundamental, (lo) importante, (lo) decisivo // 4 iz. importancia, trascendencia, transcendencia, interés // 5 postp. sin embargo, a pesar de // 6 postp. más o menos, arriba o abajo // 7 postp. (batez ere ezezko testuinguruetan) a causa de, por"
+  },
+  {
+    "id": 33746,
+    "basque": "gorago",
+    "spanish": "adb. más arriba"
+  },
+  {
+    "id": 33747,
+    "basque": "gora-goraka",
+    "spanish": "1 dando vivas, vitoreando // 2 dando náuseas, vomitando // 3 (egon, ibili... aditzekin) furioso, -a, enfadado, -a (con los verbos estar, andar...)"
+  },
+  {
+    "id": 33748,
+    "basque": "gorako",
+    "spanish": "1 iz. vómito; (lo) vomitado // 2 iz. ganas de vomitar, náuseas"
+  },
+  {
+    "id": 33749,
+    "basque": "gorako jauzi",
+    "spanish": "(Kir.) salto de altura"
+  },
+  {
+    "id": 33750,
+    "basque": "goranzko",
+    "spanish": "1 iz. asco, náusea, ganas de vomitar // 2 izlag. ascendente, que sube; rampante // 3 izlag. (Fis.) ascensional"
+  },
+  {
+    "id": 33751,
+    "basque": "gorarik",
+    "spanish": "adb. (Ipar.) en alto, hacia arriba"
+  },
+  {
+    "id": 33752,
+    "basque": "gorati",
+    "spanish": "1 izond. altivo, -a, arrogante; altisonante // 2 adb. altivamente"
+  },
+  {
+    "id": 33753,
+    "basque": "goratik",
+    "spanish": "1 adb. (Ipar.) de lo alto, desde lo alto, desde arriba // 2 adb. (Ipar.) en voz alta; solemnemente"
+  },
+  {
+    "id": 33754,
+    "basque": "goraxko",
+    "spanish": "1 izond. (Ipar.) un poco alto, -a // 2 adb. (Ipar.) (en un lugar) un poco alto, -a; en voz un poco alta"
+  },
+  {
+    "id": 33755,
+    "basque": "mutur",
+    "spanish": "1 iz. hocico, morro // 2 iz. (lgart.) morro // 3 iz. punta, cabo, extremo // 4 iz. pedazo, trozo // 5 iz. [goldearena] reja"
   }
 ]
