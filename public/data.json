@@ -4685,11 +4685,6 @@
     "spanish": "iz. (Bot.) aguacate (Persea gratissima)"
   },
   {
-    "id": 938,
-    "basque": "ahul",
-    "spanish": "débil"
-  },
-  {
     "id": 939,
     "basque": "ahulaldi",
     "spanish": "iz. (momento de) debilidad, (momento de) flaqueza; desfallecimiento"
@@ -6877,7 +6872,7 @@
   {
     "id": 1376,
     "basque": "alde bat(era) utzi",
-    "spanish": "(Ipar.) definitivamente"
+    "spanish": "dejar de lado, no tomar en cuenta, pasar por alto; abandonar"
   },
   {
     "id": 1377,
@@ -9652,7 +9647,7 @@
   {
     "id": 1933,
     "basque": "antzina",
-    "spanish": "antigüedad"
+    "spanish": " adb. hace tiempo, antiguamente"
   },
   {
     "id": 1934,
@@ -19313,11 +19308,6 @@
     "id": 3868,
     "basque": "baldankeria",
     "spanish": "torpeza; desaseo, desaliño; dejadez; descuido; desidia; pereza"
-  },
-  {
-    "id": 3869,
-    "basque": "baldar",
-    "spanish": "desgarbado, -a"
   },
   {
     "id": 3870,
@@ -93590,11 +93580,6 @@
     "spanish": "adj./iz. leproso, -a"
   },
   {
-    "id": 18732,
-    "basque": "legez",
-    "spanish": "como; en calidad de"
-  },
-  {
     "id": 18733,
     "basque": "legez besteko proposamen",
     "spanish": "proposición no de ley"
@@ -103967,7 +103952,7 @@
   {
     "id": 20809,
     "basque": "nahigabe",
-    "spanish": "1  iz. pesar, disgusto, aflicción"
+    "spanish": "1  iz. pesar, disgusto, aflicción // 2  iz. [bereziki urdailaz] indisposición, malestar"
   },
   {
     "id": 20810,
@@ -108148,11 +108133,6 @@
     "id": 21645,
     "basque": "olerkaritza",
     "spanish": "iz. poesía"
-  },
-  {
-    "id": 21646,
-    "basque": "olerki",
-    "spanish": "poesía, poema"
   },
   {
     "id": 21647,
@@ -132365,11 +132345,6 @@
     "spanish": "iz. broza [montón de hierbas para quemar]"
   },
   {
-    "id": 26491,
-    "basque": "zakar",
-    "spanish": "brusco, -a"
-  },
-  {
     "id": 26492,
     "basque": "zakarda",
     "spanish": "iz. (E) haya pequeña"
@@ -134773,11 +134748,6 @@
     "id": 26972,
     "basque": "zaurgarritasun",
     "spanish": "iz. vulnerabilidad"
-  },
-  {
-    "id": 26973,
-    "basque": "zauri",
-    "spanish": "herida"
   },
   {
     "id": 26974,
@@ -168548,5 +168518,200 @@
     "id": 33755,
     "basque": "mutur",
     "spanish": "1 iz. hocico, morro // 2 iz. (lgart.) morro // 3 iz. punta, cabo, extremo // 4 iz. pedazo, trozo // 5 iz. [goldearena] reja"
+  },
+  {
+    "id": 33756,
+    "basque": "onu",
+    "spanish": "iz. consejo"
+  },
+  {
+    "id": 33757,
+    "basque": "kontseilu",
+    "spanish": "1 iz. [aholkua] consejo; opinión, sugerencia // 2 iz. [batza, erakundea] consejo"
+  },
+  {
+    "id": 33758,
+    "basque": "probetxu",
+    "spanish": "iz. provecho"
+  },
+  {
+    "id": 33759,
+    "basque": "errebenio",
+    "spanish": "iz. (Ipar.) (herr.) beneficio, ganancia"
+  },
+  {
+    "id": 33760,
+    "basque": "onuste",
+    "spanish": "iz. buena fe, buena intención"
+  },
+  {
+    "id": 33761,
+    "basque": "iseka",
+    "spanish": "iz. burla, mofa; desaire"
+  },
+  {
+    "id": 33762,
+    "basque": "interbentzio",
+    "spanish": "1 iz. [agintaritzarena] intervención; participación, injerencia; mediatización // 2 iz. [ikuskatzea] intervención"
+  },
+  {
+    "id": 33763,
+    "basque": "interbentzionismo",
+    "spanish": "iz. intervencionismo"
+  },
+  {
+    "id": 33764,
+    "basque": "interbentzionista",
+    "spanish": "iz./izond. intervencionista"
+  },
+  {
+    "id": 33765,
+    "basque": "ukatzaile",
+    "spanish": "iz./izond. negacionista"
+  },
+  {
+    "id": 33766,
+    "basque": "zauri",
+    "spanish": "1 iz. herida; llaga // 2 iz. (hed.) herida, pena, dolor // 3 iz. plaga"
+  },
+  {
+    "id": 33767,
+    "basque": "hausnarka",
+    "spanish": "1 adb. rumiando // 2 adb. (hed.) reflexionando, meditando, pensando"
+  },
+  {
+    "id": 33768,
+    "basque": "hausnarrean",
+    "spanish": "1 rumiando // 2 (hed.) reflexionando, meditando, pensando"
+  },
+  {
+    "id": 33769,
+    "basque": "ahul",
+    "spanish": "1 izond. débil, flojo, -a, endeble, sin fundamento // 2 izond. [kaltebera] vulnerable, desprotegido, -a // 3 izond. insípido, -a, que no tiene sabor // 4 izond. [lurra] poco fértil, endeble // 5 izond. (Fis.) [interakzioa] débil // 6 izond. (Hizkl.) débil // 7 izond. (Kim.) débil // 8 izond. [lurra] estéril // 9 adb. débil"
+  },
+  {
+    "id": 33770,
+    "basque": "ahalegine(t)an; ahaleginez",
+    "spanish": "con todas las fuerzas, en lo posible, esforzándose"
+  },
+  {
+    "id": 33771,
+    "basque": "ahalegintxo",
+    "spanish": "iz. (pequeño) esfuerzo; empeño; tentativa, intento"
+  },
+  {
+    "id": 33772,
+    "basque": "ahal den neurrian/heinean/tamainan",
+    "spanish": "en la medida de lo posible"
+  },
+  {
+    "id": 33773,
+    "basque": "ahal",
+    "spanish": "1 iz. poder; posibilidad // 2 iz. poder, fuerza; posibilidad, lo posible // 3 (Zuz.) [ahalordea] poder [que se otorga a alguien] // 4 partik. (geroaldiko aditz perifrastikoen aditz laguntzailearen aurretik) ojalá // 5 partik. (galderetan) Ik. al"
+  },
+  {
+    "id": 33774,
+    "basque": "ahalezko",
+    "spanish": "1 izlag. posible // 2 izlag. (Hizkl.) potencial"
+  },
+  {
+    "id": 33775,
+    "basque": "ahalgo",
+    "spanish": "1 iz. vigor, brío, fuerza, energía; ímpetu // 2 iz. capacidad, facultad, poder, poderío; fuerza de voluntad, ánimo"
+  },
+  {
+    "id": 33776,
+    "basque": "ahalguzti",
+    "spanish": "Ik. ahalguztiduntasun"
+  },
+  {
+    "id": 33777,
+    "basque": "ahalorotako",
+    "spanish": "izond. (Ipar.) todopoderoso, -a"
+  },
+  {
+    "id": 33778,
+    "basque": "antzinaera",
+    "spanish": "iz. (zah.) antigüedad; época antigua"
+  },
+  {
+    "id": 33779,
+    "basque": "antzinaera",
+    "spanish": "iz. (zah.) antigüedad; época antigua"
+  },
+  {
+    "id": 33780,
+    "basque": "antzinako",
+    "spanish": "iz. (pl.) antiguos, antepasados"
+  },
+  {
+    "id": 33781,
+    "basque": "antzinate",
+    "spanish": "1 iz. antigüedad, tiempos antiguos // 2 iz. [Historiaren atala] Ik. antzinaro"
+  },
+  {
+    "id": 33782,
+    "basque": "legez",
+    "spanish": "adb. legalmente, legítimamente // postp. (B) como; en calidad de"
+  },
+  {
+    "id": 33783,
+    "basque": "lerde",
+    "spanish": "iz. baba; espumarajo"
+  },
+  {
+    "id": 33784,
+    "basque": "olerki",
+    "spanish": "1 iz. [olerti-lana] poesía, poema // 2 iz. [olertia] poesía"
+  },
+  {
+    "id": 33785,
+    "basque": "zokoratu, zokora(tu), zokoratzen",
+    "spanish": "1 da/du ad. arrinconar, retirar a un rincón // 2 da/du ad. (hed.) retirar, apartar, arrinconar, relegar"
+  },
+  {
+    "id": 33786,
+    "basque": "zakar",
+    "spanish": "1 iz. (pl.) basura; desperdicio; broza; escombro // 2 iz. partícula de suciedad que se introduce en el ojo // 3 iz. Ik. zarakar // 1 izond. brusco, -a, áspero, -a, desagradable; grosero, -a; incívico, -a, incivil // 2 izond. [jokaerari buruz] torpe, tosco, -a, rudo, -a, rasposo, -a // 3 izond. [haizeaz, beroaz] duro, -a, fuerte, violento, -a // 4 izond. [latza] áspero, -a, rugoso, -a, basto, -a, rasposo, -a"
+  },
+  {
+    "id": 33787,
+    "basque": "ximur",
+    "spanish": "1 iz. adkor. Zimurra. // 2 adj. adkor. Zimurtua, zimurrak dituena."
+  },
+  {
+    "id": 33788,
+    "basque": "petral",
+    "spanish": "1 iz. [jantziena] ruedo, orillo, borde // 2 iz. [zamariena] cincha // 3 iz. (Eraik.) correa // 4 izond. sinvergüenza, desvergonzado, -a, insolente, descarado, -a; palabra insultante sin ningún significado concreto // 5 izond. [gauzez mintzatuz] desagradable, desapacible"
+  },
+  {
+    "id": 33789,
+    "basque": "okela",
+    "spanish": "1 iz. (batez ere B) [jatekoa] carne // 2 iz. (batez ere Ipar.) [janari-puska] trozo, pedazo, rebanada, tajada, lonja, raja"
+  },
+  {
+    "id": 33790,
+    "basque": "okelajale",
+    "spanish": "iz./izond. carnicero, -a"
+  },
+  {
+    "id": 33791,
+    "basque": "okelatarako",
+    "spanish": "izlag. para carne; de carne"
+  },
+  {
+    "id": 33792,
+    "basque": "murritz",
+    "spanish": "1 adj. Soila. // 2 adj. Laburra, motza. // 3 adb. Murriztasunez."
+  },
+  {
+    "id": 33793,
+    "basque": "ahala",
+    "spanish": "1 postpos. Batez ere Heg. Bezain laster; -(e)n neurrian. //  2 postpos. Ahal den beste."
+  },
+  {
+    "id": 33794,
+    "basque": "baldar",
+    "spanish": "1 izond. [pertsona] torpe; patoso, -a; desmañado, -a; desgarbado, -a; desaliñado, -a; descuidado, -a // 2 izond. [gauza, objektua] torpe, tosco, -a, basto, -a, rudo, -a; falto de gracia, chapucero, -a, mediocre; descuidado, -a, desmañado, -a // 3 adb. [baldarki] torpemente, torpe; toscamente, tosco, -a; rudamente, rudo, -a, groseramente, grosero, -a"
   }
 ]
