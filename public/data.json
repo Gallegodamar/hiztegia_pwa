@@ -28067,7 +28067,7 @@
   {
     "id": 5622,
     "basque": "bihurtu, bihur, bihurtzen",
-    "spanish": "volver, regresar, (re)tornar; girar, dar la vuelta // devolver, hacer volver; ofrendar, rendir, dar"
+    "spanish": "1  da ad. volver, regresar, (re)tornar; girar, dar la vuelta // 2  da ad. (osagarria -ra kasu-atzizkiaz) resumirse, reducirse // 3  du ad. devolver, hacer volver; ofrendar, rendir, dar // 4  du ad. retorcer, torcer, hacerse una torcedura // 5  du ad. traducir // 6  da/du ad. (nor osagaia, izena denean, gehienetan mugagabean) convertir(se), transformar(se), volver(se); hacerse, llegar a ser // 7  da/du ad. [begirada] dirigir, volver // 8  zaio ad. (Ipar.) hacer frente, enfrentarse"
   },
   {
     "id": 5623,
@@ -96168,11 +96168,6 @@
     "id": 19251,
     "basque": "lotune",
     "spanish": "1  iz. junta, juntura, atadero, unión // 2  iz. nudo [de carreteras] // 3  iz. empalme // 4  iz. (Anat.) inserción"
-  },
-  {
-    "id": 19252,
-    "basque": "lotura",
-    "spanish": "relación, conexión"
   },
   {
     "id": 19253,
@@ -168793,5 +168788,70 @@
     "id": 33811,
     "basque": "-tik libre",
     "spanish": "exento de; libre de"
+  },
+  {
+    "id": 33812,
+    "basque": "konklusio",
+    "spanish": "1 iz. conclusión, consecuencia // 2 iz. (Log.) conclusión"
+  },
+  {
+    "id": 33813,
+    "basque": "ondore",
+    "spanish": "1 iz. consecuencia, resultado, efecto // 2 iz. descendencia, prole"
+  },
+  {
+    "id": 33814,
+    "basque": "ondoren",
+    "spanish": "1 adb. (lekuzko testuinguruetan; bakarrik edo postposizioan, dagokion izen-sintagmak -en kasu-atzizkia hartzen duela; delako sintagmako izenak zerbait bizigabea adierazten badu eta atzean adjektiborik ez badu, -en atzizkia eta mugatzailea gal ditzake) (por) detrás, tras; siguiente // 2 adb. (denborazko testuinguruetan; bakarrik edo postposizioan, dagokion izen-sintagmak -en kasu-atzizkia hartzen duela; delako sintagmako izenak zerbait bizigabea adierazten badu eta atzean adjektiborik ez badu, -en atzizkia eta mugatzailea gal ditzake; aditzaren era burutuaren ondoan ere ager daiteke) después de, tras, detrás de, a continuación // iz. consecuencia, resultado, efecto"
+  },
+  {
+    "id": 33815,
+    "basque": "lotura",
+    "spanish": "1 iz. junta, juntura, atadura, ligadura; unión, conexión, vínculo // 2 iz. venda, vendaje, apósito // 3 iz. (batez ere B) fardo, carga // 4 iz. relación, correspondencia // 5 iz. (Hizkl.) conexión // 6 iz. (Inform.) enlace, vínculo // 7 iz. (Kim.) enlace"
+  },
+  {
+    "id": 33816,
+    "basque": "nahiez",
+    "spanish": "iz. contrariedad, disgusto"
+  },
+  {
+    "id": 33817,
+    "basque": "nahi eta nahi ez",
+    "spanish": "a la fuerza, necesariamente, sin otro remedio; inevitablemente"
+  },
+  {
+    "id": 33818,
+    "basque": "nekearen nekez",
+    "spanish": "de tanto esfuerzo, de tanto trabajo, de pura fatiga"
+  },
+  {
+    "id": 33819,
+    "basque": "neurez",
+    "spanish": "adb. por mí mismo, de mí mismo"
+  },
+  {
+    "id": 33820,
+    "basque": "oharkabez",
+    "spanish": "inadvertidamente, de manera inadvertida, sin advertencia"
+  },
+  {
+    "id": 33821,
+    "basque": "on beharrez",
+    "spanish": "con buena intención; de buena fe"
+  },
+  {
+    "id": 33822,
+    "basque": "partez",
+    "spanish": "adb. en parte, parcialmente, en cierta medida"
+  },
+  {
+    "id": 33823,
+    "basque": "suilez",
+    "spanish": "a cántaros, a mares [referido a la lluvia]"
+  },
+  {
+    "id": 33824,
+    "basque": "tanpez",
+    "spanish": "adb. de repente, súbitamente"
   }
 ]
