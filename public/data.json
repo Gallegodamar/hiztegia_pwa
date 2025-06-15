@@ -10137,7 +10137,7 @@
   {
     "id": 2031,
     "basque": "apo",
-    "spanish": "sapo"
+    "spanish": "1  iz. (Zool.) sapo // 2  iz. verraco //  iz. (Zool.) pezuña, casco"
   },
   {
     "id": 2032,
@@ -93470,11 +93470,6 @@
     "spanish": "iz. (Zuz.) legatario, -a"
   },
   {
-    "id": 18710,
-    "basque": "lege",
-    "spanish": "ley"
-  },
-  {
     "id": 18711,
     "basque": "lege izan",
     "spanish": "ser ley; ser legal"
@@ -168713,5 +168708,90 @@
     "id": 33794,
     "basque": "baldar",
     "spanish": "1 izond. [pertsona] torpe; patoso, -a; desmañado, -a; desgarbado, -a; desaliñado, -a; descuidado, -a // 2 izond. [gauza, objektua] torpe, tosco, -a, basto, -a, rudo, -a; falto de gracia, chapucero, -a, mediocre; descuidado, -a, desmañado, -a // 3 adb. [baldarki] torpemente, torpe; toscamente, tosco, -a; rudamente, rudo, -a, groseramente, grosero, -a"
+  },
+  {
+    "id": 33795,
+    "basque": "lege",
+    "spanish": "1 iz. ley // 2 iz. regla, reglamento // 3 iz. [metal batena] ley // 4 iz. [gosari, bazkari eta afariari buruz] refacción, colación, comida ligera // 5 iz. (Fis.) (Kim.) ley // 6 iz. (Mat.) ley // 7 iz. (Zuz.) (pl.) legislación [arau-multzoa]"
+  },
+  {
+    "id": 33796,
+    "basque": "Jainkoaren lege",
+    "spanish": "ley de Dios"
+  },
+  {
+    "id": 33797,
+    "basque": "lege natural",
+    "spanish": "ley natural"
+  },
+  {
+    "id": 33798,
+    "basque": "legez kontrako",
+    "spanish": "ilegal"
+  },
+  {
+    "id": 33799,
+    "basque": "legez kanpoko",
+    "spanish": "ilegal"
+  },
+  {
+    "id": 33800,
+    "basque": "garaiz kanpo",
+    "spanish": "a destiempo, a deshora(s); fuera de temporada"
+  },
+  {
+    "id": 33801,
+    "basque": "kanpo",
+    "spanish": "1 iz. (leku-denborazko kasu-atzizkiez) fuera; exterior, parte/lado exterior // 2 iz. (batez ere hitz-elkarteen lehen osagai gisa) exterior // 3 iz. exterior, entorno; apariencia, aspecto // 4 iz. campo, tierra, terreno"
+  },
+  {
+    "id": 33802,
+    "basque": "legez kanpo",
+    "spanish": "fuera de la ley"
+  },
+  {
+    "id": 33803,
+    "basque": "lineaz kanpo",
+    "spanish": "(Inform.) fuera de línea, offline, off line, off-line"
+  },
+  {
+    "id": 33804,
+    "basque": "arriskutik kanpo",
+    "spanish": "fuera de peligro"
+  },
+  {
+    "id": 33805,
+    "basque": "-tik aurrera",
+    "spanish": "de... en adelante, a partir de [usualmente en sentido temporal]"
+  },
+  {
+    "id": 33806,
+    "basque": "-tik goiti",
+    "spanish": "en adelante"
+  },
+  {
+    "id": 33807,
+    "basque": "-tik gora",
+    "spanish": "1 más arriba de, por encima de // 2 más de // 3 a partir de, en adelante"
+  },
+  {
+    "id": 33808,
+    "basque": "-tik hasi eta",
+    "spanish": "desde; empezando por; a partir de"
+  },
+  {
+    "id": 33809,
+    "basque": "-tik haste",
+    "spanish": "empezando por/desde"
+  },
+  {
+    "id": 33810,
+    "basque": "-tik honantz",
+    "spanish": "desde... hasta ahora, desde... hasta el día de hoy, desde... hasta el momento presente"
+  },
+  {
+    "id": 33811,
+    "basque": "-tik libre",
+    "spanish": "exento de; libre de"
   }
 ]
