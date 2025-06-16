@@ -6860,11 +6860,6 @@
     "spanish": "da ad. (Ipar.) ramificarse, retoñar"
   },
   {
-    "id": 1374,
-    "basque": "alde",
-    "spanish": "parte, zona, lado"
-  },
-  {
     "id": 1375,
     "basque": "alde bat",
     "spanish": "(Ipar.) definitivamente"
@@ -168943,5 +168938,15 @@
     "id": 33842,
     "basque": "urguileria",
     "spanish": "iz. (Ipar.) (zah.) orgullo, soberbia, altivez"
+  },
+  {
+    "id": 33843,
+    "basque": "alde",
+    "spanish": "1 iz. (batez ere leku-denborazko kasu-atzizkiez; postposizioa osa dezake, dagokion izen-sintagmak -en kasu-atzizkia hartzen duela; delako sintagmako izenak zerbait bizigabea adierazten badu eta atzean adjektiborik ez badu, -en atzizkia eta mugatzailea gal ditzake) parte, zona, lado // 2 iz. (-n edo -ra kasu-atzizkiez, postposizioan) [denborari buruz] hacia, sobre, por, cerca de // 3 iz. cara, lado // 4 iz. diferencia, contraste; ventaja // 5 iz. aspecto, faceta, punto // 6 iz. grupo, bando, tropel; montón; parte // 7 iz. [harribitxiena] faceta // 8 iz. (Mat.) lado"
+  },
+  {
+    "id": 33844,
+    "basque": "alde aurretik",
+    "spanish": "previamente, de antemano, antes de"
   }
 ]
