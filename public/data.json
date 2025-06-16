@@ -135000,11 +135000,6 @@
     "spanish": "iz. sanción, castigo"
   },
   {
-    "id": 27027,
-    "basque": "zehar",
-    "spanish": "a lo largo de"
-  },
-  {
     "id": 27028,
     "basque": "zehar-estilo; zeharkako estilo",
     "spanish": "(Hizkl.) estilo indirecto"
@@ -135048,11 +135043,6 @@
     "id": 27036,
     "basque": "zeharkagarri",
     "spanish": "izond. penetrable; atravesable, franqueable"
-  },
-  {
-    "id": 27037,
-    "basque": "zeharkako",
-    "spanish": "indirecto, -a; desviado, -a, oblicuo, -a // transversal, trasversal, atravesado, -a, puesto al/de través"
   },
   {
     "id": 27038,
@@ -167921,7 +167911,7 @@
   },
   {
     "id": 33638,
-    "basque": "zeharretik irten",
+    "basque": "zeharretik irten/joan",
     "spanish": "salirse/irse por la tangente"
   },
   {
@@ -168948,5 +168938,125 @@
     "id": 33844,
     "basque": "alde aurretik",
     "spanish": "previamente, de antemano, antes de"
+  },
+  {
+    "id": 33845,
+    "basque": "mordoxka",
+    "spanish": "1 iz. grupo, ramillete, conjunto pequeño // 2 iz. cantidad no pequeña, bastante, número considerable"
+  },
+  {
+    "id": 33846,
+    "basque": "multzo",
+    "spanish": "1 iz. grupo, conjunto // 2 iz. (Mat.) conjunto"
+  },
+  {
+    "id": 33847,
+    "basque": "pilo",
+    "spanish": "1 iz. (batez ere B) [multzoa] montón, cúmulo, pila // 2 iz. (batez ere B) [kopuru handia] montón, a montones, en abundancia, gran cantidad // 3 iz. [karta-jokoan] mazo"
+  },
+  {
+    "id": 33848,
+    "basque": "zehar",
+    "spanish": "1 postp. (aurreko sintagma -n edo -tik kasu-atzizkiaz) por, a través de; a lo largo de // 2 adb. de costado, de lado, de soslayo; de reojo // 3 izond. torcido, -a; sesgo, -a, oblicuo, -a, transversal; inclinado, -a; lateral; indirecto, -a; horizontal, perpendicular // 1 iz. costado // 2 iz. ladera"
+  },
+  {
+    "id": 33849,
+    "basque": "zeharzulo",
+    "spanish": "1 iz. galería/agujero transversal // 2 iz. (Teknol.) [labe bateko zepak ateratzeko zuloa] bigotera del horno"
+  },
+  {
+    "id": 33850,
+    "basque": "zeharrola",
+    "spanish": "iz. ferrería de agua"
+  },
+  {
+    "id": 33851,
+    "basque": "zeharretik begiratu",
+    "spanish": "mirar de reojo, mirar con el rabillo del ojo"
+  },
+  {
+    "id": 33852,
+    "basque": "zeharrorma",
+    "spanish": "iz. (Eraik.) traviesa [pared]"
+  },
+  {
+    "id": 33853,
+    "basque": "zehar-marra",
+    "spanish": "[zeinua] barra [oblicua]"
+  },
+  {
+    "id": 33854,
+    "basque": "zeharkako uhin",
+    "spanish": "(Fis.) onda transversal"
+  },
+  {
+    "id": 33855,
+    "basque": "zeharkako",
+    "spanish": "1 izlag. indirecto, -a; desviado, -a, oblicuo, -a // 2 izlag. transversal, trasversal, atravesado, -a, puesto al/de través // 3 izlag. [akordioa, ekonomia, politika] transversal // 4 izlag. (Hizkl.) indirecto, -a"
+  },
+  {
+    "id": 33856,
+    "basque": "ibilkera",
+    "spanish": "1 iz. (batez ere B) paso, (forma de) andar, (forma de) caminar // 2 iz. (batez ere B) (hed.) comportamiento, conducta, proceder"
+  },
+  {
+    "id": 33857,
+    "basque": "heroi",
+    "spanish": "iz. [emakumezkoa] heroína; [gizonezkoa] héroe"
+  },
+  {
+    "id": 33858,
+    "basque": "heroiko",
+    "spanish": "izond. heroico, -a"
+  },
+  {
+    "id": 33859,
+    "basque": "heroina",
+    "spanish": "iz. heroína [droga]"
+  },
+  {
+    "id": 33860,
+    "basque": "heroinomania",
+    "spanish": "iz. heroinomanía"
+  },
+  {
+    "id": 33861,
+    "basque": "heroinomano",
+    "spanish": "iz./izond. heroinómano, -a"
+  },
+  {
+    "id": 33862,
+    "basque": "heroismo",
+    "spanish": "iz. heroísmo"
+  },
+  {
+    "id": 33863,
+    "basque": "eten barik",
+    "spanish": "adb. (B) sin cesar, sin pausa, ininterrumpidamente, permanentemente"
+  },
+  {
+    "id": 33864,
+    "basque": "eten digital",
+    "spanish": "brecha digital"
+  },
+  {
+    "id": 33866,
+    "basque": "etenka",
+    "spanish": "adb. interrumpidamente, intermitentemente, a intervalos"
+  },
+  {
+    "id": 33867,
+    "basque": "eteno",
+    "spanish": "iz. (Kim.) eteno"
+  },
+  {
+    "id": 33868,
+    "basque": "eten-uhal",
+    "spanish": "braguero"
+  },
+  {
+    "id": 33869,
+    "basque": "etenune",
+    "spanish": "1 iz. quiebra, rotura, hendidura; discontinuidad // 2 iz. (Mat.) discontinuidad"
   }
 ]
