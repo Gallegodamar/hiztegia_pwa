@@ -22757,7 +22757,7 @@
   {
     "id": 4560,
     "basque": "beharrizan",
-    "spanish": "necesidad, urgencia"
+    "spanish": " iz. (batez ere B) necesidad, urgencia"
   },
   {
     "id": 4561,
@@ -54797,7 +54797,7 @@
   {
     "id": 10971,
     "basque": "ezohiko",
-    "spanish": "inusual"
+    "spanish": " izlag. inusual, inhabitual, inaudito, -a, extraordinario, -a; fuera de lo común"
   },
   {
     "id": 10972,
@@ -91768,11 +91768,6 @@
     "id": 18370,
     "basque": "lanbrotu, lanbro(tu), lanbrotzen",
     "spanish": "1 da/du ad. nublar(se) // 2 da/du ad. (Ipar.) enturbiar(se) la vista"
-  },
-  {
-    "id": 18371,
-    "basque": "landa",
-    "spanish": "campo"
   },
   {
     "id": 18372,
@@ -169058,5 +169053,65 @@
     "id": 33869,
     "basque": "etenune",
     "spanish": "1 iz. quiebra, rotura, hendidura; discontinuidad // 2 iz. (Mat.) discontinuidad"
+  },
+  {
+    "id": 33870,
+    "basque": "azpiak jan",
+    "spanish": "1 socavar el suelo, minar el terreno // 2 (hed.) murmurar, chismorrear; poner verde // 3 (hed.) conspirar, intrigar"
+  },
+  {
+    "id": 33871,
+    "basque": "landa",
+    "spanish": "1 iz. [lantzeko lur-eremua] campo, pieza de terreno // 2 iz. [hirigune-ri kontrajarria] campo // 3 postp. (izen-sintagmak -tik edo -z kasu-atzizkia hartzen duela) fuera de, aparte de, además de // 4 postp. (Ø, -ra, -n kasu-atzizkiez, dagokion izen-sintagmak -tik edo -z kasu-atzizkia hartzen duela) después (de)"
+  },
+  {
+    "id": 33872,
+    "basque": "ohi ez bezalako",
+    "spanish": "desacostumbrado, -a; insólito, -a; inhabitual, inusual; singular"
+  },
+  {
+    "id": 33873,
+    "basque": "aparteko",
+    "spanish": "1 izlag. lejano, -a; de lejos // 2 izlag. separado, -a // 3 izlag. excepcional, extraordinario, -a; especial, particular, propio, -a; fuera de lo común"
+  },
+  {
+    "id": 33874,
+    "basque": "ereduzko",
+    "spanish": "1 izlag. ejemplar, modélico, -a // 2 izlag. (Ipar.) como, semejante; proporcionado, -a"
+  },
+  {
+    "id": 33875,
+    "basque": "haxix",
+    "spanish": "iz. hachís"
+  },
+  {
+    "id": 33876,
+    "basque": "zuzeneratu, zuzenera(tu), zuzeneratzen",
+    "spanish": "da ad. corregirse, enderezarse, ir por el buen camino"
+  },
+  {
+    "id": 33877,
+    "basque": "zutaratu, zutara, zutaratzen",
+    "spanish": "1 da ad. (Ipar.) ir hacia ti, acudir a ti // 2 du ad. (Ipar.) llevar (alguien algo) hacia ti"
+  },
+  {
+    "id": 33878,
+    "basque": "zuloperatu, zulopera(tu), zuloperatzen",
+    "spanish": "da/du ad. enterrar(se)"
+  },
+  {
+    "id": 33879,
+    "basque": "zuetaratu, zuetara(tu), zuetaratzen",
+    "spanish": "1 da/du ad. llevar (alguien algo) hacia vosotros, -as; conseguiros // 2 da/du ad. ir hacia vosotros, -as"
+  },
+  {
+    "id": 33880,
+    "basque": "zentsuratu, zentsura(tu), zentsuratzen",
+    "spanish": "du ad. censurar, practicar la censura"
+  },
+  {
+    "id": 33881,
+    "basque": "aparatu",
+    "spanish": "du ad. (B) acertar, atinar; dar en el blanco // 1 iz. aparato, instrumento // 2 iz. (Anat.) aparato // 3 iz. (Pol.) [erakundearena] aparato"
   }
 ]
