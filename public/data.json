@@ -169075,11 +169075,6 @@
     "spanish": "1 izlag. lejano, -a; de lejos // 2 izlag. separado, -a // 3 izlag. excepcional, extraordinario, -a; especial, particular, propio, -a; fuera de lo común"
   },
   {
-    "id": 33874,
-    "basque": "ereduzko",
-    "spanish": "1 izlag. ejemplar, modélico, -a // 2 izlag. (Ipar.) como, semejante; proporcionado, -a"
-  },
-  {
     "id": 33875,
     "basque": "haxix",
     "spanish": "iz. hachís"
@@ -169110,8 +169105,50 @@
     "spanish": "du ad. censurar, practicar la censura"
   },
   {
-    "id": 33881,
+    "id": 33882,
+    "basque": "ereduzko",
+    "spanish": "1 izlag. ejemplar, modélico, -a // 2 izlag. (Ipar.) como, semejante; proporcionado, -a",
+    "examples": [
+      "jokaera bikaina eta ereduzkoa: comportamiento extraordinario y ejemplar",
+      "ereduzko pertsonak: personas modélicas",
+      "honen ereduzko elizgizonak: religiosos como este"
+    ]
+  },
+  {
+    "id": 33883,
     "basque": "aparatu",
-    "spanish": "du ad. (B) acertar, atinar; dar en el blanco // 1 iz. aparato, instrumento // 2 iz. (Anat.) aparato // 3 iz. (Pol.) [erakundearena] aparato"
+    "spanish": "du ad. (B) acertar, atinar; dar en el blanco // 1 iz. aparato, instrumento // 2 iz. (Anat.) aparato // 3 iz. (Pol.) [erakundearena] aparato",
+    "examples": [
+      "zirkulazio-aparatua: aparato circulatorio",
+      "digestio-aparatua: aparato digestivo"
+    ]
+  },
+  {
+    "id": 33884,
+    "basque": "horrelako eta halako",
+    "spanish": "tales o cuales; (fulano), mengano y zutano",
+    "examples": [
+      "honelakok, horrelakok eta halakok esan zidan: me lo dijo fulano, mengano y zutano",
+      "horrelako eta halako premietarako: para tales o cuales necesidades"
+    ]
+  },
+  {
+    "id": 33885,
+    "basque": "horrelako",
+    "spanish": "izlag. como ese (esa...), tal (como ese, esa...), semejante/parecido a eso (esa...), de esa clase",
+    "examples": [
+      "horrelako gauzak ez dira jendaurrean esatekoak: cosas como esas no se deben decir en público",
+      "ez horrelakorik egin niri sekula!: ¡no me hagas nunca una cosa como esa!",
+      "horrelako zerbait: algo parecido a eso",
+      "nor da horrelakorik uste duena?: ¿quién cree tales cosas?"
+    ]
+  },
+  {
+    "id": 33886,
+    "basque": "horrelakoxe",
+    "spanish": "izlag. (Heg.) tal como, igual que ese (esa...) mismo, exactamente como ese (esa...)",
+    "examples": [
+      "horrelakoxe negua izan zen azkenekoa: el último invierno fue igual que ese"
+    ]
   }
 ]
