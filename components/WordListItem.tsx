@@ -65,6 +65,20 @@ const WordListItem: React.FC<WordListItemProps> = ({ wordPair, searchTerm }) => 
           <strong className="text-teal-500">Gaztelaniazko sinonimoak:</strong> {highlightText(wordPair.synonyms_spanish, searchTerm, true)}
         </p>
       )}
+      {wordPair.examples && (
+        <div className="mt-3">
+          <strong className="text-teal-500">Adibideak:</strong>
+          {typeof wordPair.examples === 'string' ? (
+            <p className="text-sm text-slate-300 mt-1 break-words whitespace-pre-line">{wordPair.examples}</p>
+          ) : (
+            <ul className="list-disc list-inside mt-1 text-sm text-slate-300 space-y-1">
+              {wordPair.examples.map((example, index) => (
+                <li key={index} className="break-words whitespace-pre-line">{example}</li>
+              ))}
+            </ul>
+          )}
+        </div>
+      )}
     </div>
   );
 };

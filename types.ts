@@ -4,6 +4,7 @@ export interface WordPair {
   spanish: string;
   synonyms_basque?: string;
   synonyms_spanish?: string;
+  examples?: string | string[];
 }
 
 export type SearchMode = 'general' | 'suffix';
