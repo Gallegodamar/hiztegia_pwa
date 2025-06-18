@@ -1552,7 +1552,10 @@
   {
     "id": 311,
     "basque": "aberasgarri",
-    "spanish": "izond. enriquecedor, -a"
+    "spanish": "izond. enriquecedor, -a",
+    "examples": [
+      "aberasgarri gertatu da hizkuntzarentzat: ha resultado enriquecedor para la lengua"
+    ]
   },
   {
     "id": 312,
@@ -2492,7 +2495,10 @@
   {
     "id": 499,
     "basque": "adikor",
-    "spanish": "izond. amable, afable, atento, -a, comprensivo, -a"
+    "spanish": "izond. amable, afable, atento, -a, comprensivo, -a",
+    "examples": [
+      "saltzailea oso adikorra zen: el vendedor era muy amable"
+    ]
   },
   {
     "id": 500,
@@ -39268,7 +39274,9 @@
     "id": 7864,
     "basque": "egongune",
     "spanish": "iz. posición, situación",
-    "examples": []
+    "examples": [
+      "Irlanda, bere egonguneari esker, bazter zegoen barbaroen inbasioetatik."
+    ]
   },
   {
     "id": 7865,
@@ -83281,7 +83289,11 @@
   {
     "id": 16670,
     "basque": "jomuga",
-    "spanish": "[itua, tiro-helburua] blanco // meta, objetivo, punto de mira"
+    "spanish": "[itua, tiro-helburua] blanco // meta, objetivo, punto de mira",
+    "examples": [
+      "jomuga goian dagoenean: cuando el blanco está alto",
+      "neure jomugara heltzen banaiz: si llego a mi meta"
+    ]
   },
   {
     "id": 16671,
@@ -88897,11 +88909,6 @@
     "id": 17794,
     "basque": "kontaminatzaile",
     "spanish": "iz./izond. contaminante [de alimentos]"
-  },
-  {
-    "id": 17795,
-    "basque": "kontatu, konta, kontatzen",
-    "spanish": "1  du ad. contar, narrar, relatar, referir // 2  du ad. [zenbatu] contar"
   },
   {
     "id": 17796,
@@ -109246,7 +109253,11 @@
   {
     "id": 21871,
     "basque": "oraingoz",
-    "spanish": "por ahora, por el momento, de momento, en el presente"
+    "spanish": "por ahora, por el momento, de momento, en el presente",
+    "examples": [
+      "oraingoz ezin dugu erreserba ziurtatu: por ahora no podemos confirmar la reserva",
+      "oraingoz besterik ez: nada más por el momento"
+    ]
   },
   {
     "id": 21872,
@@ -169170,6 +169181,15 @@
     "spanish": "izlag. (Heg.) tal como, igual que ese (esa...) mismo, exactamente como ese (esa...)",
     "examples": [
       "horrelakoxe negua izan zen azkenekoa: el último invierno fue igual que ese"
+    ]
+  },
+  {
+    "id": 33887,
+    "basque": "kontatu, konta, kontatzen",
+    "spanish": "1 du ad. contar, narrar, relatar, referir // 2 du ad. [zenbatu] contar",
+    "examples": [
+      "eleberri honen gaia hitz gutxitan konta daiteke: el argumento de esta novela se puede contar en pocas palabras",
+      "dirua kontatzen: contando el dinero"
     ]
   }
 ]
