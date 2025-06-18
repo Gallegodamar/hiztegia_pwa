@@ -39267,12 +39267,16 @@
   {
     "id": 7864,
     "basque": "egongune",
-    "spanish": "iz. posición, situación"
+    "spanish": "iz. posición, situación",
+    "examples": []
   },
   {
     "id": 7865,
     "basque": "egonkor",
-    "spanish": "izond. permanente, duradero, -a; estable"
+    "spanish": "izond. permanente, duradero, -a; estable",
+    "examples": [
+      "oreka egonkorra: equilibrio estable"
+    ]
   },
   {
     "id": 7866,
@@ -39352,7 +39356,12 @@
   {
     "id": 7881,
     "basque": "egoskor",
-    "spanish": "1  izond. difícil de cocer // 2  izond. (hed.) testarudo, -a; terco, -a; de trato difícil // 3  izond. difícil de digerir // 4  izond. (hed.) difícil de entender; complicado, -a"
+    "spanish": "1  izond. difícil de cocer // 2  izond. (hed.) testarudo, -a; terco, -a; de trato difícil // 3  izond. difícil de digerir // 4  izond. (hed.) difícil de entender; complicado, -a",
+    "examples": [
+      "belar egoskorrak: hierbas difíciles de cocer",
+      "ez zaitez egoskorra izan!: no seas testarudo!",
+      "aditz egoskorrak: verbos difíciles de entender"
+    ]
   },
   {
     "id": 7882,
@@ -168987,7 +168996,12 @@
   {
     "id": 33855,
     "basque": "zeharkako",
-    "spanish": "1 izlag. indirecto, -a; desviado, -a, oblicuo, -a // 2 izlag. transversal, trasversal, atravesado, -a, puesto al/de través // 3 izlag. [akordioa, ekonomia, politika] transversal // 4 izlag. (Hizkl.) indirecto, -a"
+    "spanish": "1 izlag. indirecto, -a; desviado, -a, oblicuo, -a // 2 izlag. transversal, trasversal, atravesado, -a, puesto al/de través // 3 izlag. [akordioa, ekonomia, politika] transversal // 4 izlag. (Hizkl.) indirecto, -a",
+    "examples": [
+      "zeharkako bidetik joan behar duzu, kontura ez dadin: tienes que ir por el camino indirecto para que no se dé cuenta",
+      "Iparragirre kalea zeharkakoa da: la calle Iparragirre es la transversal",
+      "perpausaren zeharkako osagarria: el complemento indirecto de la oración"
+    ]
   },
   {
     "id": 33856,
@@ -169072,7 +169086,14 @@
   {
     "id": 33873,
     "basque": "aparteko",
-    "spanish": "1 izlag. lejano, -a; de lejos // 2 izlag. separado, -a // 3 izlag. excepcional, extraordinario, -a; especial, particular, propio, -a; fuera de lo común"
+    "spanish": "1 izlag. lejano, -a; de lejos // 2 izlag. separado, -a // 3 izlag. excepcional, extraordinario, -a; especial, particular, propio, -a; fuera de lo común",
+    "examples": [
+      "aparteko soinua entzun zen: se oyó un sonido lejano",
+      "aparteko gela batean egin zuen lo: durmió en una habitación separada",
+      "aparteko dohainak zituen musikarako: tenía cualidades excepcionales para la música",
+      "ez dut pintura horretan apartekorik ezer ikusten: no veo en esa pintura nada de particular",
+      "aparteko ordainsaria: paga extraordinaria"
+    ]
   },
   {
     "id": 33875,
