@@ -59966,1002 +59966,1517 @@
   {
     "id": 11804,
     "basque": "gardi",
-    "spanish": "iz. parecer, opinión, juicio"
+    "spanish": "iz. parecer, opinión, juicio",
+    "examples": [
+      "ene gardiz: en mi opinión"
+    ]
   },
   {
     "id": 11805,
     "basque": "gardingadura",
-    "spanish": "iz. (Ipar.) rancidez [comida y bebida]"
+    "spanish": "iz. (Ipar.) rancidez [comida y bebida]",
+    "examples": []
   },
   {
     "id": 11806,
     "basque": "gardingatu, gardinga(tu), gardingatzen",
-    "spanish": "da/du ad. (Ipar.) ranciar(se), ponerse rancio"
+    "spanish": "da/du ad. (Ipar.) ranciar(se), ponerse rancio",
+    "examples": []
   },
   {
     "id": 11807,
     "basque": "gardostu, gardots, gardosten",
-    "spanish": "da/du ad. chamuscar(se), socarrar(se), sollamar(se), quemar o tostar superficialmente"
+    "spanish": "da/du ad. chamuscar(se), socarrar(se), sollamar(se), quemar o tostar superficialmente",
+    "examples": [
+      "haragia gardostu: chamuscar la carne"
+    ]
   },
   {
     "id": 11808,
     "basque": "gardun",
-    "spanish": "adj. flamígero, -a; llameante, inflamado, -a"
+    "spanish": "adj. flamígero, -a; llameante, inflamado, -a",
+    "examples": []
   },
   {
     "id": 11809,
     "basque": "garestitasun",
-    "spanish": "carestía"
+    "spanish": "carestía",
+    "examples": []
   },
   {
     "id": 11810,
     "basque": "garestitu, garesti(tu), garestitzen",
-    "spanish": "da/du ad. encarecer(se), subir el precio"
+    "spanish": "da/du ad. encarecer(se), subir el precio",
+    "examples": [
+      "garestitu digute ardoa: nos han subido el precio del vino"
+    ]
   },
   {
     "id": 11811,
     "basque": "garestitze",
-    "spanish": "iz. encarecimiento"
+    "spanish": "iz. encarecimiento",
+    "examples": [
+      "orubeen garestitzea: encarecimiento de los solares",
+      "bizimoduaren garestitzea: el encarecimiento de la vida"
+    ]
   },
   {
     "id": 11812,
     "basque": "gari-jotzaile",
-    "spanish": "trillador, -a"
+    "spanish": "trillador, -a",
+    "examples": []
   },
   {
     "id": 11813,
     "basque": "garitu, gari(tu), garitzen",
-    "spanish": "da ad. (Ipar.) adelgazar(se), enflaquecer"
+    "spanish": "da ad. (Ipar.) adelgazar(se), enflaquecer",
+    "examples": []
   },
   {
     "id": 11814,
     "basque": "garkarastatu",
-    "spanish": "da/du ad. (Ipar.) ahumar(se)"
+    "spanish": "da/du ad. (Ipar.) ahumar(se)",
+    "examples": []
   },
   {
     "id": 11815,
     "basque": "garlopatu, garlopa(tu), garlopatzen",
-    "spanish": "du ad. cepillar con garlopa"
+    "spanish": "du ad. cepillar con garlopa",
+    "examples": []
   },
   {
     "id": 11816,
     "basque": "garmendi",
-    "spanish": "iz. volcán"
+    "spanish": "iz. volcán",
+    "examples": []
   },
   {
     "id": 11817,
     "basque": "garmindu, garmin(du), garmintzen",
-    "spanish": "da/du ad. adquirir las comidas olor o sabor a quemado"
+    "spanish": "da/du ad. adquirir las comidas olor o sabor a quemado",
+    "examples": []
   },
   {
     "id": 11818,
     "basque": "garnitu, garni, garnitzen",
-    "spanish": "du ad. (Ipar.) (zah.) guarnecer, proveer, equipar; adornar"
+    "spanish": "du ad. (Ipar.) (zah.) guarnecer, proveer, equipar; adornar",
+    "examples": []
   },
   {
     "id": 11819,
     "basque": "garo",
-    "spanish": "1 iz. (Bot.) helecho // 2 iz. (B) rocío, cencellada"
+    "spanish": "1 iz. (Bot.) helecho // 2 iz. (B) rocío, cencellada",
+    "examples": [
+      "garoz egindako azpiak: una cama del ganado hecha con helechos",
+      "goizeko garoa: el rocío de la mañana"
+    ]
   },
   {
     "id": 11820,
     "basque": "garondo",
-    "spanish": "iz. nuca"
+    "spanish": "iz. nuca",
+    "examples": [
+      "garondoko kolpeak arriskutsuak dira: los golpes en la nuca son peligrosos"
+    ]
   },
   {
     "id": 11821,
     "basque": "garraiagailu",
-    "spanish": "1 iz. dispositivo de transporte/acarreo // 2 iz. cinta transportadora"
+    "spanish": "1 iz. dispositivo de transporte/acarreo // 2 iz. cinta transportadora",
+    "examples": []
   },
   {
     "id": 11822,
     "basque": "garraiagarri",
-    "spanish": "izond. transportable, trasportable"
+    "spanish": "izond. transportable, trasportable",
+    "examples": []
   },
   {
     "id": 11823,
     "basque": "garraiaketa",
-    "spanish": "1  iz. transporte, traslado, conducción, acarreo"
+    "spanish": "1  iz. transporte, traslado, conducción, acarreo",
+    "examples": []
   },
   {
     "id": 11824,
     "basque": "garraiatu, garraia, garraiatzen",
-    "spanish": "1  du ad. transportar, trasportar, llevar, conducir // 3  du ad. (Ipar.) acarrear, traer consigo, ocasionar"
+    "spanish": "1  du ad. transportar, trasportar, llevar, conducir // 3  du ad. (Ipar.) acarrear, traer consigo, ocasionar",
+    "examples": [
+      "salgaiak garraiatu: transportar la mercancía",
+      "oinazea isilik garraiatzen duen eria: el paciente que sufre (el dolor) en silencio",
+      "bekatoreak bere buruari garraiatzen dion kaltea: el perjuicio que se ocasiona a sí mismo el pecador"
+    ]
   },
   {
     "id": 11825,
     "basque": "garraiatzaile",
-    "spanish": "1  izond. transportador, -a, trasportador, -a; acarreador, -a // 3  iz./izond. transportista"
+    "spanish": "1  izond. transportador, -a, trasportador, -a; acarreador, -a // 3  iz./izond. transportista",
+    "examples": [
+      "uhal garraiatzailea: cinta transportadora",
+      "uhin garraiatzailea: onda portadora",
+      "garraiatzaileen sindikatuak: el sindicato de los transportistas",
+      "eskualde haietako garraiatzaileek greba egitea erabaki dute: los transportistas de aquellas zonas han decidido ir a la huelga",
+      "txakurrarentzat egokia den garraiatzailea aukeratu behar dugu: tenemos que elegir un transportín adecuado para el perro"
+    ]
   },
   {
     "id": 11826,
     "basque": "garraio",
-    "spanish": "1  iz. transporte, trasporte"
+    "spanish": "1  iz. transporte, trasporte",
+    "examples": [
+      "garraioaren alorra krisian da: el sector del transporte está en crisis",
+      "garraio-kontratu: contrato de transporte",
+      "eskualdeko garraio-sarea: la red comarcal de transporte"
+    ]
   },
   {
     "id": 11827,
     "basque": "garraio-kostu; garraio-sari",
-    "spanish": "porte [coste]"
+    "spanish": "porte [coste]",
+    "examples": []
   },
   {
     "id": 11828,
     "basque": "garraioan",
-    "spanish": "transportando, acarreando"
+    "spanish": "transportando, acarreando",
+    "examples": [
+      "ogi-puska baten garraioan ari zen inurria: la hormiga que transportaba un pedazo de pan"
+    ]
   },
   {
     "id": 11829,
     "basque": "garraiobide",
-    "spanish": "1  iz. medio de transporte // 2  iz. (Eraik.) conducción, línea de conducción"
+    "spanish": "1  iz. medio de transporte // 2  iz. (Eraik.) conducción, línea de conducción",
+    "examples": [
+      "automobila, trena, itsasontzia, hegazkina eta gainerako garraiobideak: el automóvil, el tren, el barco, el avión y el resto de los medios de transporte",
+      "gas-garraiobidea: conducción de gas"
+    ]
   },
   {
     "id": 11830,
     "basque": "garraiolari",
-    "spanish": "iz. transportista, trasportista"
+    "spanish": "iz. transportista, trasportista",
+    "examples": [
+      "garraiolariak erabakiko du zein kamioi erabili: la transportista decidirá qué camión se utilizará"
+    ]
   },
   {
     "id": 11831,
     "basque": "garramatu, garrama(tu), garramatzen",
-    "spanish": "du ad. agramar; majar"
+    "spanish": "du ad. agramar; majar",
+    "examples": []
   },
   {
     "id": 11832,
     "basque": "garramaztu",
-    "spanish": "iz. (B) ronquera, carraspera; afonía"
+    "spanish": "iz. (B) ronquera, carraspera; afonía",
+    "examples": []
   },
   {
     "id": 11833,
     "basque": "garrantzatu, garrantza, garrantzatzen",
-    "spanish": "da/du ad. (BN) ranciarse el tocino"
+    "spanish": "da/du ad. (BN) ranciarse el tocino",
+    "examples": []
   },
   {
     "id": 11834,
     "basque": "garrantzi",
-    "spanish": "iz. importancia; valor, interés"
+    "spanish": "iz. importancia; valor, interés",
+    "examples": [
+      "arazo horrek ez dauka garrantzirik: ese problema no tiene ningún interés",
+      "garrantzi handiko erabakia: una decisión de gran importancia",
+      "ez dio garrantzirik eman zuk esandakoari: no le ha dado ninguna importancia a lo que has dicho"
+    ]
   },
   {
     "id": 11835,
     "basque": "garrantzitsu",
-    "spanish": "importante"
+    "spanish": "importante",
+    "examples": [
+      "azterketa hori oso garrantzitsua da: ese examen es muy importante",
+      "literatura-saririk garrantzitsuena da: es el más importante premio literario"
+    ]
   },
   {
     "id": 11836,
     "basque": "garrantzizko",
-    "spanish": "izlag. importante, que tiene importancia"
+    "spanish": "izlag. importante, que tiene importancia",
+    "examples": [
+      "hori da arazoaren alderik garrantzizkoena: esa es la parte más importante del problema"
+    ]
   },
   {
     "id": 11837,
     "basque": "garrapiñatu",
-    "spanish": "izond. garrapiñado, -a"
+    "spanish": "izond. garrapiñado, -a",
+    "examples": [
+      "almendra garrapiñatuak: almendras garrapiñadas"
+    ]
   },
   {
     "id": 11838,
     "basque": "garrasi",
-    "spanish": "iz. grito, chillido"
+    "spanish": "iz. grito, chillido",
+    "examples": [
+      "pozezko garrasi bat egin zuen: pegó un grito de alegría",
+      "hango garrasi sarkorrak!: ¡aquellos gritos estridentes!"
+    ]
   },
   {
     "id": 11839,
     "basque": "garrasi egin",
-    "spanish": "gritar, chillar"
+    "spanish": "gritar, chillar",
+    "examples": []
   },
   {
     "id": 11840,
     "basque": "garrasika",
-    "spanish": "adb. gritando, chillando, a gritos, dando gritos, a voces"
+    "spanish": "adb. gritando, chillando, a gritos, dando gritos, a voces",
+    "examples": [
+      "negarrez eta garrasika: llorando y gritando",
+      "garrasika zebiltzanak zigortuta geldituko dira: los que estaban chillando se quedarán castigados",
+      "beldurtuta zegoen eta garrasika hasi zen: estaba asustado y comenzó a dar gritos"
+    ]
   },
   {
     "id": 11841,
     "basque": "garrasizale",
-    "spanish": "iz./izond. gritón, -ona"
+    "spanish": "iz./izond. gritón, -ona",
+    "examples": [
+      "merkatari garrasizaleak zetozen: venían unos comerciantes gritones"
+    ]
   },
   {
     "id": 11842,
     "basque": "garratz",
-    "spanish": "1  izond. ácido, -a; agrio, -a // 2  izond. (hed.) duro, -a; rudo, -a; áspero, -a; austero, -a; severo, -a; amargo, -a // 4  adb. amargamente, con amargura"
+    "spanish": "1  izond. ácido, -a; agrio, -a // 2  izond. (hed.) duro, -a; rudo, -a; áspero, -a; austero, -a; severo, -a; amargo, -a // 4  adb. amargamente, con amargura",
+    "examples": [
+      "limoia edo ozpina baino garratzagoa: más ácido que el limón o el vinagre",
+      "esne eta ardo garratza: leche y vino agrios",
+      "hitzik gogor eta garratzenak: las palabras más duras y amargas",
+      "marinelaren ogibide garratza: el duro oficio de los marineros",
+      "istilu garratzak sortu ziren: surgieron amargos enfrentamientos",
+      "atsekabe garratza: un amargo disgusto",
+      "begitarte garratza: una expresión severa",
+      "garratz erantzun zion: le contestó con amargura"
+    ]
   },
   {
     "id": 11843,
     "basque": "garrazgarri",
-    "spanish": "iz./izond. lo que amarga"
+    "spanish": "iz./izond. lo que amarga",
+    "examples": []
   },
   {
     "id": 11844,
     "basque": "garrazkeria",
-    "spanish": "iz. amargura; aspereza; respuesta dura/severa"
+    "spanish": "iz. amargura; aspereza; respuesta dura/severa",
+    "examples": [
+      "nork esan dizu beretzat garrazkeriarik dudanik?: ¿quién te ha dicho que yo sienta amargura por él?",
+      "ezin joan zuri garrazkeriaren bat esan gabe: no puedo irme sin decirte algo severo"
+    ]
   },
   {
     "id": 11845,
     "basque": "garrazki",
-    "spanish": "adb. con amargura, amargamente; con austeridad; severamente; cruelmente // iz. (pl.) cítrico"
+    "spanish": "adb. con amargura, amargamente; con austeridad; severamente; cruelmente // iz. (pl.) cítrico",
+    "examples": [
+      "etorkizunaz garrazki mintzatu ziren: hablaron con amargura del futuro",
+      "garrazki zigortu zituzten: fueron severamente castigados",
+      "askotan zure kontra garrazki mintzatu dira: a menudo han hablado contra ti con crueldad",
+      "laranjak eta limoiak garrazkiak dira: las naranjas y los limones son cítricos"
+    ]
   },
   {
     "id": 11846,
     "basque": "garraztasun",
-    "spanish": "1 iz. acritud, acrimonia; amargura // 2 iz. severidad, austeridad, rigor // 3 iz. (Teknol.) acritud"
+    "spanish": "1 iz. acritud, acrimonia; amargura // 2 iz. severidad, austeridad, rigor // 3 iz. (Teknol.) acritud",
+    "examples": [
+      "garraztasunez erantzun: contestar con acritud",
+      "altzairuaren garraztasuna: la acritud del acero"
+    ]
   },
   {
     "id": 11847,
     "basque": "garraztu, garratz/garraztu, garrazten",
-    "spanish": "1 da/du ad. agriar(se); avinagrar(se); picarse // 2 da/du ad. (hed.) amargar(se); encrespar(se)"
+    "spanish": "1 da/du ad. agriar(se); avinagrar(se); picarse // 2 da/du ad. (hed.) amargar(se); encrespar(se)",
+    "examples": [
+      "bi egunetan ederki eduki daiteke esnea, batere garraztu gabe: se puede tener la leche durante dos días perfectamente, sin que se pique (agrie)",
+      "gai batzuek ardoa garratz dezakete: algunas sustancias pueden avinagrar el vino",
+      "eztabaida garrazten hasi zenean: cuando la discusión comenzó a encresparse",
+      "bihotzak garrazturik daude: los corazones están llenos de amargura"
+    ]
   },
   {
     "id": 11848,
     "basque": "garretan",
-    "spanish": "en llamas, ardiendo"
+    "spanish": "en llamas, ardiendo",
+    "examples": [
+      "hegazkina garretan zegoen: el avión estaba ardiendo"
+    ]
   },
   {
     "id": 11849,
     "basque": "garreztatu, garrezta, garreztatzen",
-    "spanish": "1 du ad. quemar o tostar superficialmente // 2 du ad. [elikagaiak] flambear, flamear // 3 du ad. flamear // 4 du ad. (hed.) enardecer, encender, enfervorizar, avivar una pasión"
+    "spanish": "1 du ad. quemar o tostar superficialmente // 2 du ad. [elikagaiak] flambear, flamear // 3 du ad. flamear // 4 du ad. (hed.) enardecer, encender, enfervorizar, avivar una pasión",
+    "examples": [
+      "saiodia garrezta ezazu: flamea el tubo de ensayo",
+      "begiratu sarkor batek aldatu zuen haren grina garreztatua: una mirada penetrante cambió su pasión enardecida"
+    ]
   },
   {
     "id": 11850,
     "basque": "garri",
-    "spanish": "iz. (Ipar.) inquietud; remordimiento"
+    "spanish": "iz. (Ipar.) inquietud; remordimiento",
+    "examples": [
+      "zure kontzientziaren garriak: tus remordimientos de conciencia"
+    ]
   },
   {
     "id": 11851,
     "basque": "garrotatu, garrota, garrotatzen",
-    "spanish": "du ad. (zah.) agarrotar, tensar, atar"
+    "spanish": "du ad. (zah.) agarrotar, tensar, atar",
+    "examples": []
   },
   {
     "id": 11852,
     "basque": "gartsu",
-    "spanish": "Ik. kartsu"
+    "spanish": "Ik. kartsu",
+    "examples": []
   },
   {
     "id": 11853,
     "basque": "gartsuki",
-    "spanish": "adb. apasionadamente, ardientemente, fervorosamente, fervientemente, celosamente"
+    "spanish": "adb. apasionadamente, ardientemente, fervorosamente, fervientemente, celosamente",
+    "examples": [
+      "gartsuki mintzatu zintzaizkidan hartaz: me hablo de ello apasionadamente"
+    ]
   },
   {
     "id": 11854,
     "basque": "gartsutasun",
-    "spanish": "iz. fervor, ardor"
+    "spanish": "iz. fervor, ardor",
+    "examples": [
+      "lasaiago, baina hargatik ez gartsutasun gutxiagoarekin: más tranquila, pero no con menos fervor"
+    ]
   },
   {
     "id": 11855,
     "basque": "gartu, gar(tu), gartzen",
-    "spanish": "1 da/du ad. encender(se), incendiar(se), prender, inflamar(se) // 2 da/du ad. (hed.) acalorar(se), encender(se), entusiasmar(se), apasionar(se), avivar una pasión"
+    "spanish": "1 da/du ad. encender(se), incendiar(se), prender, inflamar(se) // 2 da/du ad. (hed.) acalorar(se), encender(se), entusiasmar(se), apasionar(se), avivar una pasión",
+    "examples": [
+      "petrolioa gartu egin da: el petróleo ha prendido fuego",
+      "amodio bizi eta gartua: un amor vivo y apasionado"
+    ]
   },
   {
     "id": 11856,
     "basque": "gartxu hostoestu",
-    "spanish": "(Bot.) labiérnago común (Phillyrea angustifolia)"
+    "spanish": "(Bot.) labiérnago común (Phillyrea angustifolia)",
+    "examples": []
   },
   {
     "id": 11857,
     "basque": "garun-azal",
-    "spanish": "(Anat.) córtex cerebral"
+    "spanish": "(Anat.) córtex cerebral",
+    "examples": []
   },
   {
     "id": 11858,
     "basque": "garuna lehortu",
-    "spanish": "secarse el cerebro"
+    "spanish": "secarse el cerebro",
+    "examples": [
+      "lo gutxi eta asko irakurri, garuna lehortu zitzaion: de tanto leer y de dormir poco se le secó el cerebro"
+    ]
   },
   {
     "id": 11859,
     "basque": "garunak urtu",
-    "spanish": "calentarse/devanarse los sesos"
+    "spanish": "calentarse/devanarse los sesos",
+    "examples": []
   },
   {
     "id": 11860,
     "basque": "gas negar-eragile",
-    "spanish": "(Arm.) gas lacrimógeno"
+    "spanish": "(Arm.) gas lacrimógeno",
+    "examples": []
   },
   {
     "id": 11861,
     "basque": "gas-hodi",
-    "spanish": "gasoducto"
+    "spanish": "gasoducto",
+    "examples": []
   },
   {
     "id": 11862,
     "basque": "gasbide",
-    "spanish": "iz. (Hirgz.) conducción de gas; gasoducto"
+    "spanish": "iz. (Hirgz.) conducción de gas; gasoducto",
+    "examples": []
   },
   {
     "id": 11863,
     "basque": "gasdun",
-    "spanish": "1 adj. gaseoso, -a; que contiene gas // 2 iz. Ik. gaseosa"
+    "spanish": "1 adj. gaseoso, -a; que contiene gas // 2 iz. Ik. gaseosa",
+    "examples": [
+      "ur gasduna: agua con gas"
+    ]
   },
   {
     "id": 11864,
     "basque": "gaseztatu, gasezta, gaseztatzen",
-    "spanish": "du ad. gasear"
+    "spanish": "du ad. gasear",
+    "examples": []
   },
   {
     "id": 11865,
     "basque": "gasgabetu, gasgabe(tu), gasgabetzen",
-    "spanish": "du ad. desgasificar"
+    "spanish": "du ad. desgasificar",
+    "examples": []
   },
   {
     "id": 11866,
     "basque": "gasifikatu, gasifika, gasifikatzen",
-    "spanish": "du ad. (Kim.) gasificar"
+    "spanish": "du ad. (Kim.) gasificar",
+    "examples": []
   },
   {
     "id": 11867,
     "basque": "gaskoi",
-    "spanish": "1 iz./izond. gascón, -a // 2 iz./izond. (Ipar.) [erdalduna] persona que no conoce la lengua vasca // 3 izond. gascón, -a; de Gascuña // 4 iz. [hizkuntza] gascón"
+    "spanish": "1 iz./izond. gascón, -a // 2 iz./izond. (Ipar.) [erdalduna] persona que no conoce la lengua vasca // 3 izond. gascón, -a; de Gascuña // 4 iz. [hizkuntza] gascón",
+    "examples": [
+      "andre gaskoi batekin ezkondua: casado con una gascona",
+      "bazterrak oro euskaldunez husten eta gaskoiez betetzen: vaciándose todos los rincones de personas que hablan euskera, y llenándose de personas que no conocen el euskera",
+      "ardo gaskoia Britainia Handira esportatzen zuten: el vino de Gascuña lo exportaban a Gran Bretaña",
+      "gaskoiez mintzatu: hablar gascón"
+    ]
   },
   {
     "id": 11868,
     "basque": "gaskoitu, gaskoi(tu), gaskoitzen",
-    "spanish": "1 da/du ad. volver(se) o hacer(se) gascón // 2 da/du ad. (Ipar.) perder o hacer perder la lengua vasca"
+    "spanish": "1 da/du ad. volver(se) o hacer(se) gascón // 2 da/du ad. (Ipar.) perder o hacer perder la lengua vasca",
+    "examples": [
+      "euskal azturei uko eginez, euskalduna da gaskoitzen: renunciando a su carácter vasco, el vasco pierde su lengua"
+    ]
   },
   {
     "id": 11869,
     "basque": "gasnategi",
-    "spanish": "1  iz. (L/BN) [denda] quesería // 2  iz. (L/BN) [fabrika] quesería, fábrica de quesos // 3  iz. (L/BN) lugar donde prensan o guardan los pastores sus quesos"
+    "spanish": "1  iz. (L/BN) [denda] quesería // 2  iz. (L/BN) [fabrika] quesería, fábrica de quesos // 3  iz. (L/BN) lugar donde prensan o guardan los pastores sus quesos",
+    "examples": []
   },
   {
     "id": 11870,
     "basque": "gastatu, gasta, gastatzen",
-    "spanish": "1 du ad. [dirua] gastar, emplear // 2 da/du ad. [higatu] gastar(se), desgastar(se), deteriorar(se) con el uso // 3 da/du ad. gastar(se), consumir(se), acabar(se) // 4 da ad. (hed.) morirse"
+    "spanish": "1 du ad. [dirua] gastar, emplear // 2 da/du ad. [higatu] gastar(se), desgastar(se), deteriorar(se) con el uso // 3 da/du ad. gastar(se), consumir(se), acabar(se) // 4 da ad. (hed.) morirse",
+    "examples": [
+      "Gabonetan diru asko gastatzen dugu: en Navidades gastamos mucho dinero",
+      "mendiko botak gastatuta ditut: tengo muy gastadas las botas de monte",
+      "botatako gasolina guztia gastatu zitzaigun bide erdian: a medio camino se nos gastó toda la gasolina que habíamos puesto",
+      "bart gastatu da bake-baketan aitona zaharra: anoche murió en paz el anciano abuelo"
+    ]
   },
   {
     "id": 11871,
     "basque": "gastatzaile",
-    "spanish": "iz./izond. gastador, -a; derrochador, -a"
+    "spanish": "iz./izond. gastador, -a; derrochador, -a",
+    "examples": [
+      "horrek ez dauka dirurik, gastatzaile handia da eta: ese no tiene dinero porque es un gran derrochador"
+    ]
   },
   {
     "id": 11872,
     "basque": "gasteiztar",
-    "spanish": "adj./iz. vitoriano, -a"
+    "spanish": "adj./iz. vitoriano, -a",
+    "examples": []
   },
   {
     "id": 11873,
     "basque": "gastu",
-    "spanish": "iz. gasto"
+    "spanish": "iz. gasto",
+    "examples": [
+      "gastu handiak egin ditu etxea konpontzen: ha hecho grandes gastos para arreglar su casa",
+      "garraioaren gastuak finkoak dira: los gastos de transporte son fijos"
+    ]
   },
   {
     "id": 11874,
     "basque": "gastu aldakor",
-    "spanish": "(Ekon.) (pl.) gasto variable"
+    "spanish": "(Ekon.) (pl.) gasto variable",
+    "examples": []
   },
   {
     "id": 11875,
     "basque": "gatazkatsu",
-    "spanish": "adj. conflictivo, -a"
+    "spanish": "adj. conflictivo, -a",
+    "examples": []
   },
   {
     "id": 11876,
     "basque": "gatazkatu, gatazka(tu), gatazkatzen",
-    "spanish": "da ad. pelearse, batallar, luchar, disputar"
+    "spanish": "da ad. pelearse, batallar, luchar, disputar",
+    "examples": [
+      "herriko zaharrak gazteekin gatazkatzen dira: los viejos del pueblo se pelean con los jóvenes"
+    ]
   },
   {
     "id": 11877,
     "basque": "gatibatu, gatiba, gatibatzen",
-    "spanish": "du ad. cautivar, aprisionar, apresar"
+    "spanish": "du ad. cautivar, aprisionar, apresar",
+    "examples": []
   },
   {
     "id": 11878,
     "basque": "gatibualdi",
-    "spanish": "iz. cautividad, cautiverio"
+    "spanish": "iz. cautividad, cautiverio",
+    "examples": [
+      "bere gatibualdian ez zuen inork bisitatu: durante su cautiverio nadie lo visitó"
+    ]
   },
   {
     "id": 11879,
     "basque": "gatibutasun",
-    "spanish": "iz. cautividad, cautiverio [situación]"
+    "spanish": "iz. cautividad, cautiverio [situación]",
+    "examples": []
   },
   {
     "id": 11880,
     "basque": "gatinaztatu, gatinazta, gatinaztatzen",
-    "spanish": "du ad. (Eraik.) zunchar"
+    "spanish": "du ad. (Eraik.) zunchar",
+    "examples": []
   },
   {
     "id": 11881,
     "basque": "gatu",
-    "spanish": "1 iz. (Ipar.) gato // 2 iz. (Arm.) (Ipar.) gatillo de escopeta; disparador [de un arma de fuego]"
+    "spanish": "1 iz. (Ipar.) gato // 2 iz. (Arm.) (Ipar.) gatillo de escopeta; disparador [de un arma de fuego]",
+    "examples": []
   },
   {
     "id": 11882,
     "basque": "gatza bota/eman",
-    "spanish": "salar, echar sal"
+    "spanish": "salar, echar sal",
+    "examples": []
   },
   {
     "id": 11883,
     "basque": "gatzaketa",
-    "spanish": "iz. coagulación"
+    "spanish": "iz. coagulación",
+    "examples": []
   },
   {
     "id": 11884,
     "basque": "gatzapen",
-    "spanish": "iz. coagulación"
+    "spanish": "iz. coagulación",
+    "examples": []
   },
   {
     "id": 11885,
     "basque": "gatzartu",
-    "spanish": "iz. cecina"
+    "spanish": "iz. cecina",
+    "examples": []
   },
   {
     "id": 11886,
     "basque": "gatzatu, gatza, gatzatzen",
-    "spanish": "1 da/du ad. coagular(se); cuajar(se) // 2 da/du ad. plasmar, dar forma y contenido, realizar, elaborar // 3 da/du ad. salar, curar // 4 da/du ad. (Ipar.) concebir; fecundar // 5 da ad. [elurra] cuajar // iz. (B) cuajada"
+    "spanish": "1 da/du ad. coagular(se); cuajar(se) // 2 da/du ad. plasmar, dar forma y contenido, realizar, elaborar // 3 da/du ad. salar, curar // 4 da/du ad. (Ipar.) concebir; fecundar // 5 da ad. [elurra] cuajar // iz. (B) cuajada",
+    "examples": [
+      "odola gatzatu: coagular(se) la sangre",
+      "esnea gatzatu: cuajar(se) la leche",
+      "Shakespeareren hamalaudunak, gogoz eta haragiz gatzatuak: los sonetos de Shakespeare, realizados en cuerpo y alma",
+      "gatzatuko da birjina baten sabelean: será concebido en el vientre de una virgen",
+      "gatzatu ginen gauean: en la noche en que fuimos concebidos",
+      "abenduan elurra erraz gatzatzen da: en diciembre la nieve cuaja enseguida",
+      "ardi-esnez eginiko gatzatua: cuajada elaborada con leche de oveja"
+    ]
   },
   {
     "id": 11887,
     "basque": "gatzatzaile",
-    "spanish": "iz. coagulante [sustancia]"
+    "spanish": "iz. coagulante [sustancia]",
+    "examples": []
   },
   {
     "id": 11888,
     "basque": "gatzdun",
-    "spanish": "1 adj. salado, -a; salino, -a; que tiene sal // 2 adj. salado, -a; gracioso, -a; chistoso, -a; agudo, -a; ingenioso, -a"
+    "spanish": "1 adj. salado, -a; salino, -a; que tiene sal // 2 adj. salado, -a; gracioso, -a; chistoso, -a; agudo, -a; ingenioso, -a",
+    "examples": [
+      "iturri gatzdunak: fuentes salinas",
+      "ateraldi gatzduna: una graciosa ocurrencia"
+    ]
   },
   {
     "id": 11889,
     "basque": "gatzgabe",
-    "spanish": "1  izond. soso, -a; insípido, -a; insulso, -a // 2  izond. (hed.) soso, -a; sosaina; aburrido, -a; anodino, -a; falto de gracia"
+    "spanish": "1  izond. soso, -a; insípido, -a; insulso, -a // 2  izond. (hed.) soso, -a; sosaina; aburrido, -a; anodino, -a; falto de gracia",
+    "examples": [
+      "esaera luze eta gatzgabeak: frases largas e insípidas"
+    ]
   },
   {
     "id": 11890,
     "basque": "gatzgabetasun",
-    "spanish": "iz. insulsez, insipidez, sosada"
+    "spanish": "iz. insulsez, insipidez, sosada",
+    "examples": []
   },
   {
     "id": 11891,
     "basque": "gatzgabetu, gatzgabe(tu), gatzgabetzen",
-    "spanish": "1 da/du ad. desalar, desalinizar // 2 da/du ad. (hed.) quitar o perder la gracia/viveza, quitar o perder el ingenio"
+    "spanish": "1 da/du ad. desalar, desalinizar // 2 da/du ad. (hed.) quitar o perder la gracia/viveza, quitar o perder el ingenio",
+    "examples": [
+      "bakailaoa gatzgabetu: desalar el bacalao",
+      "itsasoko ura gatzgabetzeko teknika berria: una nueva técnica para desalinizar el agua de mar",
+      "kikilduta eta gatzgabetua: acobardado y sin gracia alguna"
+    ]
   },
   {
     "id": 11892,
     "basque": "gatzgabetze",
-    "spanish": "iz. desalación, desalinización"
+    "spanish": "iz. desalación, desalinización",
+    "examples": []
   },
   {
     "id": 11893,
     "basque": "gatzgile",
-    "spanish": "iz. salinero, -a [persona]"
+    "spanish": "iz. salinero, -a [persona]",
+    "examples": []
   },
   {
     "id": 11894,
     "basque": "gatzontzi",
-    "spanish": "iz. salero"
+    "spanish": "iz. salero",
+    "examples": [
+      "emadazu gatzontzia, mesedez: pásame el salero, por favor"
+    ]
   },
   {
     "id": 11895,
     "basque": "gatzozpindu",
-    "spanish": "iz. ensalada // du ad. aliñar, aderezar o condimentar con sal y vinagre"
+    "spanish": "iz. ensalada // du ad. aliñar, aderezar o condimentar con sal y vinagre",
+    "examples": []
   },
   {
     "id": 11896,
     "basque": "gau beranduan; gauean berandu",
-    "spanish": "avanzada la noche"
+    "spanish": "avanzada la noche",
+    "examples": []
   },
   {
     "id": 11897,
     "basque": "gau(a) egin",
-    "spanish": "iz. noche"
+    "spanish": "iz. noche",
+    "examples": []
   },
   {
     "id": 11898,
     "basque": "gaua egundu",
-    "spanish": "pasar la noche en blanco/claro"
+    "spanish": "pasar la noche en blanco/claro",
+    "examples": []
   },
   {
     "id": 11899,
     "basque": "gaua galdu",
-    "spanish": "pasar la noche en blanco/claro"
+    "spanish": "pasar la noche en blanco/claro",
+    "examples": []
   },
   {
     "id": 11900,
     "basque": "gauak egun egin",
-    "spanish": "trabajar de noche"
+    "spanish": "trabajar de noche",
+    "examples": []
   },
   {
     "id": 11901,
     "basque": "gaualdi",
-    "spanish": "iz. (Z) noche, tiempo nocturno"
+    "spanish": "iz. (Z) noche, tiempo nocturno",
+    "examples": [
+      "neguko gaualdi luzeetan: en las largas horas de las noches de invierno"
+    ]
   },
   {
     "id": 11902,
     "basque": "gauaro",
-    "spanish": "iz. temperatura o tiempo de la noche, generalmente bueno"
+    "spanish": "iz. temperatura o tiempo de la noche, generalmente bueno",
+    "examples": [
+      "gauaro ederra dago eta kanpoan afalduko dugu: hace una noche estupenda y cenaremos al aire libre"
+    ]
   },
   {
     "id": 11903,
     "basque": "gaubeilari",
-    "spanish": "iz. (el) que participa en un velatorio o vela"
+    "spanish": "iz. (el) que participa en un velatorio o vela",
+    "examples": []
   },
   {
     "id": 11904,
     "basque": "gaubeilatu, gaubeila(tu), gaubeilatzen",
-    "spanish": "du ad. velar [un cuerpo]"
+    "spanish": "du ad. velar [un cuerpo]",
+    "examples": [
+      "auzoko guztiek beilatu zuten: lo velaron todos los del barrio"
+    ]
   },
   {
     "id": 11905,
     "basque": "gauberandu",
-    "spanish": "iz. periodo de la noche a partir de medianoche; alta o avanzada noche"
+    "spanish": "iz. periodo de la noche a partir de medianoche; alta o avanzada noche",
+    "examples": [
+      "gauberandu itzuli zinen bart: anoche regresaste más tarde de las doce"
+    ]
   },
   {
     "id": 11906,
     "basque": "gaudimen",
-    "spanish": "1  iz. (Ipar.) goce y disfrute de algo // 2  iz. garantía"
+    "spanish": "1  iz. (Ipar.) goce y disfrute de algo // 2  iz. garantía",
+    "examples": [
+      "galdeginen ditu han egonen direnentzat gaudimenak: pedirá garantías para los que estarán allí"
+    ]
   },
   {
     "id": 11907,
     "basque": "gauekotasun",
-    "spanish": "iz. nocturnidad"
+    "spanish": "iz. nocturnidad",
+    "examples": []
   },
   {
     "id": 11908,
     "basque": "gauerdi",
-    "spanish": "iz. medianoche, las doce de la noche"
+    "spanish": "iz. medianoche, las doce de la noche",
+    "examples": [
+      "ETBk gauerdian amaitzen du bere emanaldia: ETB finaliza su emisión a medianoche",
+      "gauerdiz gero ezer jan eta edan gabe: sin beber ni comer nada desde la medianoche",
+      "gauerdiak jo du: han dado las doce de la noche"
+    ]
   },
   {
     "id": 11909,
     "basque": "gauerdiko eguzki",
-    "spanish": "sol de medianoche"
+    "spanish": "sol de medianoche",
+    "examples": []
   },
   {
     "id": 11910,
     "basque": "gauero",
-    "spanish": "adb. todas las noches"
+    "spanish": "adb. todas las noches",
+    "examples": [
+      "ostiral gauero parranda egiten dugu: todas las noches del los viernes nos vamos de juerga"
+    ]
   },
   {
     "id": 11911,
     "basque": "Gauez katu guztiak beltzak",
-    "spanish": "De noche, todos los gatos son pardos"
+    "spanish": "De noche, todos los gatos son pardos",
+    "examples": []
   },
   {
     "id": 11912,
     "basque": "gaur",
-    "spanish": "1  adb. hoy // 2  adb. hoy, hoy (en) día, actualmente, en la actualidad, ahora // 3  adb. hoy a la noche, en la noche de hoy"
+    "spanish": "1  adb. hoy // 2  adb. hoy, hoy (en) día, actualmente, en la actualidad, ahora // 3  adb. hoy a la noche, en la noche de hoy",
+    "examples": [
+      "gaur bertan bukatuko dut: lo terminaré hoy mismo",
+      "ez lehen bakarrik, gaur ere badira horrelakoak: no es solo cosa del pasado, hoy en día también hay cosas así"
+    ]
   },
   {
     "id": 11913,
     "basque": "gaur agertu bat egin beharko diogu",
-    "spanish": "hoy tendremos que hacerle una visita"
+    "spanish": "hoy tendremos que hacerle una visita",
+    "examples": []
   },
   {
     "id": 11914,
     "basque": "gaur arte(an)",
-    "spanish": "hasta hoy, hasta la fecha, hasta el día de hoy"
+    "spanish": "hasta hoy, hasta la fecha, hasta el día de hoy",
+    "examples": []
   },
   {
     "id": 11915,
     "basque": "gaur den egunean",
-    "spanish": "hoy (en) día"
+    "spanish": "hoy (en) día",
+    "examples": []
   },
   {
     "id": 11916,
     "basque": "gaur zortzi",
-    "spanish": "1 hace una semana // 2 dentro de una semana"
+    "spanish": "1 hace una semana // 2 dentro de una semana",
+    "examples": [
+      "gaur zortzi ikusi nuen: lo vi hace una semana",
+      "gaur zortzi iritsiko da: llegará dentro de una semana"
+    ]
   },
   {
     "id": 11917,
     "basque": "gaur-gaurkoz",
-    "spanish": "hoy por hoy, de momento"
+    "spanish": "hoy por hoy, de momento",
+    "examples": [
+      "gaur-gaurkoz ez dugu datu fidagarririk: de momento no tenemos datos fiables"
+    ]
   },
   {
     "id": 11918,
     "basque": "gaurgero",
-    "spanish": "1 adb. para ahora, para entonces; ya // 2 adb. desde hoy, a partir de hoy, de hoy en adelante"
+    "spanish": "1 adb. para ahora, para entonces; ya // 2 adb. desde hoy, a partir de hoy, de hoy en adelante",
+    "examples": [
+      "gogortu da ogia gaurgero, ezen lau egunekoa da: el pan ya estará duro, porque es de hace cuatro días",
+      "gaurgero ez da handituko: desde hoy no se hinchará"
+    ]
   },
   {
     "id": 11919,
     "basque": "gaurkotasun",
-    "spanish": "iz. actualidad"
+    "spanish": "iz. actualidad",
+    "examples": [
+      "arazoaren garrantzia eta gaurkotasuna: la importancia y la actualidad del problema"
+    ]
   },
   {
     "id": 11920,
     "basque": "gaurkotu, gaurko(tu), gaurkotzen",
-    "spanish": "da/du ad. actualizar(se), poner(se) al día"
+    "spanish": "da/du ad. actualizar(se), poner(se) al día",
+    "examples": [
+      "erakundearen egitura gaurkotu egin behar dugu: debemos actualizar la estructura de la organización",
+      "argitaraldi gaurkotua: una edición actualizada"
+    ]
   },
   {
     "id": 11921,
     "basque": "gaurkoz",
-    "spanish": "por hoy, hoy"
+    "spanish": "por hoy, hoy",
+    "examples": [
+      "gaurkoz nahikoa egin dugu: por hoy ya hemos hecho suficiente"
+    ]
   },
   {
     "id": 11922,
     "basque": "gautar",
-    "spanish": "1 adj. (Ekol.) nocturno, -a // 2 adj. juerguista, parrandero, -a, noctámbulo, -a"
+    "spanish": "1 adj. (Ekol.) nocturno, -a // 2 adj. juerguista, parrandero, -a, noctámbulo, -a",
+    "examples": [
+      "hegazti gautarrak: aves nocturnas",
+      "loti naiz, ez gautar: soy un dormilón, no un juerguista"
+    ]
   },
   {
     "id": 11923,
     "basque": "gautartasun",
-    "spanish": "iz. nocturnidad"
+    "spanish": "iz. nocturnidad",
+    "examples": []
   },
   {
     "id": 11924,
     "basque": "gautu, gau(tu), gautzen",
-    "spanish": "da/du ad. anochecer, oscurecer, hacerse de noche, echarse la noche, cerrar la noche"
+    "spanish": "da/du ad. anochecer, oscurecer, hacerse de noche, echarse la noche, cerrar la noche",
+    "examples": [
+      "gautu zenean sartu ziren lapurrak: los ladrones entraron cuando oscureció",
+      "udan berandu gautzen du: en verano anochece más tarde"
+    ]
   },
   {
     "id": 11925,
     "basque": "gauza izan",
-    "spanish": "ser capaz"
+    "spanish": "ser capaz",
+    "examples": [
+      "oraindik gauza naiz lanerako: todavía estoy capacitado para trabajar",
+      "alfer hutsa da, gauza da goiz osoa lotan emateko: es un vago, es capaz de pasarse toda la mañana dormido"
+    ]
   },
   {
     "id": 11926,
     "basque": "gauzaez",
-    "spanish": "1  izond. (B) inútil, insignificante, despreciable // 2  iz. incapacidad, inutilidad, nulidad"
+    "spanish": "1  izond. (B) inútil, insignificante, despreciable // 2  iz. incapacidad, inutilidad, nulidad",
+    "examples": []
   },
   {
     "id": 11927,
     "basque": "gauzain",
-    "spanish": "1  iz. vigilante nocturno; sereno"
+    "spanish": "1  iz. vigilante nocturno; sereno",
+    "examples": [
+      "gauzainaren parte hartzeari esker, ez zen ezbeharrik gertatu: la intervención de la sereno evitó una tragedia",
+      "gauzaina hil eta fabrikan sartu ziren lapurrak: los ladrones mataron al vigilante y entraron en la fábrica"
+    ]
   },
   {
     "id": 11928,
     "basque": "gauzaintza",
-    "spanish": "1  iz. servicio de vigilancia nocturna; oficio de vigilante nocturno, oficio de sereno"
+    "spanish": "1  iz. servicio de vigilancia nocturna; oficio de vigilante nocturno, oficio de sereno",
+    "examples": []
   },
   {
     "id": 11929,
     "basque": "gauzaki",
-    "spanish": "iz. objeto, cosa, pieza"
+    "spanish": "iz. objeto, cosa, pieza",
+    "examples": [
+      "plastikozko gauzakiak: los objetos de plástico"
+    ]
   },
   {
     "id": 11930,
     "basque": "gauzale",
-    "spanish": "iz./izond. noctámbulo, -a; nocherniego, -a; trasnochador, -a"
+    "spanish": "iz./izond. noctámbulo, -a; nocherniego, -a; trasnochador, -a",
+    "examples": []
   },
   {
     "id": 11931,
     "basque": "gauzatu",
-    "spanish": "capacitar"
+    "spanish": "capacitar",
+    "examples": [
+      "baina gero hazi zinen; gauzatu zinen zeure kasa bizitzeko: pero luego creciste; te hiciste capaz de vivir por tu cuenta",
+      "proposatzen diguzun guztia gauzatuko bazenu: si llevaras a cabo todo lo que nos propones",
+      "akordioaren puntuak gauzatzeko pausoak: los pasos de ejecución de los puntos del acuerdo",
+      "plangintza ez da behar bezala gauzatu: el plan no se ha realizado como es debido"
+    ]
   },
   {
     "id": 11932,
     "basque": "gauzatu, gauza(tu), gauzatzen",
-    "spanish": "1  da/du ad. capacitar(se), hacer(se) capaz, preparar(se) // 2  da/du ad. plasmar(se), elaborar(se), realizar(se), llevar a cabo, materializarse, ejecutar(se), cosificar, sustanciar, substanciar"
+    "spanish": "1  da/du ad. capacitar(se), hacer(se) capaz, preparar(se) // 2  da/du ad. plasmar(se), elaborar(se), realizar(se), llevar a cabo, materializarse, ejecutar(se), cosificar, sustanciar, substanciar",
+    "examples": [
+      "baina gero hazi zinen; gauzatu zinen zeure kasa bizitzeko: pero luego creciste; te hiciste capaz de vivir por tu cuenta",
+      "proposatzen diguzun guztia gauzatuko bazenu: si llevaras a cabo todo lo que nos propones",
+      "akordioaren puntuak gauzatzeko pausoak: los pasos de ejecución de los puntos del acuerdo",
+      "plangintza ez da behar bezala gauzatu: el plan no se ha realizado como es debido"
+    ]
   },
   {
     "id": 11933,
     "basque": "gauzaz",
-    "spanish": "en especie"
+    "spanish": "en especie",
+    "examples": [
+      "errenta gauzaz ordaintzen zen: la renta se pagaba en especie"
+    ]
   },
   {
     "id": 11934,
     "basque": "gazatar",
-    "spanish": "adj./iz. gazatí"
+    "spanish": "adj./iz. gazatí",
+    "examples": []
   },
   {
     "id": 11935,
     "basque": "gazberritu, gazberri, gazberritzen",
-    "spanish": "du ad. salar de nuevo [el tocino, la carne]"
+    "spanish": "du ad. salar de nuevo [el tocino, la carne]",
+    "examples": []
   },
   {
     "id": 11936,
     "basque": "gazi-gezan ikusi",
-    "spanish": "probar si está bien de sal la comida"
+    "spanish": "probar si está bien de sal la comida",
+    "examples": [
+      "gazi-gezan janaria nola dagoen begiratu al duzu?: ¿has comprobado cómo está de sal la comida?"
+    ]
   },
   {
     "id": 11937,
     "basque": "gazi-gozo",
-    "spanish": "agridulce"
+    "spanish": "agridulce",
+    "examples": [
+      "nolako sentimendu gazi-gozoz irakurri ditudan: con qué sentimiento agridulce los he leído"
+    ]
   },
   {
     "id": 11938,
     "basque": "gazialdi",
-    "spanish": "iz. (Ipar.) escarmiento, castigo"
+    "spanish": "iz. (Ipar.) escarmiento, castigo",
+    "examples": [
+      "maltzurkeria hori egin dutenek hartu behar lukete gazialdi ona: los que han hecho esa gamberrada se merecen un buen escarmiento"
+    ]
   },
   {
     "id": 11939,
     "basque": "gazidura",
-    "spanish": "iz. salinidad"
+    "spanish": "iz. salinidad",
+    "examples": []
   },
   {
     "id": 11940,
     "basque": "gazigarri",
-    "spanish": "1  iz. salador, -a; lo que sala // 2  iz. aperitivo"
+    "spanish": "1  iz. salador, -a; lo que sala // 2  iz. aperitivo",
+    "examples": [
+      "lapikoan gazigarria bota: echar al puchero algo que sale"
+    ]
   },
   {
     "id": 11941,
     "basque": "gaziki",
-    "spanish": "adb. saladamente // iz. salazón, salón, carne o pescado salado"
+    "spanish": "adb. saladamente // iz. salazón, salón, carne o pescado salado",
+    "examples": [
+      "garai batean orain baino gaziki gehiago jaten zen: antes se comían más salazones que ahora"
+    ]
   },
   {
     "id": 11942,
     "basque": "gazitasun",
-    "spanish": "1 iz. salinidad // 2 iz. salobridad"
+    "spanish": "1 iz. salinidad // 2 iz. salobridad",
+    "examples": [
+      "uretan beratzen jarri bakailaoa gazitasuna kentzeko: pon el bacalao a remojo en el agua para quitarle la salinidad",
+      "itsas uraren gazitasuna: la salobridad del agua del mar"
+    ]
   },
   {
     "id": 11943,
     "basque": "gazitegi",
-    "spanish": "1  iz. depósito o recipiente de sal, o de comida curada con sal, que hay en las casas // 2  iz. [lugar] saladero"
+    "spanish": "1  iz. depósito o recipiente de sal, o de comida curada con sal, que hay en las casas // 2  iz. [lugar] saladero",
+    "examples": [
+      "haragi-gazitegira eraman ezazu: llévalo al saladero de carne"
+    ]
   },
   {
     "id": 11944,
     "basque": "gazitu, gazi(tu), gazitzen",
-    "spanish": "1 da/du ad. salar, echar más sal de la necesaria // 2 da/du ad. [haragia, arraina] salar, echar en sal, curar con sal // 3 da/du ad. [jatekoa] salar, echar sal, sazonar/condimentar con sal"
+    "spanish": "1 da/du ad. salar, echar más sal de la necesaria // 2 da/du ad. [haragia, arraina] salar, echar en sal, curar con sal // 3 da/du ad. [jatekoa] salar, echar sal, sazonar/condimentar con sal",
+    "examples": [
+      "bakailaoak gazitu egin du saltsa: el bacalao ha salado la salsa",
+      "bakailao gazitua: bacalao curado con sal",
+      "zopa gazitu: echar sal a la sopa"
+    ]
   },
   {
     "id": 11945,
     "basque": "gazitzaile",
-    "spanish": "iz. salador, -a"
+    "spanish": "iz. salador, -a",
+    "examples": [
+      "arrain-gazitzailearengana noa: voy a ver al saladero de pescado"
+    ]
   },
   {
     "id": 11946,
     "basque": "gazitze",
-    "spanish": "1  iz. salazón [proceso]"
+    "spanish": "1  iz. salazón [proceso]",
+    "examples": [
+      "zortzi egunez gazitzen utzi: mantener ocho días en salazón",
+      "gatzitze-industria: industria de la salazón",
+      "lurzorua gazitzea: la salinización del suelo"
+    ]
   },
   {
     "id": 11947,
     "basque": "gazkin",
-    "spanish": "iz. salinero, -a [persona]"
+    "spanish": "iz. salinero, -a [persona]",
+    "examples": []
   },
   {
     "id": 11948,
     "basque": "gaztagile",
-    "spanish": "iz. quesero, -a; persona que hace quesos"
+    "spanish": "iz. quesero, -a; persona que hace quesos",
+    "examples": []
   },
   {
     "id": 11949,
     "basque": "gaztagintza",
-    "spanish": "iz. elaboración de quesos [oficio e industria]"
+    "spanish": "iz. elaboración de quesos [oficio e industria]",
+    "examples": [
+      "bezperan bildutako esnearekin gaztagintzan hasi zen: con la leche ordeñada la víspera empezó a elaborar quesos"
+    ]
   },
   {
     "id": 11950,
     "basque": "gaztainadi",
-    "spanish": "iz. (Ekol.) castañar, castañal"
+    "spanish": "iz. (Ekol.) castañar, castañal",
+    "examples": []
   },
   {
     "id": 11951,
     "basque": "gaztainondo",
-    "spanish": "iz. (Bot.) castaño (Castanea sativa)"
+    "spanish": "iz. (Bot.) castaño (Castanea sativa)",
+    "examples": []
   },
   {
     "id": 11952,
     "basque": "gaztanbera",
-    "spanish": "1 iz. requesón // 2 iz. cuajada"
+    "spanish": "1 iz. requesón // 2 iz. cuajada",
+    "examples": []
   },
   {
     "id": 11953,
     "basque": "gaztanontzi",
-    "spanish": "iz. encella, formaje, molde para hacer quesos"
+    "spanish": "iz. encella, formaje, molde para hacer quesos",
+    "examples": []
   },
   {
     "id": 11954,
     "basque": "gaztaro",
-    "spanish": "juventud (edad de la vida)"
+    "spanish": "juventud (edad de la vida)",
+    "examples": []
   },
   {
     "id": 11955,
     "basque": "gazteagotu, gazteago, gazteagotzen",
-    "spanish": "da/du ad. rejuvenecer"
+    "spanish": "da/du ad. rejuvenecer",
+    "examples": []
   },
   {
     "id": 11956,
     "basque": "gaztealdi",
-    "spanish": "iz. juventud [época de la vida]"
+    "spanish": "iz. juventud [época de la vida]",
+    "examples": []
   },
   {
     "id": 11957,
     "basque": "gaztedi",
-    "spanish": "juventud [conjunto de jóvenes]"
+    "spanish": "juventud [conjunto de jóvenes]",
+    "examples": []
   },
   {
     "id": 11958,
     "basque": "gaztekeria",
-    "spanish": "iz. cosa de jóvenes; comportamiento de jóvenes; chiquillada"
+    "spanish": "iz. cosa de jóvenes; comportamiento de jóvenes; chiquillada",
+    "examples": []
   },
   {
     "id": 11959,
     "basque": "gaztelaniadun",
-    "spanish": "adj./iz. castellanoparlante"
+    "spanish": "adj./iz. castellanoparlante",
+    "examples": []
   },
   {
     "id": 11960,
     "basque": "gaztelaniatu, gaztelania(tu), gaztelaniatzen",
-    "spanish": "da/du ad. castellanizar(se)"
+    "spanish": "da/du ad. castellanizar(se)",
+    "examples": []
   },
   {
     "id": 11961,
     "basque": "gaztelu",
-    "spanish": "castillo"
+    "spanish": "castillo",
+    "examples": [
+      "Butroeko gaztelua: el castillo de Butrón"
+    ]
   },
   {
     "id": 11962,
     "basque": "gazteluzain",
-    "spanish": "iz. castellano, guardián o gobernador de un castillo"
+    "spanish": "iz. castellano, guardián o gobernador de un castillo",
+    "examples": []
   },
   {
     "id": 11963,
     "basque": "gaztetan",
-    "spanish": "de joven"
+    "spanish": "de joven",
+    "examples": [
+      "gaztetan egin genituen bidaietan: en los viajes que hicimos en nuestra juventud"
+    ]
   },
   {
     "id": 11964,
     "basque": "gaztetasun",
-    "spanish": "1 iz. [ezaugarria] juventud // 2 iz. (Ipar.) [gaztaroa] juventud"
+    "spanish": "1 iz. [ezaugarria] juventud // 2 iz. (Ipar.) [gaztaroa] juventud",
+    "examples": [
+      "gaztetasunak indarra ematen digu: la juventud nos da fuerzas",
+      "gaztetasuneko urteak: los años de juventud"
+    ]
   },
   {
     "id": 11965,
     "basque": "gaztetu, gazte(tu), gaztetzen",
-    "spanish": "1  da/du ad. rejuvenecer(se) // 2  da ad. alcanzar la juventud; llegar a la adolescencia; dejar de ser niño"
+    "spanish": "1  da/du ad. rejuvenecer(se) // 2  da ad. alcanzar la juventud; llegar a la adolescencia; dejar de ser niño",
+    "examples": [
+      "alargundu denez gero gaztetu da oso: desde que enviudó ha rejuvenecido mucho",
+      "hamar urtez gaztetu nau orrazkera berri horrek: ese nuevo peinado me ha rejuvenecido diez años",
+      "zure haurrak gaztetzen direnean: cuando tus hijos alcancen la juventud"
+    ]
   },
   {
     "id": 11966,
     "basque": "gaztetxe",
-    "spanish": "casa juvenil ocupada para realizar actividades culturales"
+    "spanish": "casa juvenil ocupada para realizar actividades culturales",
+    "examples": []
   },
   {
     "id": 11967,
     "basque": "gaztetxo",
-    "spanish": "iz. jovencito, -a; joven; adolescente"
+    "spanish": "iz. jovencito, -a; joven; adolescente",
+    "examples": []
   },
   {
     "id": 11968,
     "basque": "gaztetze",
-    "spanish": "1  iz. rejuvenecimiento"
+    "spanish": "1  iz. rejuvenecimiento",
+    "examples": [
+      "kolore biziek haren itxura gaztetzea lortu dute: los colores alegres han conseguido el rejuvenecimiento de su aspecto",
+      "erliebearen gaztetzea gerta dadin aldaketa ugarik gertatu behar du: para que se de el rejuvenecimiento de relieve deben acontecer muchos cambios"
+    ]
   },
   {
     "id": 11969,
     "basque": "gaztigatu, gaztiga, gaztigatzen",
-    "spanish": "dio ad. avisar, comunicar, notificar // du ad. (Ipar.) castigar, dar un escarmiento"
+    "spanish": "dio ad. avisar, comunicar, notificar // du ad. (Ipar.) castigar, dar un escarmiento",
+    "examples": [
+      "alkateari gaztigatu dio: le ha avisado al alcalde",
+      "gogorki gaztigatu nau: me ha castigado severamente"
+    ]
   },
   {
     "id": 11970,
     "basque": "gaztigu",
-    "spanish": "iz. aviso, mensaje, notificación, comunicación //  iz. (Ipar.) castigo; escarmiento"
+    "spanish": "iz. aviso, mensaje, notificación, comunicación //  iz. (Ipar.) castigo; escarmiento",
+    "examples": [
+      "zure gaztigu kontsolagarri hark bihotza poztu zidan: tu mensaje de consuelo me alegró el corazón",
+      "hartu zuen merezi zuen gaztigua: recibió el castigo que merecía"
+    ]
   },
   {
     "id": 11971,
     "basque": "gebendu, geben, gebentzen",
-    "spanish": "du ad. vedar, prohibir"
+    "spanish": "du ad. vedar, prohibir",
+    "examples": []
   },
   {
     "id": 11972,
     "basque": "gehiago egin",
-    "spanish": "superar, vencer; rebasar"
+    "spanish": "superar, vencer; rebasar",
+    "examples": [
+      "agertzen diren eragozpenei gehiago egin: superar las trabas que se presenten"
+    ]
   },
   {
     "id": 11973,
     "basque": "gehiago izan",
-    "spanish": "ser más, ser superior, ser mejor"
+    "spanish": "ser más, ser superior, ser mejor",
+    "examples": [
+      "kartetan bere anaia baino gehiago da: jugando a las cartas es mejor que su hermano"
+    ]
   },
   {
     "id": 11974,
     "basque": "gehiagoko",
-    "spanish": "izlag. más; superior, que excede (de)"
+    "spanish": "izlag. más; superior, que excede (de)",
+    "examples": [
+      "gehiagoko xehetasunetan sartu gabe: sin entrar en más detalles",
+      "lau mugimendu baino gehiagoko konposizioa da divertimentoa: el divertimento es una composición de más de cuatro movimientos",
+      "bost metro baino gehiagoko zuhaitza: un árbol superior a cinco metros"
+    ]
   },
   {
     "id": 11975,
     "basque": "gehiagoko(rik) gabe; gehiago(rik) gabe",
-    "spanish": "sin más, sin ninguna razón, sin ningún motivo"
+    "spanish": "sin más, sin ninguna razón, sin ningún motivo",
+    "examples": []
   },
   {
     "id": 11976,
     "basque": "gehiagorik",
-    "spanish": "(batez ere baiezkoak ez diren perpausetan) más"
+    "spanish": "(batez ere baiezkoak ez diren perpausetan) más",
+    "examples": [
+      "ez ote dugu gehiagorik merezi?: ¿acaso no merecemos más?",
+      "ez diogu kalte gehiagorik egingo: no le perjudicaremos más"
+    ]
   },
   {
     "id": 11977,
     "basque": "gehiagotan",
-    "spanish": "más veces, más a menudo, con mayor frecuencia"
+    "spanish": "más veces, más a menudo, con mayor frecuencia",
+    "examples": [
+      "behin baino gehiagotan gertatu da hori: eso ha sucedido más de una vez",
+      "oso ondo pasa dugu, gehiagotan egin behar dugu plan hau: nos lo hemos pasado muy bien, debemos hacer este plan más a menudo"
+    ]
   },
   {
     "id": 11978,
     "basque": "gehiagotasun",
-    "spanish": "iz. superioridad"
+    "spanish": "iz. superioridad",
+    "examples": [
+      "horretan datza kirolari gazteen gehiagotasuna: ahí reside la superioridad de los deportistas jóvenes"
+    ]
   },
   {
     "id": 11979,
     "basque": "gehiagotu, gehiago(tu), gehiagotzen",
-    "spanish": "da/du ad. aumentar, crecer, incrementar, acrecentar [en número, en cantidad]"
+    "spanish": "da/du ad. aumentar, crecer, incrementar, acrecentar [en número, en cantidad]",
+    "examples": [
+      "urteekin beheraldiak urritu ez ezik, gehiagotu egin zitzaizkion: con el tiempo, sus decaídas lejos de disminuir se incrementaron",
+      "abere-mota hori ez da gehiagotu ez gutxiagotu gure artean: esa clase de animal no se ha incrementado ni se ha reducido entre nosotros",
+      "iaz ikasle gutxi genituen eta aurten gehiagotu egin dira: el año pasado teníamos pocos alumnos y este año se han incrementado"
+    ]
   },
   {
     "id": 11980,
     "basque": "gehiegi kargatu",
-    "spanish": "du ad. sobrecargar, cargar con exceso"
+    "spanish": "du ad. sobrecargar, cargar con exceso",
+    "examples": []
   },
   {
     "id": 11981,
     "basque": "gehiegikeria",
-    "spanish": "iz. exceso; exageración; abuso; desmesura; derroche, despilfarro"
+    "spanish": "iz. exceso; exageración; abuso; desmesura; derroche, despilfarro",
+    "examples": [
+      "barbaroen inbasioan gehiegikeria izugarriak egin ziren: en la invasión de los bárbaros se cometieron tremendos abusos",
+      "umeak beldurtzeko, gehiegikeriaz jositako kontakizuna asmatu zuen: se inventó un relato lleno de exageraciones para asustar a los niños",
+      "neurriz, gehiegikeriarik gabe: con medida, sin excesos"
+    ]
   },
   {
     "id": 11982,
     "basque": "gehiegitasun",
-    "spanish": "iz. cualidad de excesivo; exceso, -a; prolijidad; desmesura; demasía"
+    "spanish": "iz. cualidad de excesivo; exceso, -a; prolijidad; desmesura; demasía",
+    "examples": [
+      "eskariaren gehiegitasunari aurre egiteko: para hacer frente al exceso de demanda",
+      "ez urritasunak ez gehiegitasunak on egingo dizute: ni la escasez ni la desmesura te harán bien"
+    ]
   },
   {
     "id": 11983,
     "basque": "gehiegitu, gehiegi(tu), gehiegitzen",
-    "spanish": "da ad. sobrepasar, exceder, extralimitarse, aumentar en exceso, llegar a ser demasiados"
+    "spanish": "da ad. sobrepasar, exceder, extralimitarse, aumentar en exceso, llegar a ser demasiados",
+    "examples": [
+      "neurri estuak hartu beharko ditugu, istripuak gehiegitu dira eta: tendremos que tomar severas medidas porque los accidentes han aumentado excesivamente"
+    ]
   },
   {
     "id": 11984,
     "basque": "gehiegizko gaitasun",
-    "spanish": "sobrecapacidad"
+    "spanish": "sobrecapacidad",
+    "examples": [
+      "hitzartu da gobernuek arrain-salmenta bultzatu eta ontziteriaren gehiegizko gaitasuna gutxitu behar dutela: se ha acordado que los gobiernos deben impulsar la venta de la pesca y disminuir la sobrecapacidad de la flota"
+    ]
   },
   {
     "id": 11985,
     "basque": "gehienak",
-    "spanish": "mayoría"
+    "spanish": "mayoría",
+    "examples": []
   },
   {
     "id": 11986,
     "basque": "gehienbat",
-    "spanish": "sobre todo, mayormente, mayoritariamente, principalmente, preferentemente"
+    "spanish": "sobre todo, mayormente, mayoritariamente, principalmente, preferentemente",
+    "examples": [
+      "gure artean gehienbat erabiltzen diren gaiak: los temas que tratamos principalmente",
+      "estatuaren eskuetan gelditu zen gehienbat irakaskuntza: la enseñanza se quedó principalmente en manos del Estado",
+      "jende asko hurbildu zen haren hiletara, familiartekoak gehienbat: vino mucha gente a su funeral, mayoritariamente familiares"
+    ]
   },
   {
     "id": 11987,
     "basque": "gehieneko",
-    "spanish": "izlag. máximo, -a, límite"
+    "spanish": "izlag. máximo, -a, límite",
+    "examples": [
+      "baimendutako gehieneko abiadura: velocidad máxima autorizada"
+    ]
   },
   {
     "id": 11988,
     "basque": "gehienera (ere)",
-    "spanish": "a lo sumo, cuando más, cuando mucho, como mucho, como máximo"
+    "spanish": "a lo sumo, cuando más, cuando mucho, como mucho, como máximo",
+    "examples": []
   },
   {
     "id": 11989,
     "basque": "gehienez (ere); gehienaz (ere)",
-    "spanish": "a lo sumo, cuando más, cuando mucho, como mucho, como máximo"
+    "spanish": "a lo sumo, cuando más, cuando mucho, como mucho, como máximo",
+    "examples": []
   },
   {
     "id": 11990,
     "basque": "gehiengo",
-    "spanish": "1  iz. la mayoría, los más"
+    "spanish": "1  iz. la mayoría, los más",
+    "examples": [
+      "hobe da gehiengoak dioena egitea: es mejor hacer lo que dice la mayoría",
+      "gehiengoa lortu dute hauteskundeetan: han logrado la mayoría en las elecciones",
+      "zertan dago talde horren gehiengoa?: ¿en qué se basa la superioridad de ese grupo?"
+    ]
   },
   {
     "id": 11991,
     "basque": "gehiengo kalifikatu",
-    "spanish": "mayoría cualificada"
+    "spanish": "mayoría cualificada",
+    "examples": []
   },
   {
     "id": 11992,
     "basque": "gehiengo oso; erabateko gehiengo",
-    "spanish": "(Pol.) mayoría absoluta"
+    "spanish": "(Pol.) mayoría absoluta",
+    "examples": []
   },
   {
     "id": 11993,
     "basque": "gehienik ere",
-    "spanish": "a lo sumo, cuando más, cuando mucho, como mucho, como máximo"
+    "spanish": "a lo sumo, cuando más, cuando mucho, como mucho, como máximo",
+    "examples": [
+      "amak gehienik ere hogeita hamabi urte izango ditu: la madre tendrá como mucho treinta y dos años"
+    ]
   },
   {
     "id": 11994,
     "basque": "gehientasun",
-    "spanish": "1 iz. (Ipar.) mayoría // 2 iz. (batez ere Z) primacía, superioridad, supremacía"
+    "spanish": "1 iz. (Ipar.) mayoría // 2 iz. (batez ere Z) primacía, superioridad, supremacía",
+    "examples": [
+      "gehientasunak ematen dion boterearekin: con el poder que le da la mayoría",
+      "printzeei eta gehientasuna dutenei: a los príncipes y a los que gozan de una superioridad"
+    ]
   },
   {
     "id": 11995,
     "basque": "gehientsu",
-    "spanish": "1 zenbtz. zehaztgb. la mayoría, casi todos, los más // 2 adb. más, en mayor medida"
+    "spanish": "1 zenbtz. zehaztgb. la mayoría, casi todos, los más // 2 adb. más, en mayor medida",
+    "examples": [
+      "guztiek, edo gehientsuek behintzat, baietz esango dute: todos, o al menos la mayoría, dirán que sí",
+      "aurten gehientsu irakurri den liburua: el libro que más se ha leído este año"
+    ]
   },
   {
     "id": 11996,
     "basque": "gehientsuenetan",
-    "spanish": "adb. la mayoría de las veces"
+    "spanish": "adb. la mayoría de las veces",
+    "examples": [
+      "ekinaldi gehientsuenetan hasierak ilunak izan ohi dira: en la mayoría de las actividades el comienzo suele ser bastante descorazonador"
+    ]
   },
   {
     "id": 11997,
     "basque": "gehigarri",
-    "spanish": "1  iz. suplemento, complemento, añadido, añadidura, aditamento // 2  iz. suplemento; anexo, apéndice // 3  izond. suplementario, -a, complementario, -a // 4  iz./izond. (Kim.) aditivo, -a"
+    "spanish": "1  iz. suplemento, complemento, añadido, añadidura, aditamento // 2  iz. suplemento; anexo, apéndice // 3  izond. suplementario, -a, complementario, -a // 4  iz./izond. (Kim.) aditivo, -a",
+    "examples": [
+      "sariaren gehigarri gisa: como complemento del premio",
+      "egunkariaren igandetako gehigarria: el suplemento dominical del periódico",
+      "tasa gehigarria: tasa suplementaria",
+      "elikagaietako gehigarriak: los aditivos de los alimentos",
+      "substantzia gehigarriak: sustancias aditivas"
+    ]
   },
   {
     "id": 11998,
     "basque": "gehigarrizko",
-    "spanish": "izlag. adicional"
+    "spanish": "izlag. adicional",
+    "examples": [
+      "gehigarrizko xedapena: disposición adicional"
+    ]
   },
   {
     "id": 11999,
     "basque": "gehikor",
-    "spanish": "izond. (Zuz.) [zerga] progresivo, -a"
+    "spanish": "izond. (Zuz.) [zerga] progresivo, -a",
+    "examples": []
   },
   {
     "id": 12000,
     "basque": "gehikortasun",
-    "spanish": "iz. (Zuz.) progresividad"
+    "spanish": "iz. (Zuz.) progresividad",
+    "examples": [
+      "gehikortasun-printzipioa: principio de progresividad"
+    ]
   },
   {
     "id": 12001,
     "basque": "gehikuntza",
-    "spanish": "1  iz. aumento, incremento, crecimiento, adición // 2  iz. (Mat.) incremento"
+    "spanish": "1  iz. aumento, incremento, crecimiento, adición // 2  iz. (Mat.) incremento",
+    "examples": [
+      "ekoizpenaren gehikuntza: el crecimiento de la producción"
+    ]
   },
   {
     "id": 12002,
     "basque": "gehitu, gehi, gehitzen",
-    "spanish": "da/du ad. aumentar(se), incrementar(se); añadir, agregar, sumar // izond. (Mus.) aumentado, -a"
+    "spanish": "da/du ad. aumentar(se), incrementar(se); añadir, agregar, sumar // izond. (Mus.) aumentado, -a",
+    "examples": [
+      "hirurogei euro gehitu zuten saria: incrementaron el premio en sesenta euros",
+      "soldatak gehitzea eskatzen dute: piden que se aumenten los sueldos",
+      "zorrak gehituz doaz: las deudas van aumentando",
+      "hori ez da nahikoa, beste bi poltsa gehitu beharko dizkiozu: eso no es suficiente, tendrás que añadirle otras dos bolsas",
+      "ez diot esanari deus gehituko: no añadiré nada a lo que he dicho",
+      "akorde bostun gehitu: acorde de quinta aumentada"
+    ]
   },
   {
     "id": 12003,
     "basque": "gehitxoago",
-    "spanish": "zenbtz. zehaztgb. algo más, un poco más"
+    "spanish": "zenbtz. zehaztgb. algo más, un poco más",
+    "examples": []
   },
   {
     "id": 12004,
