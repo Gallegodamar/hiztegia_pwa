@@ -15352,347 +15352,495 @@
   {
     "id": 2189,
     "basque": "areago",
-    "spanish": "adb. más; más aún, incluso más, todavía más"
+    "spanish": "adb. más; más aún, incluso más, todavía más",
+    "examples": [
+      "gureak baino areago nahi ditugunak: aquellos que queremos más incluso que a los nuestros"
+    ]
   },
   {
     "id": 2190,
     "basque": "areagotu, areago(tu), areagotzen",
-    "spanish": "da/du ad. aumentar, acrecentar(se), hacer(se) mayor [sobre todo en referencia a una cualidad]; acentuar(se), intensificar(se), agravar(se)"
+    "spanish": "da/du ad. aumentar, acrecentar(se), hacer(se) mayor [sobre todo en referencia a una cualidad]; acentuar(se), intensificar(se), agravar(se)",
+    "examples": [
+      "zorigaitza areagotu egin zitzaion: aumentó su desgracia",
+      "denborak zimurrak areagotzen ditu: el tiempo acentúa las arrugas",
+      "istiluak areagotu egin dira: los disturbios se han intensificado"
+    ]
   },
   {
     "id": 2191,
     "basque": "areagotze",
-    "spanish": "iz. aumento; acentuación, agravamiento, intensificación; agudización"
+    "spanish": "iz. aumento; acentuación, agravamiento, intensificación; agudización",
+    "examples": []
   },
   {
     "id": 2192,
     "basque": "arean",
-    "spanish": "1  adb. (B) (ezezko testuinguruetan; ondoan ere har dezake) nada, ninguna cosa; nadie, ninguna persona // 2  adb. (B) (baiezko testuinguruetan eta galde-perpausetan) algo // 3  adb. (B) sin duda, ciertamente"
+    "spanish": "1  adb. (B) (ezezko testuinguruetan; ondoan ere har dezake) nada, ninguna cosa; nadie, ninguna persona // 2  adb. (B) (baiezko testuinguruetan eta galde-perpausetan) algo // 3  adb. (B) sin duda, ciertamente",
+    "examples": [
+      "nik neuk ez dakit arean: yo al menos no sé nada",
+      "areanek ez du egin: no lo ha hecho nadie",
+      "—zer berri? —oraindanik arean ere ez berririk, jauna: —¿qué hay de nuevo? —de momento nada, señor",
+      "arean daukazu?: tienes algo?",
+      "arean-arean saldu dugu, baina ez asko: hemos vendido algo, pero no mucho",
+      "bat ere ez baino hobea da hori, arean: eso es sin duda mejor que nada"
+    ]
   },
   {
     "id": 2193,
     "basque": "arean eta",
-    "spanish": "(B) hasta que"
+    "spanish": "(B) hasta que",
+    "examples": []
   },
   {
     "id": 2194,
     "basque": "areka",
-    "spanish": "iz. zanja, acequia; canal, regata; cuneta, badén"
+    "spanish": "iz. zanja, acequia; canal, regata; cuneta, badén",
+    "examples": []
   },
   {
     "id": 2195,
     "basque": "areki",
-    "spanish": "1 iz. (B) árbol bravío muy grande // 2 iz. insignificancia, nimiedad"
+    "spanish": "1 iz. (B) árbol bravío muy grande // 2 iz. insignificancia, nimiedad",
+    "examples": []
   },
   {
     "id": 2196,
     "basque": "arerio",
-    "spanish": "iz. enemigo, -a; contrario, -a, adversario, -a, rival, antagonista"
+    "spanish": "iz. enemigo, -a; contrario, -a, adversario, -a, rival, antagonista",
+    "examples": [
+      "arerioak nonahi zituen: tenía enemigos por doquier",
+      "ez zara edariaren arerio, ez horixe!: ¡no eres precisamente enemigo de la bebida!"
+    ]
   },
   {
     "id": 2197,
     "basque": "areriotasun",
-    "spanish": "iz. enemistad, aversión, hostilidad; rivalidad, antagonismo"
+    "spanish": "iz. enemistad, aversión, hostilidad; rivalidad, antagonismo",
+    "examples": []
   },
   {
     "id": 2198,
     "basque": "areriotu, arerio(tu), areriotzen",
-    "spanish": "da/du ad. (B) enemistar(se)"
+    "spanish": "da/du ad. (B) enemistar(se)",
+    "examples": []
   },
   {
     "id": 2199,
     "basque": "aresti arte",
-    "spanish": "hasta hace poco"
+    "spanish": "hasta hace poco",
+    "examples": [
+      "aresti arte iraun du: ha durado hasta hace poco"
+    ]
   },
   {
     "id": 2200,
     "basque": "arestian",
-    "spanish": "hace poco tiempo, no hace mucho, poco antes"
+    "spanish": "hace poco tiempo, no hace mucho, poco antes",
+    "examples": [
+      "arestian aipatu dugu: hace un momento lo hemos mencionado"
+    ]
   },
   {
     "id": 2201,
     "basque": "Arestian jorratutako adibideetan",
-    "spanish": "En los ejemplos anteriormente tratados"
+    "spanish": "En los ejemplos anteriormente tratados",
+    "examples": []
   },
   {
     "id": 2202,
     "basque": "arestiko",
-    "spanish": "izlag. de hace poco, de no hace mucho; reciente; poco antes mencionado"
+    "spanish": "izlag. de hace poco, de no hace mucho; reciente; poco antes mencionado",
+    "examples": [
+      "arestiko legeek dibortzioa onesten dute: las leyes mencionadas aprueban el divorcio"
+    ]
   },
   {
     "id": 2203,
     "basque": "arestiz gero",
-    "spanish": "desde hace poco tiempo, últimamente"
+    "spanish": "desde hace poco tiempo, últimamente",
+    "examples": [
+      "arestiz gero esan duguna: lo que venimos diciendo últimamente"
+    ]
   },
   {
     "id": 2204,
     "basque": "areto",
-    "spanish": "iz. sala, salón; local, recinto"
+    "spanish": "iz. sala, salón; local, recinto",
+    "examples": [
+      "batzar-aretoa: salón de sesiones",
+      "hitzaldi-aretoa: sala de conferencias",
+      "areto girotua: salón climatizado"
+    ]
   },
   {
     "id": 2205,
     "basque": "areto nagusi",
-    "spanish": "salón de actos; paraninfo, aula magna"
+    "spanish": "salón de actos; paraninfo, aula magna",
+    "examples": []
   },
   {
     "id": 2206,
     "basque": "aretozain",
-    "spanish": "iz. encargado/guardián de un local; [zineman, antzokian] acomodador, -a"
+    "spanish": "iz. encargado/guardián de un local; [zineman, antzokian] acomodador, -a",
+    "examples": []
   },
   {
     "id": 2207,
     "basque": "aretx",
-    "spanish": "iz. roble ➥ haritz"
+    "spanish": "iz. roble ➥ haritz",
+    "examples": []
   },
   {
     "id": 2208,
     "basque": "argaldu, argal(du), argaltzen",
-    "spanish": "1 da/du ad. adelgazar, enflaquecer // 2 da/du ad. debilitar(se), flaquear, cansar(se) // 3 da/du ad. escasear, ralear, espaciar"
+    "spanish": "1 da/du ad. adelgazar, enflaquecer // 2 da/du ad. debilitar(se), flaquear, cansar(se) // 3 da/du ad. escasear, ralear, espaciar",
+    "examples": [
+      "argaldu nahi baduzu, gutxiago jan: si quieres adelgazar, come menos",
+      "bere indarrean argalduta: debilitado en su fuerza"
+    ]
   },
   {
     "id": 2209,
     "basque": "argalgarri",
-    "spanish": "izond. adelgazante"
+    "spanish": "izond. adelgazante",
+    "examples": [
+      "produktu argalgarria: producto adelgazante"
+    ]
   },
   {
     "id": 2210,
     "basque": "argalgune",
-    "spanish": "iz. punto débil/flaco; flaqueza"
+    "spanish": "iz. punto débil/flaco; flaqueza",
+    "examples": [
+      "denok dugu argalguneren bat: todos tenemos algún punto débil"
+    ]
   },
   {
     "id": 2211,
     "basque": "argalkeria",
-    "spanish": "delgadez, flaqueza // debilidad"
+    "spanish": "delgadez, flaqueza // debilidad",
+    "examples": []
   },
   {
     "id": 2212,
     "basque": "argaltasun",
-    "spanish": "1  iz. delgadez, flaqueza // 2  iz. debilidad"
+    "spanish": "1  iz. delgadez, flaqueza // 2  iz. debilidad",
+    "examples": []
   },
   {
     "id": 2213,
     "basque": "argaltze",
-    "spanish": "iz. adelgazamiento"
+    "spanish": "iz. adelgazamiento",
+    "examples": [
+      "argaltze-dieta: dieta de adelgazamiento"
+    ]
   },
   {
     "id": 2214,
     "basque": "argazki",
-    "spanish": "iz. fotografía [imagen]"
+    "spanish": "iz. fotografía [imagen]",
+    "examples": [
+      "argazki-albuma: álbum de fotos"
+    ]
   },
   {
     "id": 2215,
     "basque": "argazki-moldaketa",
-    "spanish": "retoque fotográfico"
+    "spanish": "retoque fotográfico",
+    "examples": []
   },
   {
     "id": 2216,
     "basque": "argazki-safari",
-    "spanish": "safari fotográfico"
+    "spanish": "safari fotográfico",
+    "examples": []
   },
   {
     "id": 2217,
     "basque": "argazkia egin; argazkia atera",
-    "spanish": "sacar/hacer una foto"
+    "spanish": "sacar/hacer una foto",
+    "examples": []
   },
   {
     "id": 2218,
     "basque": "argazkigintza",
-    "spanish": "iz. fotografía [técnica, arte o actividad]"
+    "spanish": "iz. fotografía [técnica, arte o actividad]",
+    "examples": []
   },
   {
     "id": 2219,
     "basque": "argazkilari",
-    "spanish": "iz. fotógrafo, -a"
+    "spanish": "iz. fotógrafo, -a",
+    "examples": [
+      "Eulalia Abaitua, Euskal Herriko lehen emakume argazkilaria: Eulalia Abaitua, la primera fotógrafa del País Vasco"
+    ]
   },
   {
     "id": 2220,
     "basque": "argazkilaritza",
-    "spanish": "iz. fotografía"
+    "spanish": "iz. fotografía",
+    "examples": [
+      "argazkilaritzan dihardu: se dedica a la fotografía"
+    ]
   },
   {
     "id": 2221,
     "basque": "argi aski",
-    "spanish": "muy claro, muy claramente"
+    "spanish": "muy claro, muy claramente",
+    "examples": [
+      "argi aski ikusi nian nola hil hituen bi gizon horiek: vi muy claramente cómo mataste a esos dor hombres"
+    ]
   },
   {
     "id": 2222,
     "basque": "argi egin",
-    "spanish": "1 askotan dio ad. iluminar, alumbrar, dar luz // 2 (hed.) echar luz, arrojar luz; informar, aclarar, esclarecer, ilustrar"
+    "spanish": "1 askotan dio ad. iluminar, alumbrar, dar luz // 2 (hed.) echar luz, arrojar luz; informar, aclarar, esclarecer, ilustrar",
+    "examples": [
+      "ilargiak argi egiten zion: le iluminaba la luna",
+      "bera izan da arazo ilun honetan argi egin duen bakarra: él ha sido el único que ha arrojado luz sobre este turbio asunto"
+    ]
   },
   {
     "id": 2223,
     "basque": "argi eman",
-    "spanish": "iluminar, alumbrar, dar luz // echar luz, arrojar luz; informar, aclarar, esclarecer, ilustrar"
+    "spanish": "iluminar, alumbrar, dar luz // echar luz, arrojar luz; informar, aclarar, esclarecer, ilustrar",
+    "examples": [
+      "linternaz argi eman nion: lo iluminé con la linterna"
+    ]
   },
   {
     "id": 2224,
     "basque": "argi ibili",
-    "spanish": "andar(se) con tiento, andar(se) con cuidado"
+    "spanish": "andar(se) con tiento, andar(se) con cuidado",
+    "examples": []
   },
   {
     "id": 2225,
     "basque": "argi keinukari",
-    "spanish": "(Autom.) (batez ere pl.) luz intermitente"
+    "spanish": "(Autom.) (batez ere pl.) luz intermitente",
+    "examples": []
   },
   {
     "id": 2226,
     "basque": "argi-babeski",
-    "spanish": "(Arg.) parasol"
+    "spanish": "(Arg.) parasol",
+    "examples": []
   },
   {
     "id": 2227,
     "basque": "argi-egile",
-    "spanish": "iluminador, -a"
+    "spanish": "iluminador, -a",
+    "examples": []
   },
   {
     "id": 2228,
     "basque": "argi-muki",
-    "spanish": "moco, mecha"
+    "spanish": "moco, mecha",
+    "examples": [
+      "argi-mukia erre da: se ha quemado la mecha"
+    ]
   },
   {
     "id": 2229,
     "basque": "argi-urratze",
-    "spanish": "amanecer, amanecida, alba, aurora"
+    "spanish": "amanecer, amanecida, alba, aurora",
+    "examples": []
   },
   {
     "id": 2230,
     "basque": "argi-zulo",
-    "spanish": "tragaluz, claraboya, lucero"
+    "spanish": "tragaluz, claraboya, lucero",
+    "examples": []
   },
   {
     "id": 2231,
     "basque": "argi(ta)ra atera",
-    "spanish": "sacar a la luz // publicar"
+    "spanish": "sacar a la luz // publicar",
+    "examples": []
   },
   {
     "id": 2232,
     "basque": "argi(ta)ra ilki",
-    "spanish": "1 iz. luz // 2 iz. luz (del día); día // 3 iz. luz (eléctrica) // 4 iz. luz, punto de luz, lámpara // 5 iz. (hed.) luz, aclaración, explicación // 6 iz. (hed.) inteligencia, entendimiento; luces // 7 iz. (Eraik.) [baoa, kofadura] luz // 8 iz. alma de difunto // 9 izond. luminoso, -a, claro, -a, brillante // 10 izond. [eguraldia] claro, -a, despejado, -a // 11 izond. [koloreei buruz] claro, -a // 12 izond. claro, -a, limpio, -a, diáfano, -a; inteligible, comprensible // 13 izond. listo, -a, inteligente // 14 adb. claro, claramente, con claridad // 15 adb. (ibili eta egon aditzekin) con cuidado, con tiento"
+    "spanish": "1 iz. luz // 2 iz. luz (del día); día // 3 iz. luz (eléctrica) // 4 iz. luz, punto de luz, lámpara // 5 iz. (hed.) luz, aclaración, explicación // 6 iz. (hed.) inteligencia, entendimiento; luces // 7 iz. (Eraik.) [baoa, kofadura] luz // 8 iz. alma de difunto // 9 izond. luminoso, -a, claro, -a, brillante // 10 izond. [eguraldia] claro, -a, despejado, -a // 11 izond. [koloreei buruz] claro, -a // 12 izond. claro, -a, limpio, -a, diáfano, -a; inteligible, comprensible // 13 izond. listo, -a, inteligente // 14 adb. claro, claramente, con claridad // 15 adb. (ibili eta egon aditzekin) con cuidado, con tiento",
+    "examples": []
   },
   {
     "id": 2233,
     "basque": "argia ikusi",
-    "spanish": "nacer, ver la luz, aparecer"
+    "spanish": "nacer, ver la luz, aparecer",
+    "examples": []
   },
   {
     "id": 2234,
     "basque": "argia/eguna urratu",
-    "spanish": "nacer, ver la luz, aparecer"
+    "spanish": "nacer, ver la luz, aparecer",
+    "examples": []
   },
   {
     "id": 2235,
     "basque": "argialdi",
-    "spanish": "1  iz. iluminación, inspiración // 2  iz. momento de lucidez"
+    "spanish": "1  iz. iluminación, inspiración // 2  iz. momento de lucidez",
+    "examples": [
+      "zeruak bidali zion argialdia: el cielo le envió la inspiración"
+    ]
   },
   {
     "id": 2236,
     "basque": "argibide",
-    "spanish": "1  iz. aclaración, explicación; información // 2  iz. prueba, razón, argumento, demostración // 3  iz. (batez ere pl.) instrucciones // 4  iz. (batez ere pl.) [bulegoa] información"
+    "spanish": "1  iz. aclaración, explicación; información // 2  iz. prueba, razón, argumento, demostración // 3  iz. (batez ere pl.) instrucciones // 4  iz. (batez ere pl.) [bulegoa] información",
+    "examples": [
+      "hitz horren jatorriari buruzko argibiderik ez dugu aurkitu: no hemos encontrado información acerca del origen de esa palabra",
+      "egia honen argibidea ikusi nahi duenak begiratzea dauka: quien quiera ver la demostración de esta verdad que mire",
+      "argazki-makinaren argibideak: las instrucciones de uso de la máquina de fotos",
+      "argibide-bulegoa: oficina de información"
+    ]
   },
   {
     "id": 2237,
     "basque": "argidotar",
-    "spanish": "izond. ilustre, preclaro, -a"
+    "spanish": "izond. ilustre, preclaro, -a",
+    "examples": [
+      "Gipuzkoako gizon argidotarrak: ilustres señores de Guipúzcoa"
+    ]
   },
   {
     "id": 2238,
     "basque": "argidun",
-    "spanish": "1 adj. provisto de luz; que emana luz // 2 adj. inteligente, listo, -a, preclaro, -a"
+    "spanish": "1 adj. provisto de luz; que emana luz // 2 adj. inteligente, listo, -a, preclaro, -a",
+    "examples": [
+      "argidun izarra: estrella luminosa"
+    ]
   },
   {
     "id": 2239,
     "basque": "argidura",
-    "spanish": "iz. (Ipar.) claridad, resplandor"
+    "spanish": "iz. (Ipar.) claridad, resplandor",
+    "examples": []
   },
   {
     "id": 2240,
     "basque": "argiegin",
-    "spanish": "iz./izond. (Erl.) (pl.) iluminados, alumbrados"
+    "spanish": "iz./izond. (Erl.) (pl.) iluminados, alumbrados",
+    "examples": []
   },
   {
     "id": 2241,
     "basque": "argigailu",
-    "spanish": "iz. aparato de alumbrado"
+    "spanish": "iz. aparato de alumbrado",
+    "examples": []
   },
   {
     "id": 2242,
     "basque": "argigarri",
-    "spanish": "iz./izond. clarificador, -a, ilustrativo, -a, aclaratorio, -a, aclarador, -a, esclarecedor, -a, revelador, -a"
+    "spanish": "iz./izond. clarificador, -a, ilustrativo, -a, aclaratorio, -a, aclarador, -a, esclarecedor, -a, revelador, -a",
+    "examples": [
+      "gertaera argigarria: hecho clarificador",
+      "adibide bat jarriko dut, adierazi nahi dudanaren argigarri: pondré un ejemplo ilustrativo de lo que quiero decir"
+    ]
   },
   {
     "id": 2243,
     "basque": "argigile",
-    "spanish": "iz./izond. iluminador, -a; guía"
+    "spanish": "iz./izond. iluminador, -a; guía",
+    "examples": []
   },
   {
     "id": 2244,
     "basque": "argigune",
-    "spanish": "[basoan] claro, calvero // [zeruan] claro"
+    "spanish": "[basoan] claro, calvero // [zeruan] claro",
+    "examples": [
+      "basoko argigune batean bazkaldu zuten: comieron en un claro del bosque",
+      "bihar zerua hodeitsu egongo da, ia argigunerik gabe: mañana el cielo estará nuboso, casi sin claros"
+    ]
   },
   {
     "id": 2245,
     "basque": "argiketa",
-    "spanish": "iz. (Zuz.) atestado"
+    "spanish": "iz. (Zuz.) atestado",
+    "examples": []
   },
   {
     "id": 2246,
     "basque": "argiketari",
-    "spanish": "iz. electricista"
+    "spanish": "iz. electricista",
+    "examples": [
+      "argiketariak kableak instalatuko ditu: una electricista instalará el cableado"
+    ]
   },
   {
     "id": 2247,
     "basque": "argiki",
-    "spanish": "adb. claramente"
+    "spanish": "adb. claramente",
+    "examples": []
   },
   {
     "id": 2248,
     "basque": "argikor",
-    "spanish": "izond. luminescente"
+    "spanish": "izond. luminescente",
+    "examples": []
   },
   {
     "id": 2249,
     "basque": "argindar",
-    "spanish": "electricidad"
+    "spanish": "electricidad",
+    "examples": [
+      "hainbat baserri argindarrik gabe daude gaur egun ere: muchos caseríos carecen de electricidad hoy en día"
+    ]
   },
   {
     "id": 2250,
     "basque": "argiontzi",
-    "spanish": "iz. lámpara, farol"
+    "spanish": "iz. lámpara, farol",
+    "examples": [
+      "kerosenozko argiontzia: lámpara de queroseno",
+      "esku batean argiontzia eta bestean makila zuen: tenía un farol en una mano y una vara en la otra"
+    ]
   },
   {
     "id": 2251,
     "basque": "argipen",
-    "spanish": "iz. aclaración, interpretación, demostración"
+    "spanish": "iz. aclaración, interpretación, demostración",
+    "examples": []
   },
   {
     "id": 2252,
     "basque": "argirudi",
-    "spanish": "iz. tornasol, cambiante [en las telas]"
+    "spanish": "iz. tornasol, cambiante [en las telas]",
+    "examples": []
   },
   {
     "id": 2253,
     "basque": "argitaldari",
-    "spanish": "1  iz./izond. editor, -a // 2  iz./izond. [enpresa] editorial"
+    "spanish": "1  iz./izond. editor, -a // 2  iz./izond. [enpresa] editorial",
+    "examples": []
   },
   {
     "id": 2254,
     "basque": "argitaldu",
-    "spanish": "Ik. argitaratu"
+    "spanish": "Ik. argitaratu",
+    "examples": []
   },
   {
     "id": 2255,
     "basque": "argitaletxe",
-    "spanish": "editorial [empresa]"
+    "spanish": "editorial [empresa]",
+    "examples": []
   },
   {
     "id": 2256,
     "basque": "argitalpen",
-    "spanish": "1  iz. edición, publicación // 2  iz. publicación, obra publicada"
+    "spanish": "1  iz. edición, publicación // 2  iz. publicación, obra publicada",
+    "examples": [
+      "argitalpena egiteko dirulaguntza: ayuda económica para la edición",
+      "unibertsitatearen argitalpenak: publicaciones universitarias"
+    ]
   },
   {
     "id": 2257,
     "basque": "argitara eman",
-    "spanish": "publicar(se)"
+    "spanish": "publicar(se)",
+    "examples": []
   },
   {
     "id": 2258,
@@ -15705,712 +15853,1060 @@
   {
     "id": 2259,
     "basque": "argitaragabe",
-    "spanish": "izond. inédito, -a, no publicado, -a"
+    "spanish": "izond. inédito, -a, no publicado, -a",
+    "examples": []
   },
   {
     "id": 2260,
     "basque": "argitaragarri",
-    "spanish": "izond. publicable"
+    "spanish": "izond. publicable",
+    "examples": []
   },
   {
     "id": 2261,
     "basque": "argitaraldi",
-    "spanish": "iz. edición [vez que se edita un texto, acción de editar]"
+    "spanish": "iz. edición [vez que se edita un texto, acción de editar]",
+    "examples": [
+      "bigarren argitaraldia agortuta dago: la segunda edición está agotada",
+      "hiztegiaren argitaraldi eguneratua: edición actualizada del diccionario"
+    ]
   },
   {
     "id": 2262,
     "basque": "argitaratzaile",
-    "spanish": "iz. editor, -a"
+    "spanish": "iz. editor, -a",
+    "examples": [
+      "argitaratzailearen oharra: nota del editor"
+    ]
   },
   {
     "id": 2263,
     "basque": "argitasun",
-    "spanish": "1  iz. claridad, luminosidad, resplandor // 2  iz. [adierazpena, idazkera...] claridad, transparencia // 3  iz. [gogoa, adimena...] claridad de entendimiento, lucidez, inteligencia // 4  iz. [argibidea] aclaración, información, explicación"
+    "spanish": "1  iz. claridad, luminosidad, resplandor // 2  iz. [adierazpena, idazkera...] claridad, transparencia // 3  iz. [gogoa, adimena...] claridad de entendimiento, lucidez, inteligencia // 4  iz. [argibidea] aclaración, información, explicación",
+    "examples": [
+      "ilargiaren argitasuna: la claridad de la luna",
+      "jatorrizko testuaren argitasuna: la claridad del texto original",
+      "buru-argitasuna: lucidez mental",
+      "nahi adina argitasun emango dizu egitekoari buruz: te dará cuanta información desees para llevar a cabo la tarea",
+      "argitasun bat nahi zuen, bere etorkizunari buruz: quería información acerca de su futuro"
+    ]
   },
   {
     "id": 2264,
     "basque": "argitoki",
-    "spanish": "iz. candelabro, candelero, palmatoria"
+    "spanish": "iz. candelabro, candelero, palmatoria",
+    "examples": []
   },
   {
     "id": 2265,
     "basque": "argitsu",
-    "spanish": "1 izond. luminoso, -a, resplandeciente, brillante, radiante // 2 izond. inteligente; ingenioso, -a, sagaz, de claro entendimiento // 3 izond. ilustre, preclaro, -a, insigne"
+    "spanish": "1 izond. luminoso, -a, resplandeciente, brillante, radiante // 2 izond. inteligente; ingenioso, -a, sagaz, de claro entendimiento // 3 izond. ilustre, preclaro, -a, insigne",
+    "examples": [
+      "gela argitsua: habitación luminosa, de mucha luz",
+      "egun argitsua: día resplandeciente",
+      "bere seme-alabarik argitsuena eta zintzoena: de entre sus hijos el más ingenioso y honrado",
+      "haren izen argitsua: su ilustre nombre"
+    ]
   },
   {
     "id": 2266,
     "basque": "argitu, argi(tu), argitzen",
-    "spanish": "1  du ad. iluminar, alumbrar, dar luz // 2  du ad. brillar, resplandecer, lucir // 3  du ad. [itsuak] alumbrar // 4  du ad. esclarecer, informar, ilustrar // 5  da/du ad. amanecer, clarear, despuntar el día // 6  da/du ad. [argiago bihurtu] aclarar // 7  da/du ad. (hed.) alegrar, animar; pasársele a alguien el mal humor"
+    "spanish": "1  du ad. iluminar, alumbrar, dar luz // 2  du ad. brillar, resplandecer, lucir // 3  du ad. [itsuak] alumbrar // 4  du ad. esclarecer, informar, ilustrar // 5  da/du ad. amanecer, clarear, despuntar el día // 6  da/du ad. [argiago bihurtu] aclarar // 7  da/du ad. (hed.) alegrar, animar; pasársele a alguien el mal humor",
+    "examples": [
+      "argi iezadazu bidea: ilumíname el camino",
+      "ilargiak zerutik argitzen du ederki: la luna brilla hermosamente desde el cielo",
+      "nor da itsuak argitzen dituen hori?: ¿quién es ese que alumbra a los ciegos?",
+      "horrek ulertzen ez duzun guztia argituko dizu: ese te aclarará todo lo que no entiendas",
+      "argitzen duenean aterako gara: partiremos al amanecer",
+      "ilea argitu: aclarar(se) el pelo",
+      "ardoak triste daudenak argitzen ditu: el vino alegra a los que están tristes",
+      "mende honetako pertsona argituenetariko bat: una de las personas más inteligentes de este siglo"
+    ]
   },
   {
     "id": 2267,
     "basque": "argitzaile",
-    "spanish": "1 iz./izond. iluminador, -a, alumbrador, -a // 2 iz./izond. ilustrador, -a, ilustrativo, -a, explicativo, -a"
+    "spanish": "1 iz./izond. iluminador, -a, alumbrador, -a // 2 iz./izond. ilustrador, -a, ilustrativo, -a, explicativo, -a",
+    "examples": []
   },
   {
     "id": 2268,
     "basque": "argitzapen",
-    "spanish": "1  iz. aclaración, clarificación // 2  iz. (Erl.) iluminación"
+    "spanish": "1  iz. aclaración, clarificación // 2  iz. (Erl.) iluminación",
+    "examples": []
   },
   {
     "id": 2269,
     "basque": "argiune",
-    "spanish": "iz. momento de lucidez"
+    "spanish": "iz. momento de lucidez",
+    "examples": [
+      "hil aurretik argiune batzuk izan zituen: antes de morir tuvo unos momentos de lucidez"
+    ]
   },
   {
     "id": 2270,
     "basque": "argizari",
-    "spanish": "1  iz. cera // 2  iz. vela, candela, cirio; candil"
+    "spanish": "1  iz. cera // 2  iz. vela, candela, cirio; candil",
+    "examples": [
+      "mahaia argizariz igurtzi: dar cera a la mesa",
+      "eskaintzen dituzten olatak eta argizariak: los panecillos y cirios que ofrecen"
+    ]
   },
   {
     "id": 2271,
     "basque": "argiztagarri",
-    "spanish": "izond. iluminador, -a, que puede alumbrar"
+    "spanish": "izond. iluminador, -a, que puede alumbrar",
+    "examples": []
   },
   {
     "id": 2272,
     "basque": "argiztapen",
-    "spanish": "1  iz. iluminación; [ekintza] alumbrado // 2  iz. aclaración, explicación // 3  iz. (Fis.) iluminación"
+    "spanish": "1  iz. iluminación; [ekintza] alumbrado // 2  iz. aclaración, explicación // 3  iz. (Fis.) iluminación",
+    "examples": [
+      "argiztapen artifiziala: iluminación artificial",
+      "argiztapen-sistema: sistema de alumbrado"
+    ]
   },
   {
     "id": 2273,
     "basque": "argiztatu, argizta, argiztatzen",
-    "spanish": "1  du ad. iluminar, alumbrar // 2  du ad. aclarar, esclarecer"
+    "spanish": "1  du ad. iluminar, alumbrar // 2  du ad. aclarar, esclarecer",
+    "examples": [
+      "kaleak argiztatu: iluminar las calles"
+    ]
   },
   {
     "id": 2274,
     "basque": "argiztatze",
-    "spanish": "iz. alumbrado"
+    "spanish": "iz. alumbrado",
+    "examples": [
+      "kaleetako argiztatze publikoa: el alumbrado público de las calles"
+    ]
   },
   {
     "id": 2275,
     "basque": "argudiaketa",
-    "spanish": "1  iz. argumentación // 2  iz. argumento"
+    "spanish": "1  iz. argumentación // 2  iz. argumento",
+    "examples": []
   },
   {
     "id": 2276,
     "basque": "argudiatu, argudia, argudiatzen",
-    "spanish": "1  du ad. discutir, disputar, impugnar una opinión ajena // 2  du ad. argumentar, aducir, alegar, argüir"
+    "spanish": "1  du ad. discutir, disputar, impugnar una opinión ajena // 2  du ad. argumentar, aducir, alegar, argüir",
+    "examples": [
+      "luzaro argudiatu zuten: discutieron largamente",
+      "ez zigun baimenik eman, hura bere egitekoa ez zela argudiatuz: no nos dio permiso, alegando que no era su cometido"
+    ]
   },
   {
     "id": 2277,
     "basque": "argumentatu, argumenta, argumentatzen",
-    "spanish": "1  du ad. argüir, argumentar // 2  du ad. (Log.) argumentar"
+    "spanish": "1  du ad. argüir, argumentar // 2  du ad. (Log.) argumentar",
+    "examples": []
   },
   {
     "id": 2278,
     "basque": "argumentu",
-    "spanish": "razonamiento; argumento, razón"
+    "spanish": "razonamiento; argumento, razón",
+    "examples": [
+      "argumenturik bikainenak ere ez luke bere iritzia aldaraziko: ni el razonamiento más rotundo le haría cambiar de opinión"
+    ]
   },
   {
     "id": 2279,
     "basque": "ari",
-    "spanish": "iz. tarea, ocupación, labor, trabajo, faena"
+    "spanish": "iz. tarea, ocupación, labor, trabajo, faena",
+    "examples": [
+      "borroka honetan gaizki irten bazen ere, ez zuen utzi bere aria: aunque salió mal parado en esta disputa, no abandonó su tarea"
+    ]
   },
   {
     "id": 2280,
     "basque": "ari izan",
-    "spanish": "1  da ad. estar haciendo (algo), emplearse en, ocuparse, estar en actividad; actuar, comportarse // 2  da ad. (hizkuntza -z kasu-atzizkiaz) [hizkuntza batez] hablar // 3  da ad. hablar (de), decir; tratar (sobre) // 4  da ad. (osagarriak -i edo -ekin kasu-atzizkia duela) dirigirse, estar hablando (con) // 5  da ad. (Ipar.) / du ad. (aspektu puntukaria adierazten du) [euria, elurra, etab.] suceder, acontecer // 6  zaio ad. dirigirse a, hablar a"
+    "spanish": "1  da ad. estar haciendo (algo), emplearse en, ocuparse, estar en actividad; actuar, comportarse // 2  da ad. (hizkuntza -z kasu-atzizkiaz) [hizkuntza batez] hablar // 3  da ad. hablar (de), decir; tratar (sobre) // 4  da ad. (osagarriak -i edo -ekin kasu-atzizkia duela) dirigirse, estar hablando (con) // 5  da ad. (Ipar.) / du ad. (aspektu puntukaria adierazten du) [euria, elurra, etab.] suceder, acontecer // 6  zaio ad. dirigirse a, hablar a",
+    "examples": [
+      "gela garbitzen ari ziren: estaban limpiando la habitación",
+      "egun guztian idazten aritu da: ha estado todo el día escribiendo",
+      "hizketan ari dira: están hablando",
+      "negarrez ari zinen: estabas llorando",
+      "tiroka ari ginenean: cuando estábamos disparando",
+      "bihar ere kontu horretan ariko da: mañana también se empleará en esa labor",
+      "zertan (zer) ari zara?: ¿qué estás haciendo?",
+      "haiei gogor egin nahian ari gara: estamos intentando enfrentarnos a ellos",
+      "jaian askotan baratzean aritzen naiz lanean: el domingo a menudo suelo trabajar en la huerta",
+      "euskaraz ari natzaizu: te estoy hablando en euskera",
+      "gaztelania hutsez ari ziren: solo hablaban en castellano",
+      "benetan ari naiz, sinets iezadazu!: te lo digo de verdad ¡créeme!",
+      "nitaz ari al zara?: ¿estás hablando de mí?",
+      "langabeziaren gaiaz luze aritu gara gaurko irrati-saioan: en el programa (de radio) de hoy hemos tratado ampliamente el tema del paro",
+      "aizu, entzun, zurekin ari naiz eta!: ¡escúchame, que estoy hablando contigo!",
+      "euria, elurra ari du: llueve, nieva",
+      "iluntzen ari du: está oscureciendo",
+      "zuri ari natzaizu: te estoy hablando a ti"
+    ]
   },
   {
     "id": 2281,
     "basque": "ariary madagaskartar",
-    "spanish": "aryary malgache [unidad monetaria]"
+    "spanish": "aryary malgache [unidad monetaria]",
+    "examples": []
   },
   {
     "id": 2282,
     "basque": "aribide",
-    "spanish": "1 iz. capacidad, facultad // 2 iz. ejercicio, práctica"
+    "spanish": "1 iz. capacidad, facultad // 2 iz. ejercicio, práctica",
+    "examples": [
+      "ahotsik baduzu edo mintzo-aribiderik, hitz egidazu: si tienes voz y capacidad de hablar, háblame"
+    ]
   },
   {
     "id": 2283,
     "basque": "ariketa",
-    "spanish": "1  iz. ejercicio; práctica // 2  iz. (Hizkl.) actuación"
+    "spanish": "1  iz. ejercicio; práctica // 2  iz. (Hizkl.) actuación",
+    "examples": [
+      "mintzamena lantzeko ariketak: ejercicios para desarrollar la destreza oral",
+      "berotzeko ariketak: ejercicios de calentamiento"
+    ]
   },
   {
     "id": 2284,
     "basque": "arima",
-    "spanish": "alma"
+    "spanish": "alma",
+    "examples": [
+      "gorputza eta arima: el cuerpo y el alma",
+      "norbaiten arimaren alde otoitz egin: rezar por el alma de alguien",
+      "arima hilezkorra: el alma inmortal",
+      "arimarik ez dago: no hay ni un alma",
+      "bostehun arimako herria da: pueblo de 500 almas"
+    ]
   },
   {
     "id": 2285,
     "basque": "arima apartatuta/aparte",
-    "spanish": "expresión atenuante, utilizada generalmente en comparaciones con animales"
+    "spanish": "expresión atenuante, utilizada generalmente en comparaciones con animales",
+    "examples": []
   },
   {
     "id": 2286,
     "basque": "arima eman",
-    "spanish": "expirar, morir"
+    "spanish": "expirar, morir",
+    "examples": [
+      "azken hitza esan eta Jaunari bere arima eman zion: dijo su última palabra y expiró"
+    ]
   },
   {
     "id": 2287,
     "basque": "arima hortzetan eduki",
-    "spanish": "estar a punto de morir, agonizar"
+    "spanish": "estar a punto de morir, agonizar",
+    "examples": [
+      "lastima gogorra zen hainbeste pobre arima hortzetan zutela ikustea: era una tremenda lástima ver a tantos pobres a punto de morir"
+    ]
   },
   {
     "id": 2288,
     "basque": "arima-handitasun",
-    "spanish": "(Fil.) magnanimidad"
+    "spanish": "(Fil.) magnanimidad",
+    "examples": [
+      "unibertsoa begiesteak arima-handitasuna sustatzen du: la contemplación del universo fomenta la magnanimidad"
+    ]
   },
   {
     "id": 2289,
     "basque": "arimadun",
-    "spanish": "adj. animado, -a, dotado de alma"
+    "spanish": "adj. animado, -a, dotado de alma",
+    "examples": [
+      "polita litzateke hiria arimadun izakia izatea: estaría bien que la ciudad fuese un ser animado"
+    ]
   },
   {
     "id": 2290,
     "basque": "arimagabe",
-    "spanish": "1  izond. inanimado, -a // 2  izond. desalmado, -a, malvado, -a"
+    "spanish": "1  izond. inanimado, -a // 2  izond. desalmado, -a, malvado, -a",
+    "examples": [
+      "panpina arimagabeek bizia hartzen zuten gauez: los muñecos inanimados cobraban vida por las noches"
+    ]
   },
   {
     "id": 2291,
     "basque": "arimak egin",
-    "spanish": "(zah.) expirar, morir"
+    "spanish": "(zah.) expirar, morir",
+    "examples": [
+      "arimak egin dio: ha muerto"
+    ]
   },
   {
     "id": 2292,
     "basque": "arimakari",
-    "spanish": "iz. sufragio de difuntos"
+    "spanish": "iz. sufragio de difuntos",
+    "examples": []
   },
   {
     "id": 2293,
     "basque": "arimazain",
-    "spanish": "iz. sacerdote, cura"
+    "spanish": "iz. sacerdote, cura",
+    "examples": []
   },
   {
     "id": 2294,
     "basque": "arin egin",
-    "spanish": "(B) correr"
+    "spanish": "(B) correr",
+    "examples": [
+      "arin egin nuen, baina ni heldu orduko igaro zan: fui corriendo, pero pasó antes de que yo llegase"
+    ]
   },
   {
     "id": 2295,
     "basque": "arin(ka)-arinka",
-    "spanish": "corriendo, a todo correr; deprisa"
+    "spanish": "corriendo, a todo correr; deprisa",
+    "examples": []
   },
   {
     "id": 2296,
     "basque": "arinari eman",
-    "spanish": "echar a correr; huir"
+    "spanish": "echar a correr; huir",
+    "examples": [
+      "polizia ikusi bezain laster, arinari eman zion: tan pronto vio a la policía, echó a correr"
+    ]
   },
   {
     "id": 2297,
     "basque": "arindu, arin(du), arintzen",
-    "spanish": "1  du ad. [pisua, zama kendu] aligerar, aliviar, hacer ligero o menos pesado // 2  du ad. [sabela, gorputza] hacer de vientre, evacuar, defecar // 3  du ad. (Zuz.) atenuar, exonerar // 4  da/du ad. aliviar; descargar, atenuar, suavizar; moderar, mitigar"
+    "spanish": "1  du ad. [pisua, zama kendu] aligerar, aliviar, hacer ligero o menos pesado // 2  du ad. [sabela, gorputza] hacer de vientre, evacuar, defecar // 3  du ad. (Zuz.) atenuar, exonerar // 4  da/du ad. aliviar; descargar, atenuar, suavizar; moderar, mitigar",
+    "examples": [
+      "zamaren zati bat bota, ontzia arintzeko: tira parte de la carga, para aligerar el barco",
+      "gorputza arintzeko premia: necesidad de hacer de vientre",
+      "gure penak arintzeko: para aliviar nuestras penas",
+      "arindu naiz ardura handi batetik: me he quitado de encima una gran responsabilidad"
+    ]
   },
   {
     "id": 2298,
     "basque": "arindura",
-    "spanish": "iz. (E) aligeramiento, alivio; mitigación"
+    "spanish": "iz. (E) aligeramiento, alivio; mitigación",
+    "examples": []
   },
   {
     "id": 2299,
     "basque": "arineketa",
-    "spanish": "iz. (B) carrera, corrida"
+    "spanish": "iz. (B) carrera, corrida",
+    "examples": []
   },
   {
     "id": 2300,
     "basque": "arineketalari",
-    "spanish": "iz. corredor, -a, carrerista; andariego, -a, andarín, -ina"
+    "spanish": "iz. corredor, -a, carrerista; andariego, -a, andarín, -ina",
+    "examples": []
   },
   {
     "id": 2301,
     "basque": "arineketan egin",
-    "spanish": "(B) correr"
+    "spanish": "(B) correr",
+    "examples": [
+      "autobusa ikusi eta geltokiraino arineketan egin nuen: vi el autobús y corrí hasta la parada",
+      "azkeneko zatia arineketan egin genuen: el último tramo lo hicimos corriendo"
+    ]
   },
   {
     "id": 2302,
     "basque": "aringalari",
-    "spanish": "iz. (B) corredor, -a, carrerista; andariego, -a, andarín, -ina"
+    "spanish": "iz. (B) corredor, -a, carrerista; andariego, -a, andarín, -ina",
+    "examples": []
   },
   {
     "id": 2303,
     "basque": "aringarri",
-    "spanish": "1  iz./izond. alivio, consuelo, descanso, respiro // 2  iz./izond. (Med.) lenitivo, -a, paliativo, -a // 3  iz./izond. (Zuz.) atenuante"
+    "spanish": "1  iz./izond. alivio, consuelo, descanso, respiro // 2  iz./izond. (Med.) lenitivo, -a, paliativo, -a // 3  iz./izond. (Zuz.) atenuante",
+    "examples": [
+      "bere nahigabearen aringarri gertatu zaizkio hitz hauek: estas palabras han sido consuelo de su aflicción"
+    ]
   },
   {
     "id": 2304,
     "basque": "arinkeria",
-    "spanish": "ligereza, frivolidad, veleidad; falta de reflexión o sensatez, imprudencia"
+    "spanish": "ligereza, frivolidad, veleidad; falta de reflexión o sensatez, imprudencia",
+    "examples": [
+      "bizitza osorako erabakia da, eta ezin duzu arinkeriaz hartu: es una decisión para toda la vida y no la puedes tomar con ligereza, (a la ligera)",
+      "ez du gaiztakeriaz egin, arinkeriaz baizik: no lo ha hecho por maldad, sino por imprudencia"
+    ]
   },
   {
     "id": 2305,
     "basque": "arinki",
-    "spanish": "1 adb. rápidamente, velozmente, a prisa // 2 adb. con ligereza, a la ligera; frívolamente; irreflexivamente; imprudentemente"
+    "spanish": "1 adb. rápidamente, velozmente, a prisa // 2 adb. con ligereza, a la ligera; frívolamente; irreflexivamente; imprudentemente",
+    "examples": [
+      "harengandik arinki urrunduz: alejándose rápidamente de él",
+      "ez diezaiola arinki hitzeman inori: que no le dé a nadie su palabra con ligereza"
+    ]
   },
   {
     "id": 2306,
     "basque": "arintasun",
-    "spanish": "1  iz. ligereza, levedad, ingravidez // 2  iz. alivio, consuelo, descanso, respiro // 3  iz. ligereza, rapidez, presteza, agilidad // 4  iz. ligereza, frivolidad, veleidad; imprudencia, descuido"
+    "spanish": "1  iz. ligereza, levedad, ingravidez // 2  iz. alivio, consuelo, descanso, respiro // 3  iz. ligereza, rapidez, presteza, agilidad // 4  iz. ligereza, frivolidad, veleidad; imprudencia, descuido",
+    "examples": [
+      "zelako poza hartu zuen bihotzak, zelako arintasun eta bakea!: ¡cuánto se alegró su corazón, qué alivio y paz!",
+      "jende askok arintasunez hitz egiten du gizon honetaz: mucha gente habla con ligereza de este hombre"
+    ]
   },
   {
     "id": 2307,
     "basque": "arintzaile",
-    "spanish": "iz./izond. aliviador, -a, mitigador, -a, consolador, -a; alivio, consuelo"
+    "spanish": "iz./izond. aliviador, -a, mitigador, -a, consolador, -a; alivio, consuelo",
+    "examples": [
+      "ene nahigabe guztien arintzaile zara zu: tú eres el consuelo de todas mis penas"
+    ]
   },
   {
     "id": 2308,
     "basque": "arintze",
-    "spanish": "1  iz. alivio, consuelo, descanso, respiro, mitigación; aligeramiento; aminoración; aplacamiento, amortiguamiento // 3  iz. desescalada"
+    "spanish": "1  iz. alivio, consuelo, descanso, respiro, mitigación; aligeramiento; aminoración; aplacamiento, amortiguamiento // 3  iz. desescalada",
+    "examples": [
+      "helburu terapeutiko nagusia mina arintzea da: el objetivo terapéutico principal es la mitigación del dolor",
+      "krisia arintzeko neurriak: medidas de amortiguamiento de la crisis",
+      "izapideen arintzea: la agilización de los trámites",
+      "2002tik aurrera, gatazka arindu egin dela nabari da: a partir de 2002, se observa una desescalada del conflicto"
+    ]
   },
   {
     "id": 2309,
     "basque": "ariotar",
-    "spanish": "adj./iz. (Erl.) arriano, -a"
+    "spanish": "adj./iz. (Erl.) arriano, -a",
+    "examples": []
   },
   {
     "id": 2310,
     "basque": "aritu, ari, aritzen",
-    "spanish": "da ad. estar haciendo (algo), emplearse en, ocuparse, estar en actividad; actuar, comportarse"
+    "spanish": "da ad. estar haciendo (algo), emplearse en, ocuparse, estar en actividad; actuar, comportarse",
+    "examples": [
+      "bazkaria prestatzen aritu naiz: he estado preparando la comida",
+      "lan eta lan aritu diren langileak: los trabajadores que han trabajado duramente"
+    ]
   },
   {
     "id": 2311,
     "basque": "aritze",
-    "spanish": "iz. ejercicio, práctica; ocupación, tarea; actuación"
+    "spanish": "iz. ejercicio, práctica; ocupación, tarea; actuación",
+    "examples": [
+      "gauza guztietan aritze bat bada; honetan ere, behin trebatuz gero, den errazena da: la práctica es muy importante en todas las cosas; esto también, una vez que lo practicas, es facilísimo"
+    ]
   },
   {
     "id": 2312,
     "basque": "arizale",
-    "spanish": "iz. (Z) actor del pastoral suletino"
+    "spanish": "iz. (Z) actor del pastoral suletino",
+    "examples": []
   },
   {
     "id": 2313,
     "basque": "arkabuzari",
-    "spanish": "iz. arcabucero, -a"
+    "spanish": "iz. arcabucero, -a",
+    "examples": []
   },
   {
     "id": 2314,
     "basque": "arkaldu, arkal, arkaltzen",
-    "spanish": "da ad. ponerse en celo [la oveja y en algunas zonas también la cabra]"
+    "spanish": "da ad. ponerse en celo [la oveja y en algunas zonas también la cabra]",
+    "examples": []
   },
   {
     "id": 2315,
     "basque": "arkatz markatzaile",
-    "spanish": "rotulador"
+    "spanish": "rotulador",
+    "examples": []
   },
   {
     "id": 2316,
     "basque": "arkin",
-    "spanish": "iz. excremento [de oveja]"
+    "spanish": "iz. excremento [de oveja]",
+    "examples": []
   },
   {
     "id": 2317,
     "basque": "arkitektura",
-    "spanish": "1 iz. arquitectura // 2 iz. (hed.) arquitectura, estructura, forma // 3 iz. (Inform.) arquitectura"
+    "spanish": "1 iz. arquitectura // 2 iz. (hed.) arquitectura, estructura, forma // 3 iz. (Inform.) arquitectura",
+    "examples": []
   },
   {
     "id": 2318,
     "basque": "arkuak hausten barre egin",
-    "spanish": "(B) reír(se) a mandíbula batiente; troncharse (de risa); caerse/desternillarse/mondarse/morirse/partirse de risa"
+    "spanish": "(B) reír(se) a mandíbula batiente; troncharse (de risa); caerse/desternillarse/mondarse/morirse/partirse de risa",
+    "examples": [
+      "erantzun ordez, arkuak hausten hasi zitzaion barrezka: en lugar de responderle, empezó a reírse a mandíbula batiente"
+    ]
   },
   {
     "id": 2319,
     "basque": "arkulari",
-    "spanish": "1  iz. [soldadua] arquero // 2  iz. (Kir.) arquero, -a"
+    "spanish": "1  iz. [soldadua] arquero // 2  iz. (Kir.) arquero, -a",
+    "examples": []
   },
   {
     "id": 2320,
     "basque": "arkulo-buru",
-    "spanish": "casquivano, -a, alocado, -a, irreflexivo, -a; cabeza de chorlito"
+    "spanish": "casquivano, -a, alocado, -a, irreflexivo, -a; cabeza de chorlito",
+    "examples": []
   },
   {
     "id": 2321,
     "basque": "arkume",
-    "spanish": "iz. cordero [especialmente el lechal o recental]"
+    "spanish": "iz. cordero [especialmente el lechal o recental]",
+    "examples": []
   },
   {
     "id": 2322,
     "basque": "arkumeki",
-    "spanish": "iz. carne de cordero lechal"
+    "spanish": "iz. carne de cordero lechal",
+    "examples": []
   },
   {
     "id": 2323,
     "basque": "arlekin",
-    "spanish": "iz. arlequín"
+    "spanish": "iz. arlequín",
+    "examples": []
   },
   {
     "id": 2324,
     "basque": "arlo",
-    "spanish": "1  iz. campo, terreno de cultivo // 2  iz. (hed.) apartado, campo, área"
+    "spanish": "1  iz. campo, terreno de cultivo // 2  iz. (hed.) apartado, campo, área",
+    "examples": [
+      "gari-arloa erein du: ha sembrado el campo de trigo",
+      "kultura-arloan ezer gutxi egin du Udalak: bien poco ha hecho el ayuntamiento en el campo de la cultura"
+    ]
   },
   {
     "id": 2325,
     "basque": "arloka",
-    "spanish": "adb. por áreas"
+    "spanish": "adb. por áreas",
+    "examples": [
+      "arlokako laginketa: muestreo por áreas"
+    ]
   },
   {
     "id": 2326,
     "basque": "arlote",
-    "spanish": "1  iz./izond. mendigo, -a, vagabundo, -a, indigente // 2  izond. andrajoso, -a, harapiento, -a // 3  izond. descuidado, -a, deslucido, -a, pobre"
+    "spanish": "1  iz./izond. mendigo, -a, vagabundo, -a, indigente // 2  izond. andrajoso, -a, harapiento, -a // 3  izond. descuidado, -a, deslucido, -a, pobre",
+    "examples": [
+      "denak arlote ziren, zorriz eta ardiz beteak: eran todos unos andrajosos, llenos de piojos y pulgas",
+      "gure etxe arlotea da, beti zikina dago: nuestra casa es descuidada, siempre está sucia"
+    ]
   },
   {
     "id": 2327,
     "basque": "arlotekeria",
-    "spanish": "indigencia, pobreza // dejadez, desaliño, desaseo, desatavío"
+    "spanish": "indigencia, pobreza // dejadez, desaliño, desaseo, desatavío",
+    "examples": [
+      "ondasun guztiak jokoan, jan-edanean eta arlotekerian hondatu zituen: despilfarró todos sus bienes en el juego, en comer y beber y en la indigencia"
+    ]
   },
   {
     "id": 2328,
     "basque": "arlotetu, arlote(tu), arlotetzen",
-    "spanish": "1  da ad. hacerse mendigo/vagabundo/indigente // 2  da ad. desasearse, volverse desaliñado; [itxura] descuidarse"
+    "spanish": "1  da ad. hacerse mendigo/vagabundo/indigente // 2  da ad. desasearse, volverse desaliñado; [itxura] descuidarse",
+    "examples": []
   },
   {
     "id": 2329,
     "basque": "arma arin/eramangarri",
-    "spanish": "arma ligera, arma portátil"
+    "spanish": "arma ligera, arma portátil",
+    "examples": []
   },
   {
     "id": 2330,
     "basque": "arma hiltzaile; hilketa-arma",
-    "spanish": "arma homicida"
+    "spanish": "arma homicida",
+    "examples": []
   },
   {
     "id": 2331,
     "basque": "arma(k) hartu",
-    "spanish": "1 iz. arma // 2 iz. (hed.) arma // 3 iz. (Mil.) arma // 4 iz. (pl.) arma // 5 iz. (pl.) armas, blasones"
+    "spanish": "1 iz. arma // 2 iz. (hed.) arma // 3 iz. (Mil.) arma // 4 iz. (pl.) arma // 5 iz. (pl.) armas, blasones",
+    "examples": []
   },
   {
     "id": 2332,
     "basque": "armadaburu",
-    "spanish": "(Mil.) jefe, -a de armada"
+    "spanish": "(Mil.) jefe, -a de armada",
+    "examples": []
   },
   {
     "id": 2333,
     "basque": "armadun",
-    "spanish": "1 adj. armado, -a // 2 iz. (hed.) soldado, guerrero, -a, combatiente"
+    "spanish": "1 adj. armado, -a // 2 iz. (hed.) soldado, guerrero, -a, combatiente",
+    "examples": [
+      "jende armadunez lagundurik etorri zen: vino acompañado de gente armada",
+      "bere armadun banaka eta trebatu gabeekin joan zen: fue con sus pocos e inexpertos soldados"
+    ]
   },
   {
     "id": 2334,
     "basque": "armadura",
-    "spanish": "1 iz. armadura // 2 iz. (Eraik.) armadura // 3 iz. (Mus.) armadura"
+    "spanish": "1 iz. armadura // 2 iz. (Eraik.) armadura // 3 iz. (Mus.) armadura",
+    "examples": [
+      "zaldunaren armadura distiratsua: la brillante armadura del caballero"
+    ]
   },
   {
     "id": 2335,
     "basque": "armagabe",
-    "spanish": "izond. inerme; desarmado, -a"
+    "spanish": "izond. inerme; desarmado, -a",
+    "examples": [
+      "hainbeste mila soldadu armagabe laurdenkaturik: tantos miles de soldados desarmados descuartizados"
+    ]
   },
   {
     "id": 2336,
     "basque": "armagabetze",
-    "spanish": "iz. desarme"
+    "spanish": "iz. desarme",
+    "examples": [
+      "ETAren armagabetze-prozesua: el proceso de desarme de ETA",
+      "armagabetze nuklearra: desarme nuclear"
+    ]
   },
   {
     "id": 2337,
     "basque": "armagile",
-    "spanish": "iz. armero, -a [fabricante]"
+    "spanish": "iz. armero, -a [fabricante]",
+    "examples": []
   },
   {
     "id": 2338,
     "basque": "armagintza",
-    "spanish": "iz. armería [oficio e industria]"
+    "spanish": "iz. armería [oficio e industria]",
+    "examples": [
+      "Eibarko armagintza: armería eibarresa"
+    ]
   },
   {
     "id": 2339,
     "basque": "armairutik atera",
-    "spanish": "(lgart.) salir del armario"
+    "spanish": "(lgart.) salir del armario",
+    "examples": []
   },
   {
     "id": 2340,
     "basque": "armak utzi",
-    "spanish": "dejar las armas, desarmarse"
+    "spanish": "dejar las armas, desarmarse",
+    "examples": [
+      "gobernuak, azkenean, onartu du armak uztea negoziatzeko elkarrizketak hastea: el gobierno finalmente ha aceptado entablar conversaciones para negociar el desarme"
+    ]
   },
   {
     "id": 2341,
     "basque": "armategi",
-    "spanish": "armería [tienda]"
+    "spanish": "armería [tienda]",
+    "examples": []
   },
   {
     "id": 2342,
     "basque": "armazain",
-    "spanish": "iz. armero, -a [quien custodia y limpia]"
+    "spanish": "iz. armero, -a [quien custodia y limpia]",
+    "examples": []
   },
   {
     "id": 2343,
     "basque": "armonia eman",
-    "spanish": "(herr.) reñir, reprender"
+    "spanish": "(herr.) reñir, reprender",
+    "examples": [
+      "niri armoniarik ez eman!: ¡a mí no me riñas!"
+    ]
   },
   {
     "id": 2344,
     "basque": "arnas hartze",
-    "spanish": "iz. aspiración, inspiración, inhalación"
+    "spanish": "iz. aspiración, inspiración, inhalación",
+    "examples": []
   },
   {
     "id": 2345,
     "basque": "arnas(a) astundu",
-    "spanish": "hacer(se) pesada la respiración"
+    "spanish": "hacer(se) pesada la respiración",
+    "examples": []
   },
   {
     "id": 2346,
     "basque": "arnasa egin",
-    "spanish": "1 inspirar, aspirar, tomar aliento; respirar // 2 (hed.) descansar, respirar, tomar(se) un respiro // 3 exhalar, suspirar"
+    "spanish": "1 inspirar, aspirar, tomar aliento; respirar // 2 (hed.) descansar, respirar, tomar(se) un respiro // 3 exhalar, suspirar",
+    "examples": [
+      "gorputz osoan oinaze handia du, eta ezin du ondo arnasa egin: le duele todo el cuerpo y no puede respirar bien",
+      "itolarrian dauden familiek arnasa egin dezaten: para que las familias que estén en apuro tomen un respiro",
+      "hemendik entzuten da arnasa nola egiten duen: desde aquí se oye cómo exhala"
+    ]
   },
   {
     "id": 2347,
     "basque": "arnasa eman",
-    "spanish": "espirar, soplar // animar, dar aliento"
+    "spanish": "espirar, soplar // animar, dar aliento",
+    "examples": []
   },
   {
     "id": 2348,
     "basque": "arnasa galdu",
-    "spanish": "quedarse sin respiración, quedarse sin aliento; asfixiarse, ahogarse"
+    "spanish": "quedarse sin respiración, quedarse sin aliento; asfixiarse, ahogarse",
+    "examples": [
+      "komeni da ariketa aerobikoak egitea, fase anaerobikora iritsi gabe, hau da, arnasa galdu gabe: es recomendable realizar ejercicios aeróbicos sin llegar a la fase anaeróbica, es decir, sin quedarse sin respiración"
+    ]
   },
   {
     "id": 2349,
     "basque": "arnasa hartu",
-    "spanish": "1 inspirar, aspirar, tomar aliento; respirar // 2 (hed.) descansar, respirar, tomar(se) un respiro"
+    "spanish": "1 inspirar, aspirar, tomar aliento; respirar // 2 (hed.) descansar, respirar, tomar(se) un respiro",
+    "examples": [
+      "arnasa poliki hartu: inspirar lentamente",
+      "arnasa lasai hartzeko bide-ertzean gelditu zen: se paró al borde del camino para respirar con tranquilidad",
+      "arnasa hartzeko ere denborarik gabe: sin tiempo ni para descansar"
+    ]
   },
   {
     "id": 2350,
     "basque": "arnasaldi",
-    "spanish": "1  iz. respiro, respiración // 2  iz. alentada"
+    "spanish": "1  iz. respiro, respiración // 2  iz. alentada",
+    "examples": [
+      "zortzi arnasaldi: ocho respiraciones",
+      "egunkariko titulua arnasaldi batean irakurri zuen: leyó el titular del periódico de una alentada"
+    ]
   },
   {
     "id": 2351,
     "basque": "arnasbehartu, arnasbehar(tu), arnasbehartzen",
-    "spanish": "da ad. jadear, sofocar(se)"
+    "spanish": "da ad. jadear, sofocar(se)",
+    "examples": []
   },
   {
     "id": 2352,
     "basque": "arnasbide",
-    "spanish": "1 iz. (batez ere pl.) vía respiratoria // 2 iz. (hed.) respiro, desahogo, alivio; ánimo, aliento"
+    "spanish": "1 iz. (batez ere pl.) vía respiratoria // 2 iz. (hed.) respiro, desahogo, alivio; ánimo, aliento",
+    "examples": [
+      "zalantzan nenbilela hark arnasbidea eman zidan: mientras dudaba él me alentó"
+    ]
   },
   {
     "id": 2353,
     "basque": "arnasbotatze",
-    "spanish": "iz. espiración"
+    "spanish": "iz. espiración",
+    "examples": []
   },
   {
     "id": 2354,
     "basque": "arnasgabe",
-    "spanish": "1  izond. exánime, inánime // 2  iz. falta de aliento, falta de fuerza(s)"
+    "spanish": "1  izond. exánime, inánime // 2  iz. falta de aliento, falta de fuerza(s)",
+    "examples": [
+      "nire ahulezia eta arnasgabea ikusita, eraso egin zidaten: viendo mi debilidad y falta de fuerzas, me atacaron"
+    ]
   },
   {
     "id": 2355,
     "basque": "arnasgailu",
-    "spanish": "iz. (Med.) respirador"
+    "spanish": "iz. (Med.) respirador",
+    "examples": [
+      "oso gaixorik zegoenez, arnasgailua jarri zioten: como estaba muy enfermo, le pusieron el respirador"
+    ]
   },
   {
     "id": 2356,
     "basque": "arnasgarri",
-    "spanish": "izond. respirable"
+    "spanish": "izond. respirable",
+    "examples": [
+      "aire arnasgarria: aire respirable"
+    ]
   },
   {
     "id": 2357,
     "basque": "arnasgune",
-    "spanish": "iz. (Soziol.) arnasgune, nicho vital del euskera"
+    "spanish": "iz. (Soziol.) arnasgune, nicho vital del euskera",
+    "examples": []
   },
   {
     "id": 2358,
     "basque": "arnasketa",
-    "spanish": "iz. respiración"
+    "spanish": "iz. respiración",
+    "examples": [
+      "arnasketa funtzio begetatiboa da: la respiración es una función vegetativa"
+    ]
   },
   {
     "id": 2359,
     "basque": "arnasketa lagundu",
-    "spanish": "(Med.) respiración asistida"
+    "spanish": "(Med.) respiración asistida",
+    "examples": []
   },
   {
     "id": 2360,
     "basque": "arnastu, arnas(tu), arnasten",
-    "spanish": "du ad. respirar"
+    "spanish": "du ad. respirar",
+    "examples": [
+      "arnasten dugun haizea ez da oso garbia: el aire que respiramos no es muy limpio"
+    ]
   },
   {
     "id": 2361,
     "basque": "arnegagarri",
-    "spanish": "1  izond. lo que hace renunciar; desalentador, -a // 2  izond. fastidioso, -a; molesto, -a"
+    "spanish": "1  izond. lo que hace renunciar; desalentador, -a // 2  izond. fastidioso, -a; molesto, -a",
+    "examples": []
   },
   {
     "id": 2362,
     "basque": "arnegari",
-    "spanish": "1  iz. (Erl.) renegado, -a; apóstata // 2  iz. blasfemo, -a; malhablado, -a"
+    "spanish": "1  iz. (Erl.) renegado, -a; apóstata // 2  iz. blasfemo, -a; malhablado, -a",
+    "examples": []
   },
   {
     "id": 2363,
     "basque": "arnegatu, arnega, arnegatzen",
-    "spanish": "1  du ad. (Erl.) renegar, negar, abjurar, renunciar; apostatar // 2  du ad. maldecir, blasfemar; insultar"
+    "spanish": "1  du ad. (Erl.) renegar, negar, abjurar, renunciar; apostatar // 2  du ad. maldecir, blasfemar; insultar",
+    "examples": [
+      "fedeaz arnegatu: renegar de la fe",
+      "apaiz arnegatuak: curas renegados"
+    ]
   },
   {
     "id": 2364,
     "basque": "arnegatzaile",
-    "spanish": "1 iz. (Erl.) renegado, -a; apóstata // 2 iz. blasfemo, -a; malhablado, -a"
+    "spanish": "1 iz. (Erl.) renegado, -a; apóstata // 2 iz. blasfemo, -a; malhablado, -a",
+    "examples": []
   },
   {
     "id": 2365,
     "basque": "arnegu egin",
-    "spanish": "1 (Erl.) abjurar, renegar // 2 maldecir; blasfemar"
+    "spanish": "1 (Erl.) abjurar, renegar // 2 maldecir; blasfemar",
+    "examples": []
   },
   {
     "id": 2366,
     "basque": "arnoketa",
-    "spanish": "1 iz. (Ipar.) cosecha de vino; (cantidad de) vino // 2 adb. (Ipar.) en busca de vino; a por vino"
+    "spanish": "1 iz. (Ipar.) cosecha de vino; (cantidad de) vino // 2 adb. (Ipar.) en busca de vino; a por vino",
+    "examples": []
   },
   {
     "id": 2367,
     "basque": "aro",
-    "spanish": "1  iz. sazón, tempero; época, tiempo [adecuado para algo]; (buen) ambiente // 2  iz. época, tiempo, período, etapa // 3  iz. [Historiaren atala] edad // 4  iz. estación [del año] // 5  iz. (Ipar.) tiempo atmosférico"
+    "spanish": "1  iz. sazón, tempero; época, tiempo [adecuado para algo]; (buen) ambiente // 2  iz. época, tiempo, período, etapa // 3  iz. [Historiaren atala] edad // 4  iz. estación [del año] // 5  iz. (Ipar.) tiempo atmosférico",
+    "examples": [
+      "ereiteko aroa: época de siembra",
+      "aldizkariaren bigarren aroari hasiera eman: dar comienzo a la segunda etapa de la revista",
+      "ekaitzak aro ona dakar: la tempestad trae buen tiempo",
+      "aro eder bat harri baliotsu eta diamantez josia: una bella corona llena de piedras preciosas y diamantes",
+      "lorazko aro bi edertzeko: dos guirnaldas de flores para adornar"
+    ]
   },
   {
     "id": 2369,
     "basque": "Aro Garaikide",
-    "spanish": "Edad Contemporánea"
+    "spanish": "Edad Contemporánea",
+    "examples": []
   },
   {
     "id": 2370,
     "basque": "aromatizatzaile",
-    "spanish": "iz./izond. aromatizante"
+    "spanish": "iz./izond. aromatizante",
+    "examples": [
+      "aromatizatzaileak sintetikoak edo naturalak izan daitezke: los aromatizantes pueden ser bien sintéticos o naturales",
+      "nahaste aromatizatzaileak: mezclas aromatizantes"
+    ]
   },
   {
     "id": 2371,
     "basque": "arotz-aulki",
-    "spanish": "[arotzen lan-mahaia] banco, mesa de trabajo"
+    "spanish": "[arotzen lan-mahaia] banco, mesa de trabajo",
+    "examples": []
   },
   {
     "id": 2372,
     "basque": "aroztegi",
-    "spanish": "carpintería"
+    "spanish": "carpintería",
+    "examples": []
   },
   {
     "id": 2373,
     "basque": "arpanlari",
-    "spanish": "iz. tronzador, -a [persona]"
+    "spanish": "iz. tronzador, -a [persona]",
+    "examples": []
   },
   {
     "id": 2374,
     "basque": "arpilaketa",
-    "spanish": "iz. saqueo, pillaje; robo"
+    "spanish": "iz. saqueo, pillaje; robo",
+    "examples": []
   },
   {
     "id": 2375,
     "basque": "arpilatu, arpila, arpilatzen",
-    "spanish": "du ad. saquear"
+    "spanish": "du ad. saquear",
+    "examples": []
   },
   {
     "id": 2376,
     "basque": "arpilatze",
-    "spanish": "iz. saqueo, pillaje; robo"
+    "spanish": "iz. saqueo, pillaje; robo",
+    "examples": []
   },
   {
     "id": 2377,
     "basque": "arpoilari",
-    "spanish": "iz. arponero, -a"
+    "spanish": "iz. arponero, -a",
+    "examples": [
+      "zenbait agiriren arabera, euskal arpoilariek XVI. mendearen lehen erdialdeaz geroztik arrantzan egiten zuten Kanadako uretan: según algunos documentos, lor arponeros vascos pescaban en aguas de Canadá a partir de la primera mitad del siglo XVI"
+    ]
   },
   {
     "id": 2378,
     "basque": "arra-egin, arra-egin, arra-egiten",
-    "spanish": "du ad. (Ipar.) volver a hacer, rehacer"
+    "spanish": "du ad. (Ipar.) volver a hacer, rehacer",
+    "examples": [
+      "gauza puskatuen arra-egiteko dohaina: el don de rehacer lo roto"
+    ]
   },
   {
     "id": 2379,
     "basque": "arra-ezkondu, arra-ezkon, arra-ezkontzen",
-    "spanish": "da ad. volver a casarse"
+    "spanish": "da ad. volver a casarse",
+    "examples": []
   },
   {
     "id": 2380,
     "basque": "arrabita-jotzaile",
-    "spanish": "(Mus.) rabelero, -a"
+    "spanish": "(Mus.) rabelero, -a",
+    "examples": []
   },
   {
     "id": 2381,
     "basque": "arrabitari",
-    "spanish": "iz. (Mus.) rabelero, -a"
+    "spanish": "iz. (Mus.) rabelero, -a",
+    "examples": []
   },
   {
     "id": 2382,
     "basque": "arrabotaketa",
-    "spanish": "iz. (Teknol.) cepillado"
+    "spanish": "iz. (Teknol.) cepillado",
+    "examples": []
   },
   {
     "id": 2383,
     "basque": "arraiari",
-    "spanish": "iz. tanteador, -a [persona que lleva la cuenta de los tantos, sobre todo en los partidos de pelota]"
+    "spanish": "iz. tanteador, -a [persona que lleva la cuenta de los tantos, sobre todo en los partidos de pelota]",
+    "examples": []
   },
   {
     "id": 2384,
     "basque": "arraidura",
-    "spanish": "1 iz. (BN) alegría; afabilidad // 2 iz. (BN) disco de la luna"
+    "spanish": "1 iz. (BN) alegría; afabilidad // 2 iz. (BN) disco de la luna",
+    "examples": []
   },
   {
     "id": 2385,
     "basque": "arraiki",
-    "spanish": "adb. (BN/L) alegremente; favorablemente"
+    "spanish": "adb. (BN/L) alegremente; favorablemente",
+    "examples": []
   },
   {
     "id": 2386,
     "basque": "arraildu, arrail(du), arrailtzen",
-    "spanish": "1 da/du ad. (batez ere Ipar.) agrietar(se), rajar(se), desgarrar(se), hender(se), hendir(se) // 2 da ad. (Ipar.) emborrachar(se), embriagar(se)"
+    "spanish": "1 da/du ad. (batez ere Ipar.) agrietar(se), rajar(se), desgarrar(se), hender(se), hendir(se) // 2 da ad. (Ipar.) emborrachar(se), embriagar(se)",
+    "examples": [
+      "lurra ikaratu eta harriak arraildu egin ziren: la tierra tembló y las rocas se agrietaron",
+      "pertsona hori igande guztiez arrailtzen da: esa persona se emborracha todos los domingos",
+      "mozkor arraildua zegoen, zutik ez irauteko moduan: estaba como una cuba, no podía tenerse en pie"
+    ]
   },
   {
     "id": 2387,
     "basque": "arraildura",
-    "spanish": "1 iz. (Ipar.) hendidura, grieta // 2 iz. (Geol.) diaclasa"
+    "spanish": "1 iz. (Ipar.) hendidura, grieta // 2 iz. (Geol.) diaclasa",
+    "examples": []
   },
   {
     "id": 2388,
     "basque": "arrailgarri",
-    "spanish": "izond. (Ipar.) desgarrador, -a; lacerante"
+    "spanish": "izond. (Ipar.) desgarrador, -a; lacerante",
+    "examples": [
+      "bihotz-arrailgarri den berria: una noticia desgarradora para el corazón"
+    ]
   },
   {
     "id": 2389,
     "basque": "arrain hegalari",
-    "spanish": "(Zool.) pez volador (Exocoetidae sp.)"
+    "spanish": "(Zool.) pez volador (Exocoetidae sp.)",
+    "examples": []
   },
   {
     "id": 2390,
     "basque": "arrain-hazkuntza",
-    "spanish": "piscicultura"
+    "spanish": "piscicultura",
+    "examples": []
   },
   {
     "id": 2391,
     "basque": "arrain-ontzi",
-    "spanish": "1 Ik. arrainontzi // 2 Ik. arrantza-ontzi"
+    "spanish": "1 Ik. arrainontzi // 2 Ik. arrantza-ontzi",
+    "examples": []
   },
   {
     "id": 2392,
     "basque": "arrain-saltzaile",
-    "spanish": "pescadero, -a, vendedor, -a de pescado"
+    "spanish": "pescadero, -a, vendedor, -a de pescado",
+    "examples": []
   },
   {
     "id": 2393,
     "basque": "arraindun",
-    "spanish": "adj./iz. pescadero, -a"
+    "spanish": "adj./iz. pescadero, -a",
+    "examples": []
   },
   {
     "id": 2394,
     "basque": "arrainketa",
-    "spanish": "1 iz. [ekintza eta ondorioa] pesca // 2 adb. pescando"
+    "spanish": "1 iz. [ekintza eta ondorioa] pesca // 2 adb. pescando",
+    "examples": [
+      "arrainketa XVI. mendean hasi zen aurreratzen: la pesca comenzó a progresar el siglo XVI",
+      "aurtengo arrainketa handiena: la mayor pesca de este año"
+    ]
   },
   {
     "id": 2395,
     "basque": "arrainketari",
-    "spanish": "iz. pescadero, -a"
+    "spanish": "iz. pescadero, -a",
+    "examples": []
   },
   {
     "id": 2396,
     "basque": "arrainki",
-    "spanish": "iz. pescado, carne de pez"
+    "spanish": "iz. pescado, carne de pez",
+    "examples": [
+      "arrainkirik preziatuenak: los pescados más apreciados"
+    ]
   },
   {
     "id": 2397,
     "basque": "arrainkume",
-    "spanish": "iz. alevín [cría de pez]"
+    "spanish": "iz. alevín [cría de pez]",
+    "examples": []
   },
   {
     "id": 2398,
     "basque": "arrainontzi",
-    "spanish": "iz. pecera, acuario"
+    "spanish": "iz. pecera, acuario",
+    "examples": []
   },
   {
     "id": 2399,
     "basque": "arraintegi",
-    "spanish": "piscifactoría"
+    "spanish": "piscifactoría",
+    "examples": []
   },
   {
     "id": 2400,
     "basque": "arraitasun",
-    "spanish": "1  iz. (BN/L) resplandor, claridad // 2  iz. (BN/L) alegría, gozo, contento // 3  iz. (BN/L) simpatía, amabilidad, cordialidad, afabilidad"
+    "spanish": "1  iz. (BN/L) resplandor, claridad // 2  iz. (BN/L) alegría, gozo, contento // 3  iz. (BN/L) simpatía, amabilidad, cordialidad, afabilidad",
+    "examples": [
+      "begitartea eta hitza baitzuen arraitasunaz eta kortesiaz betea: su palabra y su rostro estaban llenos de alegría y cortesía"
+    ]
   },
   {
     "id": 2401,
     "basque": "arraitsu",
-    "spanish": "1 izond. (batez ere Ipar.) radiante, resplandeciente // 2 izond. (batez ere Ipar.) alegre, jovial"
+    "spanish": "1 izond. (batez ere Ipar.) radiante, resplandeciente // 2 izond. (batez ere Ipar.) alegre, jovial",
+    "examples": [
+      "zuzi arraitsua: una antorcha resplandeciente",
+      "ume alaiak, arraitsuak eta jostalariak dira: son unos niños contentos, alegres y juguetones"
+    ]
   },
   {
     "id": 2402,
