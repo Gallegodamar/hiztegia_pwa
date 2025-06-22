@@ -5478,157 +5478,238 @@
   {
     "id": 1023,
     "basque": "aipu egin",
-    "spanish": "hacer mención, mencionar"
+    "spanish": "hacer mención, mencionar",
+    "examples": [
+      "ez dute hortaz aipurik egin: no han hecho mención sobre eso"
+    ]
   },
   {
     "id": 1024,
     "basque": "aipu izan",
-    "spanish": "mencionar, hablar de"
+    "spanish": "mencionar, hablar de",
+    "examples": [
+      "haiek uste zuten lo egiteaz zuela aipu: creían que hablaba acerca del dormir",
+      "haren izena nonahi aipu zen: se mencionaba su nombre en todas partes"
+    ]
   },
   {
     "id": 1025,
     "basque": "airaldi",
-    "spanish": "iz. (Ipar.) vuelo"
+    "spanish": "iz. (Ipar.) vuelo",
+    "examples": []
   },
   {
     "id": 1026,
     "basque": "airatu, aira, airatzen",
-    "spanish": "1 da/du ad. (Ipar.) volar // 2 da/du ad. (Ipar.) levantar(se) al aire // 3 da/du ad. marcharse; desaparecer; mandar, expulsar // 4 da ad. (Ipar.) envanecer(se), llenar(se) de soberbia // 5 du ad. (Ipar.) airear, ventilar // 6 du ad. (Ipar.) airear, dar a conocer"
+    "spanish": "1 da/du ad. (Ipar.) volar // 2 da/du ad. (Ipar.) levantar(se) al aire // 3 da/du ad. marcharse; desaparecer; mandar, expulsar // 4 da ad. (Ipar.) envanecer(se), llenar(se) de soberbia // 5 du ad. (Ipar.) airear, ventilar // 6 du ad. (Ipar.) airear, dar a conocer",
+    "examples": [
+      "txoriak airatzen diren bezala: de la misma forma que vuelan los pájaros",
+      "bere arima zerura airatu da: su alma ha volado al cielo",
+      "haize handi batek orbela airatzen duen erraztasunarekin: con la misma facilidad con que el viento levanta por los aires las hojas secas",
+      "gazterik zen airatu: se marchó cuando era joven",
+      "sukarra airatu zen: la fiebre desapareció",
+      "airatzen bazitzaion izpiritua: si su espíritu se llenaba de soberbia",
+      "isilpeko barren bat airatu: airear un secreto"
+    ]
   },
   {
     "id": 1027,
     "basque": "aire girotu",
-    "spanish": "aire acondicionado"
+    "spanish": "aire acondicionado",
+    "examples": [
+      "aire girotua jarri dute: han instalado el aire acondicionado"
+    ]
   },
   {
     "id": 1028,
     "basque": "aire konprimatu",
-    "spanish": "aire comprimido"
+    "spanish": "aire comprimido",
+    "examples": []
   },
   {
     "id": 1029,
     "basque": "aire-bide",
-    "spanish": "ruta aérea, línea aérea, vía aérea"
+    "spanish": "ruta aérea, línea aérea, vía aérea",
+    "examples": [
+      "Paris-Dakar aire-bidea: la línea aérea París-Dakar"
+    ]
   },
   {
     "id": 1030,
     "basque": "aire-dosifikagailu",
-    "spanish": "(Autom.) estrangulador"
+    "spanish": "(Autom.) estrangulador",
+    "examples": []
   },
   {
     "id": 1031,
     "basque": "aire-freskagarri",
-    "spanish": "ambientador [producto]"
+    "spanish": "ambientador [producto]",
+    "examples": []
   },
   {
     "id": 1032,
     "basque": "aire-frijigailu; aire bidezko frijigailu",
-    "spanish": "freidora de aire"
+    "spanish": "freidora de aire",
+    "examples": []
   },
   {
     "id": 1033,
     "basque": "aire-girotze",
-    "spanish": "acondicionamiento de aire"
+    "spanish": "acondicionamiento de aire",
+    "examples": []
   },
   {
     "id": 1034,
     "basque": "aire-gozagarri",
-    "spanish": "ambientador [producto]"
+    "spanish": "ambientador [producto]",
+    "examples": []
   },
   {
     "id": 1035,
     "basque": "airea girotzeko gailu; aire-girogailu",
-    "spanish": "acondicionador de aire; climatizador"
+    "spanish": "acondicionador de aire; climatizador",
+    "examples": []
   },
   {
     "id": 1036,
     "basque": "airean egon",
-    "spanish": "estar en el aire, estar la cosa en duda, estar sin decidir, estar por ver"
+    "spanish": "estar en el aire, estar la cosa en duda, estar sin decidir, estar por ver",
+    "examples": [
+      "dena dago airean: todo está por decidir",
+      "gaurko partida jokatu ez jokatu airean egon da azken unea arte: no se ha decidido hasta el último momento si jugar o no el partido de hoy"
+    ]
   },
   {
     "id": 1037,
     "basque": "aireberritu, aireberri, aireberritzen",
-    "spanish": "da/du ad. ventilar(se)"
+    "spanish": "da/du ad. ventilar(se)",
+    "examples": []
   },
   {
     "id": 1038,
     "basque": "airefaro",
-    "spanish": "iz. (Aeron.) aerofaro"
+    "spanish": "iz. (Aeron.) aerofaro",
+    "examples": []
   },
   {
     "id": 1039,
     "basque": "aireontzi",
-    "spanish": "iz. (Aeron.) aeronave"
+    "spanish": "iz. (Aeron.) aeronave",
+    "examples": []
   },
   {
     "id": 1040,
     "basque": "aireportu",
-    "spanish": "iz. (Aeron.) aeropuerto"
+    "spanish": "iz. (Aeron.) aeropuerto",
+    "examples": []
   },
   {
     "id": 1041,
     "basque": "aireratu, airera, aireratzen",
-    "spanish": "1 da ad. [hegazkina, helikopteroa] despegar // 2 da/du ad. [gasak] emitir"
+    "spanish": "1 da ad. [hegazkina, helikopteroa] despegar // 2 da/du ad. [gasak] emitir",
+    "examples": [
+      "hegazkina hogei minutuko atzerapenarekin aireratu zen: el avión despegó con un retraso de veinte minutos"
+    ]
   },
   {
     "id": 1042,
     "basque": "aireratze",
-    "spanish": "1  iz. [hegazkinak eta abar] despegue // 2  iz. [gasak] emisión"
+    "spanish": "1  iz. [hegazkinak eta abar] despegue // 2  iz. [gasak] emisión",
+    "examples": []
   },
   {
     "id": 1043,
     "basque": "aireztapen",
-    "spanish": "iz. aireación, ventilación"
+    "spanish": "iz. aireación, ventilación",
+    "examples": [
+      "aireztapen-sistema: sistema de ventilación"
+    ]
   },
   {
     "id": 1044,
     "basque": "aireztatu, airezta, aireztatzen",
-    "spanish": "da/du ad. airear(se), ventilar(se) [un lugar, una cosa]"
+    "spanish": "da/du ad. airear(se), ventilar(se) [un lugar, una cosa]",
+    "examples": [
+      "soinekoak aireztatu dituzte: han ventilado los vestidos",
+      "gela ongi aireztatu behar izan zuten: tuvieron que ventilar bien la habitación"
+    ]
   },
   {
     "id": 1045,
     "basque": "aireztatze",
-    "spanish": "iz. aireación, ventilación"
+    "spanish": "iz. aireación, ventilación",
+    "examples": []
   },
   {
     "id": 1046,
     "basque": "airoski",
-    "spanish": "adb. (Ipar.) airosamente, con garbo; rápidamente"
+    "spanish": "adb. (Ipar.) airosamente, con garbo; rápidamente",
+    "examples": [
+      "saskiak altxaturik airoski burura: levantando con garbo las cestas a la cabeza"
+    ]
   },
   {
     "id": 1047,
     "basque": "airostu, airos(tu), airosten",
-    "spanish": "da/du ad. (Ipar.) animar(se), alegrar(se)"
+    "spanish": "da/du ad. (Ipar.) animar(se), alegrar(se)",
+    "examples": [
+      "kantariek bazter guztiak airosten zituzten: los cantores alegraban todos los rincones"
+    ]
   },
   {
     "id": 1048,
     "basque": "aisa",
-    "spanish": "1  adb. fácilmente, holgadamente // 2  adb. sin duda // 3  adb. mucho"
+    "spanish": "1  adb. fácilmente, holgadamente // 2  adb. sin duda // 3  adb. mucho",
+    "examples": []
   },
   {
     "id": 1049,
     "basque": "aisanahi",
-    "spanish": "1  iz. comodidad, egoísmo // 2  izond. comodón, -ona; egoísta"
+    "spanish": "1  iz. comodidad, egoísmo // 2  izond. comodón, -ona; egoísta",
+    "examples": [
+      "batzuk handinahiez eta besteak aisanahiez: unos por presunción y otros por comodidad",
+      "langile aisanahia, besterenaren zalea: trabajador egoísta, que desea siempre lo de los demás"
+    ]
   },
   {
     "id": 1050,
     "basque": "aisatu, aisa(tu), aisatzen",
-    "spanish": "du ad. facilitar; aligerar, aliviar // da ad. acostumbrarse"
+    "spanish": "du ad. facilitar; aligerar, aliviar // da ad. acostumbrarse",
+    "examples": [
+      "zorra kitatu eta nekea aisatu: saldar la deuda y aliviar el cansancio",
+      "aisatzen dira bekatu egitera: se acostumbran a pecar"
+    ]
   },
   {
     "id": 1051,
     "basque": "aise",
-    "spanish": "1  adb. fácilmente; cómodamente; holgadamente // 2  adb. sin duda, con seguridad // 3  adb. (sarritan adberbio eta izenondoen aurretik) mucho; en abundancia"
+    "spanish": "1  adb. fácilmente; cómodamente; holgadamente // 2  adb. sin duda, con seguridad // 3  adb. (sarritan adberbio eta izenondoen aurretik) mucho; en abundancia",
+    "examples": [
+      "bere lanbidetik aise bizi zen: vivía holgadamente de su trabajo",
+      "aise aurkituko duzu haren etxea: encontrarás su casa fácilmente",
+      "aise erabiltzen den tresna da: es un instrumento que se utiliza fácilmente",
+      "aise altxatzen zituen zangoak: levantaba las piernas fácilmente",
+      "—berriz ikusiko nauzu. —bai, aise!: —me volverás a ver. —sí hombre, sin duda",
+      "aise hobeki baitzen, denek lengoaia berean: (antes) era mucho mejor, hablando todos la misma lengua",
+      "zu ere aise gozoagoa zinen, duela hamabost urte!: ¡tú también eras mucho más cariñoso hace quince años!",
+      "bota aise azukrea kafeari: échale azúcar al café sin miedo"
+    ]
   },
   {
     "id": 1052,
     "basque": "aiseki",
-    "spanish": "adb. fácilmente, holgadamente"
+    "spanish": "adb. fácilmente, holgadamente",
+    "examples": [
+      "zuk aisekiago egingo duzu: tú lo harás más fácilmente"
+    ]
   },
   {
     "id": 1053,
     "basque": "aiseria",
-    "spanish": "iz. (Ipar.) ocio, ociosidad, vida cómoda"
+    "spanish": "iz. (Ipar.) ocio, ociosidad, vida cómoda",
+    "examples": [
+      "aiseria beti miseria: la ociosidad siempre (trae) miseria"
+    ]
   },
   {
     "id": 1054,
@@ -5642,82 +5723,109 @@
   {
     "id": 1055,
     "basque": "aisialdi",
-    "spanish": "iz. tiempo libre, (tiempo de) ocio"
+    "spanish": "iz. tiempo libre, (tiempo de) ocio",
+    "examples": []
   },
   {
     "id": 1056,
     "basque": "aita ezkongabe",
-    "spanish": "padre soltero"
+    "spanish": "padre soltero",
+    "examples": []
   },
   {
     "id": 1057,
     "basque": "aita nagusi",
-    "spanish": "padre prior, (padre) superior"
+    "spanish": "padre prior, (padre) superior",
+    "examples": []
   },
   {
     "id": 1058,
     "basque": "aita saindu",
-    "spanish": "(Ipar.) papa; Santo Padre, Padre Santo"
+    "spanish": "(Ipar.) papa; Santo Padre, Padre Santo",
+    "examples": []
   },
   {
     "id": 1059,
     "basque": "Aita Santu",
-    "spanish": "Papa"
+    "spanish": "Papa",
+    "examples": []
   },
   {
     "id": 1060,
     "basque": "aitagai",
-    "spanish": "iz. futuro padre"
+    "spanish": "iz. futuro padre",
+    "examples": []
   },
   {
     "id": 1061,
     "basque": "aitaginarrebakide",
-    "spanish": "iz. consuegro"
+    "spanish": "iz. consuegro",
+    "examples": []
   },
   {
     "id": 1062,
     "basque": "aitakide",
-    "spanish": "iz. compadre"
+    "spanish": "iz. compadre",
+    "examples": [
+      "solasaldi zoragarriak izan zituen bere bi aitakideekin, apaizarekin eta bizargilearekin: tuvo unas charlas estupendas con sus dos compadres, con el cura y con el barbero"
+    ]
   },
   {
     "id": 1063,
     "basque": "aitamatu, aitama(tu), aitamatzen",
-    "spanish": "da ad. hacerse padres [padre y madre]"
+    "spanish": "da ad. hacerse padres [padre y madre]",
+    "examples": []
   },
   {
     "id": 1064,
     "basque": "aitaorde",
-    "spanish": "1 iz. padre adoptivo/putativo // 2 iz. padrastro"
+    "spanish": "1 iz. padre adoptivo/putativo // 2 iz. padrastro",
+    "examples": [
+      "Jesu Kristo beraren aitaorde zen San Jose: San José era el padre adoptivo de Jesucristo"
+    ]
   },
   {
     "id": 1065,
     "basque": "aitaren egin",
-    "spanish": "(Erl.) santiguar(se)"
+    "spanish": "(Erl.) santiguar(se)",
+    "examples": [
+      "aitaren eginez sartu zen elizara: entró en la iglesia santiguándose"
+    ]
   },
   {
     "id": 1066,
     "basque": "aitaren seme gelditu",
-    "spanish": "estar a la cuarta pregunta"
+    "spanish": "estar a la cuarta pregunta",
+    "examples": []
   },
   {
     "id": 1067,
     "basque": "aitasantutu, aitasantu, aitasantutzen",
-    "spanish": "da/du ad. hacer(se) papa"
+    "spanish": "da/du ad. hacer(se) papa",
+    "examples": []
   },
   {
     "id": 1068,
     "basque": "aitasantutza",
-    "spanish": "papado, pontificado"
+    "spanish": "papado, pontificado",
+    "examples": [
+      "aitasantutzako lanetan: en labores de papado"
+    ]
   },
   {
     "id": 1069,
     "basque": "aitasotu, aitaso(tu), aitasotzen",
-    "spanish": "da ad. (Ipar.) hacerse abuelo; envejecer"
+    "spanish": "da ad. (Ipar.) hacerse abuelo; envejecer",
+    "examples": []
   },
   {
     "id": 1070,
     "basque": "aitatar",
-    "spanish": "1 adj. paterno, -a // 2 adj. parecido, -a al padre; hijo, -a de su padre"
+    "spanish": "1 adj. paterno, -a // 2 adj. parecido, -a al padre; hijo, -a de su padre",
+    "examples": [
+      "bihotz aitatar bat: un corazón paterno",
+      "Batista, etxeko premua, errotik aitatar da: Bautista, el primogénito de la casa, es muy parecido al padre"
+    ]
   },
   {
     "id": 1071,
@@ -5731,22 +5839,33 @@
   {
     "id": 1072,
     "basque": "aitatasun-baimen",
-    "spanish": "permiso de paternidad"
+    "spanish": "permiso de paternidad",
+    "examples": []
   },
   {
     "id": 1073,
     "basque": "aitatu, aita(tu), aitatzen",
-    "spanish": "du ad. mencionar; reseñar, citar // 1 da/du ad. hacer(se) padre // 2 da/du ad. hacer(se) padre religioso"
+    "spanish": "du ad. mencionar; reseñar, citar // 1 da/du ad. hacer(se) padre // 2 da/du ad. hacer(se) padre religioso",
+    "examples": [
+      "Enos-ez aitatu zen: se hizo padre de Enos",
+      "zahartu naiz eta aitatu: me he hecho viejo y padre (religioso)"
+    ]
   },
   {
     "id": 1074,
     "basque": "aitazulo",
-    "spanish": "apegado al padre"
+    "spanish": "apegado al padre",
+    "examples": [
+      "ume hori aitazuloa da oso: ese niño está muy apegado a su padre"
+    ]
   },
   {
     "id": 1075,
     "basque": "aitondu, aiton, aitontzen",
-    "spanish": "1 da ad. hacerse abuelo // 2 da ad. envejecer, hacerse mayor [referido al hombre] // 3 da ad. coger el aspecto, la apariencia de abuelo"
+    "spanish": "1 da ad. hacerse abuelo // 2 da ad. envejecer, hacerse mayor [referido al hombre] // 3 da ad. coger el aspecto, la apariencia de abuelo",
+    "examples": [
+      "aitondu naiz, baina aitona gaztea naiz: me he hecho abuelo, pero soy un abuelo joven"
+    ]
   },
   {
     "id": 1076,
@@ -5757,82 +5876,135 @@
   {
     "id": 1077,
     "basque": "aitor",
-    "spanish": "confesión, declaración, reconocimiento, testimonio // testigo"
+    "spanish": "confesión, declaración, reconocimiento, testimonio // testigo",
+    "examples": [
+      "izuaren mende geratu ziren halako aitorra entzun zutenean: se quedaron aterrados al oír aquella confesión",
+      "aingeruak izango dira aitor: los ángeles serán testigo",
+      "bekatuen aitorra: la confesión de los pecados"
+    ]
   },
   {
     "id": 1078,
     "basque": "aitor egin",
-    "spanish": "confesar, reconocer"
+    "spanish": "confesar, reconocer",
+    "examples": [
+      "aitor egitera etorri zen: vino a confesar"
+    ]
   },
   {
     "id": 1079,
     "basque": "aitor eman",
-    "spanish": "dar testimonio, dar fe"
+    "spanish": "dar testimonio, dar fe",
+    "examples": [
+      "honek aitor eman du: este ha dado testimonio"
+    ]
   },
   {
     "id": 1080,
     "basque": "aitor izan",
-    "spanish": "du ad. confesar, reconocer"
+    "spanish": "du ad. confesar, reconocer",
+    "examples": [
+      "aitor dut gaizki egin dudala: reconozco que he actuado mal",
+      "ez da naziorik, Jaungoiko bat badela aitor ez duenik: no hay ninguna nación que no haya reconocido que existe Dios"
+    ]
   },
   {
     "id": 1081,
     "basque": "aitor oneko",
-    "spanish": "agradecido, -a"
+    "spanish": "agradecido, -a",
+    "examples": [
+      "mutil aitor onekoa: muchacho agradecido"
+    ]
   },
   {
     "id": 1082,
     "basque": "aitor-entzule",
-    "spanish": "confesor"
+    "spanish": "confesor",
+    "examples": [
+      "(apaiz) aitor-entzuleari egin zion aitorpena: le hizo la confesión al confesor"
+    ]
   },
   {
     "id": 1083,
     "basque": "aitoren alaba",
-    "spanish": "dama, mujer noble"
+    "spanish": "dama, mujer noble",
+    "examples": [
+      "aitoren semeak aitoren alaba hartzea, ez zen harrigarri: no era extraño que un noble se casara con una dama"
+    ]
   },
   {
     "id": 1084,
     "basque": "aitoren etxe",
-    "spanish": "casa noble"
+    "spanish": "casa noble",
+    "examples": []
   },
   {
     "id": 1085,
     "basque": "aitoren seme",
-    "spanish": "noble"
+    "spanish": "noble",
+    "examples": [
+      "errege, aitoren semeak eta apaizak elkartu ziren: se juntaron el rey, los nobles y los sacerdotes"
+    ]
   },
   {
     "id": 1086,
     "basque": "aitorketa",
-    "spanish": "confesión, declaración"
+    "spanish": "confesión, declaración",
+    "examples": []
   },
   {
     "id": 1087,
     "basque": "aitorkizun",
-    "spanish": "confesión, declaración [lo que se confiesa o declara]"
+    "spanish": "confesión, declaración [lo que se confiesa o declara]",
+    "examples": [
+      "San Agustinen aitorkizunak: las confesiones de San Agustín",
+      "aitorkizun bat aitortu behar dizuet: tengo que haceros una confesión"
+    ]
   },
   {
     "id": 1088,
     "basque": "aitorle",
-    "spanish": "(Erl.) confesor //  testigo"
+    "spanish": "(Erl.) confesor //  testigo",
+    "examples": [
+      "bekatuak aitorleari esan: decir los pecados al confesor",
+      "fede-aitorlea: confesor de la fe",
+      "San Hilario aitorlea: el confesor San Hilario",
+      "Jainkoa aitorletzat hartzen dut: pongo por testigo a Dios",
+      "gezurrezko aitorlea: falso testigo"
+    ]
   },
   {
     "id": 1089,
     "basque": "aitorleku",
-    "spanish": "(Erl.) confesonario, confesionario"
+    "spanish": "(Erl.) confesonario, confesionario",
+    "examples": []
   },
   {
     "id": 1090,
     "basque": "aitormen",
-    "spanish": "1  iz. confesión, declaración // 2  iz. reconocimiento, aprobación // 3  iz. (Erl.) [bekatuena] confesión"
+    "spanish": "1  iz. confesión, declaración // 2  iz. reconocimiento, aprobación // 3  iz. (Erl.) [bekatuena] confesión",
+    "examples": [
+      "gaztetasuneko hutsen aitormena: la confesión de los errores de su juventud",
+      "aitormena sinatu du: ha firmado la confesión",
+      "ez al du haur horrek aitormenik merezi?: ¿no merece ese niño algún reconocimiento?",
+      "ez zioten konstituzio zibilari aitormenik egin: no reconocieron la constitución civil",
+      "bizitza guztiko bekatuen aitormena: la confesión general (de todos los pecados)"
+    ]
   },
   {
     "id": 1091,
     "basque": "aitorpen",
-    "spanish": "1  iz. confesión, declaración // 2  iz. (Erl.) [bekatuena] confesión // 3  iz. (Zuz.) [lekukoarena...] declaración // 4  iz. [ondasunena, errentarena] declaración"
+    "spanish": "1  iz. confesión, declaración // 2  iz. (Erl.) [bekatuena] confesión // 3  iz. (Zuz.) [lekukoarena...] declaración // 4  iz. [ondasunena, errentarena] declaración",
+    "examples": [
+      "maite aitorpena egin arren: a pesar de haber hecho una declaración de amor",
+      "errenta-aitorpena: declaración de la renta"
+    ]
   },
   {
     "id": 1092,
     "basque": "aitorrera",
-    "spanish": "1  iz. testimonio // 2  iz. confesión, declaración"
+    "spanish": "1  iz. testimonio // 2  iz. confesión, declaración",
+    "examples": []
   },
   {
     "id": 1093,
@@ -5845,157 +6017,268 @@
   {
     "id": 1094,
     "basque": "aitortegi",
-    "spanish": "(Erl.) confesonario"
+    "spanish": "(Erl.) confesonario",
+    "examples": []
   },
   {
     "id": 1095,
     "basque": "aitortoki",
-    "spanish": "iz. (Erl.) confesonario, confesionario"
+    "spanish": "iz. (Erl.) confesonario, confesionario",
+    "examples": []
   },
   {
     "id": 1096,
     "basque": "Aitortu beharra daukat",
-    "spanish": "Debo confesarlo."
+    "spanish": "Debo confesarlo.",
+    "examples": []
   },
   {
     "id": 1097,
     "basque": "aitortu, aitor(tu), aitortzen",
-    "spanish": "du ad. confesar, declarar // aceptar, reconocer, admitir"
+    "spanish": "du ad. confesar, declarar // aceptar, reconocer, admitir",
+    "examples": [
+      "egia aitortu zion: le confesó la verdad",
+      "azkenean aitortu zidan arrazoia nuela: al final admitió que yo tenía razón",
+      "odolez aitortu: testificar con sangre",
+      "hilero behintzat bekatuak aitor itzazu: confiesa tus pecados al menos una vez al mes",
+      "erretoreak aitortu du: le ha confesado el párroco",
+      "aduanan ez zuen ezer aitortu: no declaró nada en la aduana",
+      "aitortu zion Adani eskubidea, Paradisuko fruta guztietatik jateko...: le concedió a Adán el derecho a probar todas las frutas del Paraíso...",
+      "hilero aitortzen da: se confiesa todos los meses"
+    ]
   },
   {
     "id": 1098,
     "basque": "aitortza",
-    "spanish": "confesión, declaración // [sakramentua] confesión"
+    "spanish": "confesión, declaración // [sakramentua] confesión",
+    "examples": [
+      "aitaren aitortza entzun nuen: escuché la declaración del padre",
+      "bekatu astunak eta arinak barkatzen dira aitortzaren bitartez: los pecados mortales y los veniales son perdonados a través de la confesión"
+    ]
   },
   {
     "id": 1099,
     "basque": "aitortzaile",
-    "spanish": "(Erl.) [bekatuena] confesante, que confiesa, penitente // testigo"
+    "spanish": "(Erl.) [bekatuena] confesante, que confiesa, penitente // testigo",
+    "examples": [
+      "aitortzaile leiala: testigo fiel"
+    ]
   },
   {
     "id": 1100,
     "basque": "aitzaki-maitzaki",
-    "spanish": "excusa, pretexto"
+    "spanish": "excusa, pretexto",
+    "examples": [
+      "hasi zen aitzaki-maitzaki baten bila: empezó a buscar una excusa"
+    ]
   },
   {
     "id": 1101,
     "basque": "aitzakia egin",
-    "spanish": "(aurretik -en osagarri bat edo perpaus konpletibo bat duela) poner como excusa"
+    "spanish": "(aurretik -en osagarri bat edo perpaus konpletibo bat duela) poner como excusa",
+    "examples": [
+      "ez du balio, frustrazio hori esplikatzeko, krisi ekonomikoaren aitzakia egitea: no vale, para explicar esa frustración, poner la crisis económica como excusa"
+    ]
   },
   {
     "id": 1102,
     "basque": "aitzakia eman",
-    "spanish": "culpar; echar la culpa // dar/brindar una excusa para, dar motivo"
+    "spanish": "culpar; echar la culpa // dar/brindar una excusa para, dar motivo",
+    "examples": [
+      "orduan ez zegoen inori aitzakia ematerik: entonces no se podía culpar a nadie",
+      "nik behintzat ez diet haserretzeko aitzakiarik emango: yo por lo menos no les daré una excusa para que se enfaden",
+      "tira, tira, ez orain niri aitzakiarik eman: bueno, bueno, a mí no me vengas ahora con excusas"
+    ]
   },
   {
     "id": 1103,
     "basque": "aitzakia hartu",
-    "spanish": "1 poner como excusa, excusarse en // 2 tomar como motivo"
+    "spanish": "1 poner como excusa, excusarse en // 2 tomar como motivo",
+    "examples": [
+      "krisia aitzakia harturik etorkinen eskubideak urratzen saiatu izana leporatu diote gobernuari: el gobierno ha sido acusado de tratar de vulnerar los derechos de los inmigrantes con la excusa de la crisis",
+      "Darwinen inguruan solastuko gara, bere jaiotzaren 200. urteurrena aitzakia hartuta: charlamos sobre Darwin con motivo del 200 aniversario de su nacimiento"
+    ]
   },
   {
     "id": 1104,
     "basque": "aitzakian;aitzakiatan;aitzakiarekin;aitzakiaz",
-    "spanish": "(aurretik -en kasu-atzizkidun izena hartzen du, edo -(e)lako zein -t(z)eko erako mendeko pespaus osagarri bat,) con la excusa de (que), con el pretexto de (que)"
+    "spanish": "(aurretik -en kasu-atzizkidun izena hartzen du, edo -(e)lako zein -t(z)eko erako mendeko pespaus osagarri bat,) con la excusa de (que), con el pretexto de (que)",
+    "examples": []
   },
   {
     "id": 1105,
     "basque": "aitzakiatu, aitzakia(tu), aitzakiatzen",
-    "spanish": "du ad. exculpar, disculpar, excusar, descargar de culpa; justificar"
+    "spanish": "du ad. exculpar, disculpar, excusar, descargar de culpa; justificar",
+    "examples": [
+      "zeure ezjakinak aitzakiatzen zaitu: tu ignorancia te exculpa"
+    ]
   },
   {
     "id": 1106,
     "basque": "aitzi",
-    "spanish": "(aurreko izen-sintagmak -i edo -en kasu-atzizkia duela) contra"
+    "spanish": "(aurreko izen-sintagmak -i edo -en kasu-atzizkia duela) contra",
+    "examples": [
+      "nire buruaren aitzi gezi jaurtika: lanzando dardos contra mi cabeza",
+      "liberalkeriari aitzi: en contra del liberalismo"
+    ]
   },
   {
     "id": 1107,
     "basque": "aitziko",
-    "spanish": "contrario, -a, adversario, -a"
+    "spanish": "contrario, -a, adversario, -a",
+    "examples": []
   },
   {
     "id": 1108,
     "basque": "aitzin",
-    "spanish": "delante (de), ante"
+    "spanish": "delante (de), ante",
+    "examples": [
+      "etxe txikitxo aitzin zuri bat: una casita con la fachada blanca",
+      "eskuin eta ezker, aitzin eta gibel: por la derecha y por la izquierda, por delante y por detrás",
+      "maiestate guztiz gainekoaren aitzinean: ante la suprema majestad",
+      "ekarrarazi zuen bere aitzinera, eta dena esan zion: lo hizo traer ante sí, y le dijo todo",
+      "heldu aitzin: antes de llegar",
+      "negu aitzin, dena lan: antes del invierno, todo es trabajo",
+      "lurra irauli aitzinean hedatzen den ongarritik parte bat: una parte del abono que se extiende antes de dar la vuelta a la tierra",
+      "aitzineko igandean: el domingo anterior",
+      "honen aitzineko kapituluan: en el capítulo anterior a este",
+      "bizpahiru egun aitzinetik: dos o tres días antes",
+      "egia hori ezagutu aitzinetik: antes de conocer aquella verdad"
+    ]
   },
   {
     "id": 1109,
     "basque": "aitzina",
-    "spanish": "1  adb. adelante; en adelante; hacia adelante // 2  adb. adelante; hacia adelante"
+    "spanish": "1  adb. adelante; en adelante; hacia adelante // 2  adb. adelante; hacia adelante",
+    "examples": [
+      "handik aitzina: de allí en adelante",
+      "oin bat aitzina higitu zuten: movieron un pie hacia adelante"
+    ]
   },
   {
     "id": 1110,
     "basque": "aitzina egin",
-    "spanish": "avanzar; seguir adelante; progresar"
+    "spanish": "avanzar; seguir adelante; progresar",
+    "examples": [
+      "urteetan aitzina egin nahi dugu, ahal den gehien bizi: queremos seguir cumpliendo años, vivir lo más posible",
+      "lortu dugu aitzina egitea: hemos conseguido progresar"
+    ]
   },
   {
     "id": 1111,
     "basque": "aitzina eraman",
-    "spanish": "llevar la delantera; aventajar"
+    "spanish": "llevar la delantera; aventajar",
+    "examples": []
   },
   {
     "id": 1112,
     "basque": "aitzina hartu",
-    "spanish": "tomar la delantera, adelantarse"
+    "spanish": "tomar la delantera, adelantarse",
+    "examples": [
+      "lagunari aitzina hartu zion: le tomó la delantera a su amigo"
+    ]
   },
   {
     "id": 1113,
     "basque": "aitzinago",
-    "spanish": "1  adb. más adelante; más allá // 2  adb. antes, anteriormente // 3  adb. más tarde, más adelante"
+    "spanish": "1  adb. más adelante; más allá // 2  adb. antes, anteriormente // 3  adb. más tarde, más adelante",
+    "examples": [
+      "aitzinago joan behar genuke: tendríamos que ir más adelante",
+      "ez daiteke marra hartatik aitzinago iragan: no se puede ir más allá de esa línea",
+      "aitzinago argitaratu dugun bezala, aurten ere martxan dago proiektua: como ya hemos publicado anteriormente, este año también está en marcha el proyecto",
+      "aitzinago bertze bilera bat eginen da lanak banatzeko: más adelante se celebrará una nueva reunión para distribuir las tareas"
+    ]
   },
   {
     "id": 1114,
     "basque": "aitzinalde",
-    "spanish": "iz. (Ipar.) parte delantera, parte anterior; fachada"
+    "spanish": "iz. (Ipar.) parte delantera, parte anterior; fachada",
+    "examples": [
+      "etxe baten aitzinaldea: la fachada de una casa",
+      "autoaren aitzinaldea: la parte delantera del coche"
+    ]
   },
   {
     "id": 1115,
     "basque": "aitzinaldea eraman",
-    "spanish": "llevar ventaja, aventajar"
+    "spanish": "llevar ventaja, aventajar",
+    "examples": [
+      "pena honek aitzinaldea eramaten dio besteari: esta pena aventaja a la otra"
+    ]
   },
   {
     "id": 1116,
     "basque": "aitzinaldea hartu",
-    "spanish": "tomar la delantera, adelantarse"
+    "spanish": "tomar la delantera, adelantarse",
+    "examples": [
+      "aitzinaldea hartu dio: se le ha adelantado"
+    ]
   },
   {
     "id": 1117,
     "basque": "aitzinamendu",
-    "spanish": "1  iz. (Ipar.) adelanto, progreso, avance // 2  iz. (Teknol.) [erremintarena txirbil-harroketan] avance"
+    "spanish": "1  iz. (Ipar.) adelanto, progreso, avance // 2  iz. (Teknol.) [erremintarena txirbil-harroketan] avance",
+    "examples": [
+      "haurren aitzinamenduaz grinatzen zen: se empeñaba en conseguir el progreso de los niños",
+      "gizartearen aitzinamenduarentzat: para el progreso social"
+    ]
   },
   {
     "id": 1118,
     "basque": "aitzinarazle",
-    "spanish": "iz. lo que hace avanzar, lo que hace adelantarse"
+    "spanish": "iz. lo que hace avanzar, lo que hace adelantarse",
+    "examples": []
   },
   {
     "id": 1119,
     "basque": "aitzinasmo",
-    "spanish": "iz. proyecto, plan"
+    "spanish": "iz. proyecto, plan",
+    "examples": [
+      "urtegiaren aitzinasmoa aurkeztu zuen: presentó el proyecto del pantano"
+    ]
   },
   {
     "id": 1120,
     "basque": "aitzinatu, aitzina(tu), aitzinatzen",
-    "spanish": "1  da/du ad. (Ipar.) adelantar(se), avanzar // 2  du ad. (Ipar.) hacer avanzar, empujar, animar; avivar"
+    "spanish": "1  da/du ad. (Ipar.) adelantar(se), avanzar // 2  du ad. (Ipar.) hacer avanzar, empujar, animar; avivar",
+    "examples": [
+      "gobernadorearen ondoraino aitzinatu zen: avanzó hasta donde estaba el gobernador",
+      "hizkuntzak aitzinatuz, hedatuz eta edertuz doaz: las lenguas van avanzando, extendiéndose y embelleciéndose",
+      "aitzinatu duzu epea: has adelantado el plazo",
+      "zure laguntzak aitzinatzen nau aurrera egitera: tu ayuda me da ánimo para seguir adelante",
+      "sua aitzinatu du: ha avivado el fuego"
+    ]
   },
   {
     "id": 1121,
     "basque": "aitzinatzaile",
-    "spanish": "iz. incitador, -a, promotor, -a"
+    "spanish": "iz. incitador, -a, promotor, -a",
+    "examples": [
+      "egiazko fedearen aitzinatzailea: el promotor de la verdadera fe"
+    ]
   },
   {
     "id": 1122,
     "basque": "aitzinazale",
-    "spanish": "iz. progresista"
+    "spanish": "iz. progresista",
+    "examples": []
   },
   {
     "id": 1123,
     "basque": "aitzindari",
-    "spanish": "precursor, -a, antecesor, -a, pionero, -a // jefe, -a, guía, conductor, -a"
+    "spanish": "precursor, -a, antecesor, -a, pionero, -a // jefe, -a, guía, conductor, -a",
+    "examples": [
+      "erromantizismoaren aitzindariak: los precursores del romanticismo",
+      "Joan Bataiatzailea, Kristoren aitzindaria: Juan Bautista, precursor de Cristo",
+      "hura hautatu zuten herriaren aitzindaritzat: lo eligieron a él como guía y conductor del pueblo",
+      "eritasun baten seinale aitzindariak: las señales previas (los síntomas) de una enfermedad"
+    ]
   },
   {
     "id": 1124,
     "basque": "aitzindari-talde",
-    "spanish": "(Mil.) avanzada"
+    "spanish": "(Mil.) avanzada",
+    "examples": []
   },
   {
     "id": 1125,
@@ -6008,482 +6291,701 @@
   {
     "id": 1126,
     "basque": "aitzindu, aitzin(du), aitzintzen",
-    "spanish": "da/du ad./askotan zaio ad. (Ipar.) adelantar(se), anticipar(se); prevenir"
+    "spanish": "da/du ad./askotan zaio ad. (Ipar.) adelantar(se), anticipar(se); prevenir",
+    "examples": [
+      "aitzindu egin zitzaidan: se me adelantó",
+      "agur egitera ni aitzintzen banaiz: si me adelanto a saludar",
+      "gaitzari aitzindu: prevenir la enfermedad",
+      "Artizarrak eguzkia aitzintzen du: el lucero del alba precede al sol"
+    ]
   },
   {
     "id": 1127,
     "basque": "aitzineko",
-    "spanish": "1 iz. (Ipar.) (pl.) antepasado, -a, antecesor, -a // 2 iz. (Ipar.) jefe, -a, superior, -a; guía, predecesor, -a"
+    "spanish": "1 iz. (Ipar.) (pl.) antepasado, -a, antecesor, -a // 2 iz. (Ipar.) jefe, -a, superior, -a; guía, predecesor, -a",
+    "examples": [
+      "gure aitzinekoen nahiak: los deseos de nuestros antecesores",
+      "itsuak itsua baldin badu aitzineko...: si el ciego tiene a otro ciego por guía...",
+      "bere aitzinekoak haserrearaztea: hacer enfadar a sus superiores"
+    ]
   },
   {
     "id": 1128,
     "basque": "aitzineratu, aitzinera(tu), aitzineratzen",
-    "spanish": "du ad. progresar, avanzar; adelantar(se)"
+    "spanish": "du ad. progresar, avanzar; adelantar(se)",
+    "examples": [
+      "Jesusek aitzineraturik esan zien: noren bila zabiltzate?: Jesús les dijo adelantándose: ¿a quién buscáis?"
+    ]
   },
   {
     "id": 1129,
     "basque": "aitzingidari",
-    "spanish": "guía, conductor, -a // precursor, -a, antecesor, -a"
+    "spanish": "guía, conductor, -a // precursor, -a, antecesor, -a",
+    "examples": [
+      "izar berri bat zutela aitzingidari: teniendo como guía una nueva estrella"
+    ]
   },
   {
     "id": 1130,
     "basque": "aitzinirudi",
-    "spanish": "iz. prefiguración"
+    "spanish": "iz. prefiguración",
+    "examples": []
   },
   {
     "id": 1131,
     "basque": "aitzinkari",
-    "spanish": "antecedente"
+    "spanish": "antecedente",
+    "examples": []
   },
   {
     "id": 1132,
     "basque": "aitzinkontu",
-    "spanish": "iz. presupuesto"
+    "spanish": "iz. presupuesto",
+    "examples": []
   },
   {
     "id": 1133,
     "basque": "aitzitik",
-    "spanish": "lok. (sarritan lehen perpausa ezezkoa izaten da; baina edo bai hitzen ondoan ager daiteke) al contrario, por el contrario, antes bien, sino, sin embargo"
+    "spanish": "lok. (sarritan lehen perpausa ezezkoa izaten da; baina edo bai hitzen ondoan ager daiteke) al contrario, por el contrario, antes bien, sino, sin embargo",
+    "examples": [
+      "ez genuen etsaia menderatzerik lortu; aitzitik, hark eraso eta garaitu gintuen: no conseguimos someter al enemigo; al contrario, fueron ellos los que atacaron y nos vencieron",
+      "ezin duzu beti gogoak ematen dizuna egin; baina, aitzitik, hurkoa ere aintzat hartu behar duzu: no siempre puedes hacer lo que te dé la gana, sino que has de tener también en cuenta al prójimo",
+      "badirudi oso pertsona anker eta bihozgabea dela, eta aitzitik ez da horrelakoa: da la impresión de ser una persona cruel y sin sentimientos, y sin embargo no es así"
+    ]
   },
   {
     "id": 1134,
     "basque": "aitzur-buru",
-    "spanish": "mocheta de la azada"
+    "spanish": "mocheta de la azada",
+    "examples": []
   },
   {
     "id": 1135,
     "basque": "aitzurgintza",
-    "spanish": "iz. agricultura, labranza"
+    "spanish": "iz. agricultura, labranza",
+    "examples": [
+      "aitzurgintzan dihardu: se dedica a la labranza"
+    ]
   },
   {
     "id": 1136,
     "basque": "aitzurka egin",
-    "spanish": "cavar, excavar [con la azada]"
+    "spanish": "cavar, excavar [con la azada]",
+    "examples": [
+      "badaki aitzurka egiten behar den bezala: sabe cavar como es debido"
+    ]
   },
   {
     "id": 1137,
     "basque": "aitzurkada",
-    "spanish": "iz. golpe de azada"
+    "spanish": "iz. golpe de azada",
+    "examples": [
+      "aitzurkadak geroago eta astiroago ematen zituen: golpeaba con la azada cada vez más despacio"
+    ]
   },
   {
     "id": 1138,
     "basque": "aitzurketa",
-    "spanish": "iz. acción de cavar [con la azada]"
+    "spanish": "iz. acción de cavar [con la azada]",
+    "examples": [
+      "sekula ez zuen halako aitzurketarik egin: nunca había cavado de aquella manera"
+    ]
   },
   {
     "id": 1139,
     "basque": "aitzurketan ari izan/egin/jardun",
-    "spanish": "cavar"
+    "spanish": "cavar",
+    "examples": []
   },
   {
     "id": 1140,
     "basque": "aitzurlari",
-    "spanish": "labrador, -a; campesino, -a"
+    "spanish": "labrador, -a; campesino, -a",
+    "examples": [
+      "aitzurlari alperrak bezala: como los campesinos vagos",
+      "San Isidro aitzurlaria: San Isidro labrador"
+    ]
   },
   {
     "id": 1141,
     "basque": "aitzurrean egin",
-    "spanish": "cavar; excavar [con la azada]"
+    "spanish": "cavar; excavar [con la azada]",
+    "examples": [
+      "segan bezala berdin egiten du aitzurrean: lo mismo que siega también cava con la azada"
+    ]
   },
   {
     "id": 1142,
     "basque": "aitzurtu, aitzur(tu), aitzurtzen",
-    "spanish": "du ad. cavar, trabajar [con la azada]"
+    "spanish": "du ad. cavar, trabajar [con la azada]",
+    "examples": [
+      "esan zioten lekuan aitzurtu zuen eta berehala aurkitu zuen lurpean dirua: cavó en el lugar indicado y encontró en seguida el dinero que había bajo la tierra",
+      "sail bat aitzurtu du: ha cavado una parcela"
+    ]
   },
   {
     "id": 1143,
     "basque": "aiuntamentu",
-    "spanish": "ayuntamiento"
+    "spanish": "ayuntamiento",
+    "examples": []
   },
   {
     "id": 1144,
     "basque": "aiurri",
-    "spanish": "iz. carácter, forma de ser, personalidad"
+    "spanish": "iz. carácter, forma de ser, personalidad",
+    "examples": [
+      "hori ez dagokio nire aiurriari: eso no va con mi carácter"
+    ]
   },
   {
     "id": 1145,
     "basque": "aiutatu, aiuta(tu), aiutatzen",
-    "spanish": "1 du ad. (Ipar.) Ik. lagundu // 2 du ad. (Ipar.) poner una lavativa"
+    "spanish": "1 du ad. (Ipar.) Ik. lagundu // 2 du ad. (Ipar.) poner una lavativa",
+    "examples": []
   },
   {
     "id": 1146,
     "basque": "aiutu",
-    "spanish": "izond. (B) ajustado, -a, adecuado, -a"
+    "spanish": "izond. (B) ajustado, -a, adecuado, -a",
+    "examples": []
   },
   {
     "id": 1147,
     "basque": "aizari",
-    "spanish": "granero del molino"
+    "spanish": "granero del molino",
+    "examples": []
   },
   {
     "id": 1148,
     "basque": "aizaro",
-    "spanish": "1 iz. Jueves Santo, noche de Jueves Santo // 2 iz. (pl.) oficio de Maitines de Semana Santa // 3 iz. (pl.) tinieblas"
+    "spanish": "1 iz. Jueves Santo, noche de Jueves Santo // 2 iz. (pl.) oficio de Maitines de Semana Santa // 3 iz. (pl.) tinieblas",
+    "examples": [
+      "Aste Santuko aizaroetan: en las tinieblas de la Semana Santa",
+      "aizaroz ilunik etsita dagoen gaixoa: un pobre cercado de tinieblas y tristeza"
+    ]
   },
   {
     "id": 1149,
     "basque": "aizarotsu",
-    "spanish": "izond. tenebroso, -a"
+    "spanish": "izond. tenebroso, -a",
+    "examples": [
+      "gau aizarotsu honetan: en esta noche tenebrosa"
+    ]
   },
   {
     "id": 1150,
     "basque": "aizkatu, aizka, aizkatzen",
-    "spanish": "1  du ad. ahuyentar, hacer huir, expulsar // 2  du ad. incitar, azuzar, excitar, tentar // 3  du ad. asustar"
+    "spanish": "1  du ad. ahuyentar, hacer huir, expulsar // 2  du ad. incitar, azuzar, excitar, tentar // 3  du ad. asustar",
+    "examples": [
+      "txoriak aizkatu zituen: ahuyentó los pájaros",
+      "loturik zegoen txakurra aizkatzen zuen: incitaba al perro que estaba atado"
+    ]
   },
   {
     "id": 1151,
     "basque": "aizkolapustu",
-    "spanish": "iz. apuesta de hachas"
+    "spanish": "iz. apuesta de hachas",
+    "examples": []
   },
   {
     "id": 1152,
     "basque": "aizkolari",
-    "spanish": "hachero; leñador, -a // (Kir.) cortador de troncos, leñador, -a"
+    "spanish": "hachero; leñador, -a // (Kir.) cortador de troncos, leñador, -a",
+    "examples": [
+      "aizkolari-txapelketa: campeonato de cortadores de troncos"
+    ]
   },
   {
     "id": 1153,
     "basque": "aizkolketa",
-    "spanish": "iz. trabajo que se hace con el hacha, trabajo de cortar con el hacha"
+    "spanish": "iz. trabajo que se hace con el hacha, trabajo de cortar con el hacha",
+    "examples": []
   },
   {
     "id": 1154,
     "basque": "aizkolketan ari izan/jardun",
-    "spanish": "cortando/trabajando con el hacha"
+    "spanish": "cortando/trabajando con el hacha",
+    "examples": []
   },
   {
     "id": 1155,
     "basque": "aizkora-apustu",
-    "spanish": "apuesta de hachas"
+    "spanish": "apuesta de hachas",
+    "examples": [
+      "aizkora-apustua jokatu da: se ha jugado una apuesta de hachas"
+    ]
   },
   {
     "id": 1156,
     "basque": "aizkora-buru",
-    "spanish": "mocheta del hacha"
+    "spanish": "mocheta del hacha",
+    "examples": []
   },
   {
     "id": 1157,
     "basque": "aizkora-kolpe; aizkora-ukaldi",
-    "spanish": "golpe de hacha"
+    "spanish": "golpe de hacha",
+    "examples": []
   },
   {
     "id": 1158,
     "basque": "aizkoragile",
-    "spanish": "iz. fabricante de hachas"
+    "spanish": "iz. fabricante de hachas",
+    "examples": []
   },
   {
     "id": 1159,
     "basque": "aizkoragintza",
-    "spanish": "iz. fabricación de hachas"
+    "spanish": "iz. fabricación de hachas",
+    "examples": []
   },
   {
     "id": 1160,
     "basque": "aizkorakada",
-    "spanish": "iz. hachazo"
+    "spanish": "iz. hachazo",
+    "examples": [
+      "egurgilearen aizkorakada neurtua: el hachazo preciso del leñador",
+      "aizkorakada hartu zuen belaunean: se dio un hachazo en la rodilla"
+    ]
   },
   {
     "id": 1161,
     "basque": "aizkoratu, aizkora(tu), aizkoratzen",
-    "spanish": "du ad. (L) partir la leña con el hacha"
+    "spanish": "du ad. (L) partir la leña con el hacha",
+    "examples": []
   },
   {
     "id": 1162,
     "basque": "aizto",
-    "spanish": "1  iz. cuchillo // 2  iz. machete"
+    "spanish": "1  iz. cuchillo // 2  iz. machete",
+    "examples": [
+      "artzain-aiztoz egindako edontzia: vaso hecho con un cuchillo de pastor"
+    ]
   },
   {
     "id": 1163,
     "basque": "aizto-ukaldi",
-    "spanish": "cuchillazo, cuchillada [golpe]"
+    "spanish": "cuchillazo, cuchillada [golpe]",
+    "examples": []
   },
   {
     "id": 1164,
     "basque": "aiztogile",
-    "spanish": "iz. cuchillero, -a [persona]"
+    "spanish": "iz. cuchillero, -a [persona]",
+    "examples": []
   },
   {
     "id": 1165,
     "basque": "aiztogintza",
-    "spanish": "iz. cuchillería"
+    "spanish": "iz. cuchillería",
+    "examples": []
   },
   {
     "id": 1166,
     "basque": "aiztokada",
-    "spanish": "iz. cuchillada, cuchillazo"
+    "spanish": "iz. cuchillada, cuchillazo",
+    "examples": [
+      "bizia aiztokadaka jokatu: jugarse la vida a cuchilladas"
+    ]
   },
   {
     "id": 1167,
     "basque": "aizun",
-    "spanish": "1  izond. falso, -a; engañoso, -a // 2  iz. falsedad, engaño"
+    "spanish": "1  izond. falso, -a; engañoso, -a // 2  iz. falsedad, engaño",
+    "examples": [
+      "profeta aizunak: los falsos profetas",
+      "olerkari aizun askok: muchos falsos poetas",
+      "gezurra, aizuna eta gaitza: la mentira, la falsedad y la maldad"
+    ]
   },
   {
     "id": 1168,
     "basque": "aizundu, aizun(du), aizuntzen",
-    "spanish": "du ad. adulterar; falsificar"
+    "spanish": "du ad. adulterar; falsificar",
+    "examples": []
   },
   {
     "id": 1169,
     "basque": "aizunketa",
-    "spanish": "iz. adulteración; falsificación"
+    "spanish": "iz. adulteración; falsificación",
+    "examples": []
   },
   {
     "id": 1170,
     "basque": "ajatu, aja, ajatzen",
-    "spanish": "da/du ad. (Heg.) [erabileraren ondorioz] desgastar(se), estropear(se), deteriorar(se), deslucir(se); decolorar(se), quitar o perder color"
+    "spanish": "da/du ad. (Heg.) [erabileraren ondorioz] desgastar(se), estropear(se), deteriorar(se), deslucir(se); decolorar(se), quitar o perder color",
+    "examples": [
+      "soineko ajatua: el vestido ajado"
+    ]
   },
   {
     "id": 1171,
     "basque": "ajeatu, ajea, ajeatzen",
-    "spanish": "1 da ad. (Heg.) estar afectado por los achaques, padecer enfermedad o defecto // 2 da ad. (Heg.) (hed.) tener defectos/imperfecciones"
+    "spanish": "1 da ad. (Heg.) estar afectado por los achaques, padecer enfermedad o defecto // 2 da ad. (Heg.) (hed.) tener defectos/imperfecciones",
+    "examples": [
+      "zerbait erori eta ajeatua zegoen: estaba decaído y afectado por los achaques",
+      "ondorioa egiazkoa bada ere, premisak akatsez ajeatuak omen daude: aunque la conclusión es cierta, las premisas tienen errores"
+    ]
   },
   {
     "id": 1172,
     "basque": "ajetsu",
-    "spanish": "izond. achacoso, -a; enfermizo, -a; indispuesto, -a"
+    "spanish": "izond. achacoso, -a; enfermizo, -a; indispuesto, -a",
+    "examples": []
   },
   {
     "id": 1173,
     "basque": "ajoarriero",
-    "spanish": "iz. ajoarriero"
+    "spanish": "iz. ajoarriero",
+    "examples": []
   },
   {
     "id": 1174,
     "basque": "ajustatu, ajusta, ajustatzen",
-    "spanish": "1 da/du ad. (zah.) ajustar, pactar, concertar, concordar, convenir [en un trato] // 2 da/du ad. (Teknol.) Ik. doitu // 3 da/du ad. (Teknol.) Ik. ahokatu"
+    "spanish": "1 da/du ad. (zah.) ajustar, pactar, concertar, concordar, convenir [en un trato] // 2 da/du ad. (Teknol.) Ik. doitu // 3 da/du ad. (Teknol.) Ik. ahokatu",
+    "examples": []
   },
   {
     "id": 1175,
     "basque": "akabagailu",
-    "spanish": "iz. (Teknol.) pulidor, bruñidor, -a"
+    "spanish": "iz. (Teknol.) pulidor, bruñidor, -a",
+    "examples": []
   },
   {
     "id": 1176,
     "basque": "akabaketa",
-    "spanish": "Ik. akabera"
+    "spanish": "Ik. akabera",
+    "examples": []
   },
   {
     "id": 1177,
     "basque": "akabatu, akaba, akabatzen",
-    "spanish": "1  da/du ad. (zah.) acabar(se), terminar(se) // 2  du ad. (pertsonekin gutxiesgarria) morir; [bereziki animaliekin] matar"
+    "spanish": "1  da/du ad. (zah.) acabar(se), terminar(se) // 2  du ad. (pertsonekin gutxiesgarria) morir; [bereziki animaliekin] matar",
+    "examples": [
+      "zure egunak akabatu daitezenean: cuando se terminen tus días",
+      "sugea harrika akabatu zuen: mató la serpiente a pedradas",
+      "amodioz hil zela, edo amorezko minak akabatu zuela: que murió de amor, o que lo mató el mal de amores"
+    ]
   },
   {
     "id": 1178,
     "basque": "akabatzaile",
-    "spanish": "iz. pulidor, -a"
+    "spanish": "iz. pulidor, -a",
+    "examples": []
   },
   {
     "id": 1179,
     "basque": "akabatze",
-    "spanish": "iz. (zah.) fin, conclusión"
+    "spanish": "iz. (zah.) fin, conclusión",
+    "examples": [
+      "bizitzaren bazterrean, akabatzean, heriotzan...: en el extremo último de la vida, al final, a la hora de la muerte..."
+    ]
   },
   {
     "id": 1180,
     "basque": "akabera",
-    "spanish": "fin, conclusión, final"
+    "spanish": "fin, conclusión, final",
+    "examples": [
+      "liburuaren akabera ez zait gustatu: no me ha gustado el final del libro",
+      "akaberak zerikusi handia dauka arma horietan: el acabado es muy importante en ese tipo de armas"
+    ]
   },
   {
     "id": 1181,
     "basque": "akabera eman",
-    "spanish": "(Teknol.) pulir"
+    "spanish": "(Teknol.) pulir",
+    "examples": []
   },
   {
     "id": 1182,
     "basque": "akabera-zorrozketa",
-    "spanish": "(Teknol.) afilado final"
+    "spanish": "(Teknol.) afilado final",
+    "examples": []
   },
   {
     "id": 1183,
     "basque": "akabo izan",
-    "spanish": "da ad. (Ipar.) acabar(se)"
+    "spanish": "da ad. (Ipar.) acabar(se)",
+    "examples": [
+      "ezkila jo denean akabo dira hilari buruzko solasak: al tocar la campana se acabaron las conversaciones acerca del muerto",
+      "zer den? akabo garela! gureak egin duela!: ¿qué pasa? ¡qué hemos terminado, qué estamos perdidos!"
+    ]
   },
   {
     "id": 1184,
     "basque": "akabu",
-    "spanish": "iz. (B) fin, final, término"
+    "spanish": "iz. (B) fin, final, término",
+    "examples": [
+      "munduaren akabua: el fin del mundo",
+      "hau akabu(ko)a da!: ¡esto es el fin!; ¡esto es el colmo!"
+    ]
   },
   {
     "id": 1185,
     "basque": "akaburengo",
-    "spanish": "izlag. (B) último, -a; postrero, -a"
+    "spanish": "izlag. (B) último, -a; postrero, -a",
+    "examples": [
+      "akaburengo momentuan igaro zen: pasó en el último momento"
+    ]
   },
   {
     "id": 1186,
     "basque": "akaburengoan",
-    "spanish": "(B) agonizando, en las últimas"
+    "spanish": "(B) agonizando, en las últimas",
+    "examples": []
   },
   {
     "id": 1187,
     "basque": "Akademiaren esanetan",
-    "spanish": "Según la Academia"
+    "spanish": "Según la Academia",
+    "examples": []
   },
   {
     "id": 1188,
     "basque": "akademikoki",
-    "spanish": "adb. académicamente"
+    "spanish": "adb. académicamente",
+    "examples": []
   },
   {
     "id": 1189,
     "basque": "akadtar",
-    "spanish": "adj./iz. acadio, -a"
+    "spanish": "adj./iz. acadio, -a",
+    "examples": []
   },
   {
     "id": 1190,
     "basque": "akaro",
-    "spanish": "iz. (Zool.) ácaro"
+    "spanish": "iz. (Zool.) ácaro",
+    "examples": []
   },
   {
     "id": 1191,
     "basque": "akasgabe",
-    "spanish": "izond. que no tiene defectos; perfecto, -a; impecable; intachable"
+    "spanish": "izond. que no tiene defectos; perfecto, -a; impecable; intachable",
+    "examples": []
   },
   {
     "id": 1192,
     "basque": "akaso",
-    "spanish": "adb. (Heg.) (herr.) acaso, quizá, tal vez"
+    "spanish": "adb. (Heg.) (herr.) acaso, quizá, tal vez",
+    "examples": [
+      "bihar akaso etorriko naiz: quizá venga mañana"
+    ]
   },
   {
     "id": 1193,
     "basque": "akastu, akats/akastu, akasten",
-    "spanish": "1 du ad. [ertza, ahoa] mellar, dentar, adentellar, desafilar, quebrar // 2 du ad. (Zuz.) viciar"
+    "spanish": "1 du ad. [ertza, ahoa] mellar, dentar, adentellar, desafilar, quebrar // 2 du ad. (Zuz.) viciar",
+    "examples": [
+      "ganibeta zeharo akastu zuen: desafiló por completo el cuchillo",
+      "burdina ezin akasturik: sin poder quebrar el hierro",
+      "neronek akastuko diot sega zaharra herio zikoitzari: yo mismo le dentaré la vieja guadaña a la muerte malvada",
+      "kontratua akastu: viciar el contrato"
+    ]
   },
   {
     "id": 1194,
     "basque": "akastun",
-    "spanish": "1  adj. mellado, -a, que tiene mellas o hendiduras // 2  adj. defectuoso, -a; imperfecto, -a, viciado, -a"
+    "spanish": "1  adj. mellado, -a, que tiene mellas o hendiduras // 2  adj. defectuoso, -a; imperfecto, -a, viciado, -a",
+    "examples": [
+      "ezpata herdoildu eta akastun bat: una espada roñosa y con hendiduras (en el filo)",
+      "akastun piezak: piezas defectuosas",
+      "edozeinek ikus dezake argudio hori akastuna dela: cualquiera puede ver que ese argumento está viciado"
+    ]
   },
   {
     "id": 1195,
     "basque": "akazatu, akaza, akazatzen",
-    "spanish": "du ad. (Z) expulsar, echar, arrojar"
+    "spanish": "du ad. (Z) expulsar, echar, arrojar",
+    "examples": []
   },
   {
     "id": 1196,
     "basque": "akemenestar",
-    "spanish": "adj./iz. (Hist.) aqueménida"
+    "spanish": "adj./iz. (Hist.) aqueménida",
+    "examples": [
+      "akemenestar inperioa: el imperio aqueménida",
+      "Alexandro Handiak akemenestarrak menderatu zituen: Alejandro Magno venció a los aqueménidas"
+    ]
   },
   {
     "id": 1197,
     "basque": "aker",
-    "spanish": "1  iz. cabrón, macho cabrío // 4  izond. (hed.) bruto, -a; rudo, -a"
+    "spanish": "1  iz. cabrón, macho cabrío // 4  izond. (hed.) bruto, -a; rudo, -a",
+    "examples": [
+      "bildotsak akerretatik bereizten ditu: separa los corderos de los machos cabríos",
+      "akerrak adarrak okerrak ditu: el macho cabrío tiene los cuernos torcidos",
+      "horixe ume akerra duzuna!: ¡vaya crío más bruto que tienes!"
+    ]
   },
   {
     "id": 1198,
     "basque": "akerki",
-    "spanish": "iz. carne de macho cabrío, carne de cabrón"
+    "spanish": "iz. carne de macho cabrío, carne de cabrón",
+    "examples": []
   },
   {
     "id": 1199,
     "basque": "akertu, aker(tu), akertzen",
-    "spanish": "da ad. ser cubierta la cabra por el macho cabrío"
+    "spanish": "da ad. ser cubierta la cabra por el macho cabrío",
+    "examples": []
   },
   {
     "id": 1200,
     "basque": "akeztu, aketz/akeztu, akezten",
-    "spanish": "da ad. volverse estéril"
+    "spanish": "da ad. volverse estéril",
+    "examples": []
   },
   {
     "id": 1201,
     "basque": "akialdi",
-    "spanish": "iz. rato de fatiga/cansancio/agotamiento"
+    "spanish": "iz. rato de fatiga/cansancio/agotamiento",
+    "examples": []
   },
   {
     "id": 1202,
     "basque": "akidura",
-    "spanish": "iz. (Ipar.) cansancio, fatiga, agotamiento; postración"
+    "spanish": "iz. (Ipar.) cansancio, fatiga, agotamiento; postración",
+    "examples": [
+      "zenbat neke eta akidura!: ¡cuánto cansancio y cuánta fatiga!"
+    ]
   },
   {
     "id": 1203,
     "basque": "akigarri",
-    "spanish": "izond. fatigoso, -a; agotador, -a; extenuante"
+    "spanish": "izond. fatigoso, -a; agotador, -a; extenuante",
+    "examples": [
+      "bide luze eta akigarria: un camino largo y fatigoso"
+    ]
   },
   {
     "id": 1204,
     "basque": "akitu, aki, akitzen",
-    "spanish": "1  da/du ad. cansar(se), fatigar(se), agotar(se) // 2  da/du ad. cansarse, aburrirse, hartarse de // 3  da/du ad. (GN) acabar(se), agotar(se), terminar(se)"
+    "spanish": "1  da/du ad. cansar(se), fatigar(se), agotar(se) // 2  da/du ad. cansarse, aburrirse, hartarse de // 3  da/du ad. (GN) acabar(se), agotar(se), terminar(se)",
+    "examples": [
+      "aita zaharra, urteak ahuldua eta lanak akitua: el abuelo, debilitado por los años y cansado por el trabajo",
+      "lanak akitu nau: el trabajo me ha agotado",
+      "ez du akitzen lanak, gogotik egiten denak: el trabajo que se hace a gusto no cansa",
+      "atea jotzeaz akiturik: cansado de llamar a la puerta",
+      "egun hartan behar zituen akitu lan guztiak: aquel día tenía que terminar todo los quehaceres"
+    ]
   },
   {
     "id": 1205,
     "basque": "aklimatatu, aklimata, aklimatatzen",
-    "spanish": "da/du ad. (Biol.) aclimatar(se)"
+    "spanish": "da/du ad. (Biol.) aclimatar(se)",
+    "examples": []
   },
   {
     "id": 1206,
     "basque": "akomeatu, akomea, akomeatzen",
-    "spanish": "da ad. (Ipar.) acomodarse; arreglarse, entenderse"
+    "spanish": "da ad. (Ipar.) acomodarse; arreglarse, entenderse",
+    "examples": [
+      "etxean aise akomeatzen gara lan egiteko: en casa nos arreglamos fácilmente para trabajar"
+    ]
   },
   {
     "id": 1207,
     "basque": "akometamendu",
-    "spanish": "iz. acometida, ataque"
+    "spanish": "iz. acometida, ataque",
+    "examples": []
   },
   {
     "id": 1208,
     "basque": "akometatu, akometa, akometatzen",
-    "spanish": "du ad. (zah.) atacar"
+    "spanish": "du ad. (zah.) atacar",
+    "examples": []
   },
   {
     "id": 1209,
     "basque": "akonpainamendu",
-    "spanish": "iz. (Mus.) acompañamiento"
+    "spanish": "iz. (Mus.) acompañamiento",
+    "examples": []
   },
   {
     "id": 1210,
     "basque": "akonpainamendua egin",
-    "spanish": "(Mus.) acompañar"
+    "spanish": "(Mus.) acompañar",
+    "examples": []
   },
   {
     "id": 1211,
     "basque": "akonpainatu, akonpaina, akonpainatzen",
-    "spanish": "du ad. (Mus.) acompañar"
+    "spanish": "du ad. (Mus.) acompañar",
+    "examples": []
   },
   {
     "id": 1212,
     "basque": "akoplagailu",
-    "spanish": "iz. (Teknol.) acoplador"
+    "spanish": "iz. (Teknol.) acoplador",
+    "examples": []
   },
   {
     "id": 1213,
     "basque": "akoplamendu",
-    "spanish": "1 iz. (Teknol.) acoplamiento // 2 iz. (Elektr.) acoplamiento"
+    "spanish": "1 iz. (Teknol.) acoplamiento // 2 iz. (Elektr.) acoplamiento",
+    "examples": [
+      "akoplamendu zurruna: acoplamiento rígido",
+      "akoplamendu zuzena: acoplamiento directo"
+    ]
   },
   {
     "id": 1214,
     "basque": "akoplatu, akopla, akoplatzen",
-    "spanish": "1 du ad. (Elektr.) (Teknol.) acoplar // 2 da ad. (Elektr.) [soinu-seinalea] acoplarse"
+    "spanish": "1 du ad. (Elektr.) (Teknol.) acoplar // 2 da ad. (Elektr.) [soinu-seinalea] acoplarse",
+    "examples": []
   },
   {
     "id": 1215,
     "basque": "akordatu, akorda, akordatzen",
-    "spanish": "1 da ad. (Heg.) (herr.) acordarse, recordar // 2 da ad. (Heg.) (herr.) darse cuenta, percatarse // 3 da/du ad. (B) despertar(se) // 4 da/du ad. (zah.) acordar, convenir // 5 du ad. (Ipar.) (zah.) conceder, otorgar"
+    "spanish": "1 da ad. (Heg.) (herr.) acordarse, recordar // 2 da ad. (Heg.) (herr.) darse cuenta, percatarse // 3 da/du ad. (B) despertar(se) // 4 da/du ad. (zah.) acordar, convenir // 5 du ad. (Ipar.) (zah.) conceder, otorgar",
+    "examples": [
+      "gazte denboraz akordatzen naiz: recuerdo la época de mi juventud",
+      "gu akordatu orduko, dena jan zuen: antes de que nos diésemos cuenta, se lo comió todo",
+      "umea akordatu da: el niño se ha despertado",
+      "elkarrekin akordaturik eta mintzaturik, elkarrengandik apartatzea: decidieron separarse después de haberlo acordado y (después de haberlo) hablado",
+      "aita santu berak akordatu duen induljentzia osoa: la indulgencia plenaria que ha concedido el mismo papa"
+    ]
   },
   {
     "id": 1216,
     "basque": "akorde",
-    "spanish": "iz. (Mus.) acorde"
+    "spanish": "iz. (Mus.) acorde",
+    "examples": []
   },
   {
     "id": 1217,
     "basque": "akorde inbertitu; akorde irauli",
-    "spanish": "(Mus.) acorde invertido"
+    "spanish": "(Mus.) acorde invertido",
+    "examples": []
   },
   {
     "id": 1218,
     "basque": "akorde perfektu",
-    "spanish": "(Mus.) acorde perfecto"
+    "spanish": "(Mus.) acorde perfecto",
+    "examples": []
   },
   {
     "id": 1219,
     "basque": "akorde zazpidun",
-    "spanish": "(Mus.) acorde de séptima"
+    "spanish": "(Mus.) acorde de séptima",
+    "examples": [
+      "akorde dominante zazpiduna: acorde de séptima dominante"
+    ]
   },
   {
     "id": 1220,
     "basque": "akordeoilari",
-    "spanish": "(Mus.) acordeonista"
+    "spanish": "(Mus.) acordeonista",
+    "examples": []
   },
   {
     "id": 1221,
     "basque": "akordio",
-    "spanish": "iz. acuerdo, convenio"
+    "spanish": "iz. acuerdo, convenio",
+    "examples": [
+      "langileek onartu duten akordioa: el acuerdo aceptado por los trabajadores"
+    ]
   },
   {
     "id": 1222,
@@ -38504,12 +39006,19 @@
   {
     "id": 6769,
     "basque": "damu egin",
-    "spanish": "perjudicar, causar daño; ofender"
+    "spanish": "perjudicar, causar daño; ofender",
+    "examples": [
+      "ene dolorea handia da damu egin baitizut: mi dolor es grande pues te he causado daño"
+    ]
   },
   {
     "id": 6770,
     "basque": "damu eman",
-    "spanish": "causar arrepentimiento, pesar [algo a alguien]"
+    "spanish": "causar arrepentimiento, pesar [algo a alguien]",
+    "examples": [
+      "damu ematekoa da: es una lástima",
+      "damu ematen zion ez harrapatzeak: le penaba no haberlo atrapado"
+    ]
   },
   {
     "id": 6771,
@@ -38524,77 +39033,110 @@
   {
     "id": 6773,
     "basque": "damubide",
-    "spanish": "iz. medio o motivo de arrepentimiento"
+    "spanish": "iz. medio o motivo de arrepentimiento",
+    "examples": []
   },
   {
     "id": 6774,
     "basque": "damugabe",
-    "spanish": "iz./izond. (Erl.) impenitente"
+    "spanish": "iz./izond. (Erl.) impenitente",
+    "examples": []
   },
   {
     "id": 6775,
     "basque": "damugabetasun",
-    "spanish": "iz. (Erl.) impenitencia"
+    "spanish": "iz. (Erl.) impenitencia",
+    "examples": []
   },
   {
     "id": 6776,
     "basque": "damugarri",
-    "spanish": "1  iz./izond. lamentable, penoso, -a; doloroso, -a // 2  izond. (Ipar.) perjudicial, dañoso, -a"
+    "spanish": "1  iz./izond. lamentable, penoso, -a; doloroso, -a // 2  izond. (Ipar.) perjudicial, dañoso, -a",
+    "examples": []
   },
   {
     "id": 6777,
     "basque": "damukizun",
-    "spanish": "iz. motivo de arrepentimiento"
+    "spanish": "iz. motivo de arrepentimiento",
+    "examples": []
   },
   {
     "id": 6778,
     "basque": "damurik",
-    "spanish": "adb. (batez ere Ipar.) desgraciadamente, por desgracia"
+    "spanish": "adb. (batez ere Ipar.) desgraciadamente, por desgracia",
+    "examples": [
+      "damurik ez dut hara joateko astirik: desgraciadamente no tengo tiempo de ir allí"
+    ]
   },
   {
     "id": 6779,
     "basque": "damutan egon",
-    "spanish": "estar pesaroso, -a, estar arrepentido, -a"
+    "spanish": "estar pesaroso, -a, estar arrepentido, -a",
+    "examples": [
+      "damutan nago hori eginagatik: me arrepiento de haber hecho eso"
+    ]
   },
   {
     "id": 6780,
     "basque": "damutan izan",
-    "spanish": "1 du ad. arrepentirse, lamentar // 2 da ad. (batez ere Ipar.) arrepentirse, apenarse, sentir"
+    "spanish": "1 du ad. arrepentirse, lamentar // 2 da ad. (batez ere Ipar.) arrepentirse, apenarse, sentir",
+    "examples": [
+      "aldez damu dut eta aldez atsegin: en parte me arrepiento y en parte me alegro",
+      "berandu etorria sentitzen dut, damu dut: lamento llegar tarde",
+      "egina damu zaio: se arrepiente de lo hecho"
+    ]
   },
   {
     "id": 6781,
     "basque": "damutasun",
-    "spanish": "iz. arrepentimiento, pesar"
+    "spanish": "iz. arrepentimiento, pesar",
+    "examples": []
   },
   {
     "id": 6782,
     "basque": "damutu, damu(tu), damutzen",
-    "spanish": "1  da ad./ zaio ad. arrepentirse; entristecer(se); apesadumbrar(se) // 2  zaio ad. ser perjudicial; ser ofensivo, ser causa de enojo"
+    "spanish": "1  da ad./ zaio ad. arrepentirse; entristecer(se); apesadumbrar(se) // 2  zaio ad. ser perjudicial; ser ofensivo, ser causa de enojo",
+    "examples": [
+      "ontzat eman nuen, eta ez zait damutu: lo aprobé y no me arrepiento",
+      "beldurrez arbolari damu dakion: con miedo de que pudiera perjudicar al árbol",
+      "gizonek lurrean egiten duten mespretxuak ez zaitu damutuko: no te ofenderá el desprecio que el hombre hace en la tierra"
+    ]
   },
   {
     "id": 6783,
     "basque": "damutze",
-    "spanish": "iz. arrepentimiento"
+    "spanish": "iz. arrepentimiento",
+    "examples": [
+      "berez damutzea: arrepentimiento espontáneo"
+    ]
   },
   {
     "id": 6784,
     "basque": "damuz",
-    "spanish": "adb. desgraciadamente, por desgracia"
+    "spanish": "adb. desgraciadamente, por desgracia",
+    "examples": []
   },
   {
     "id": 6785,
     "basque": "damuzko",
-    "spanish": "izlag. de tristeza, de arrepentimiento"
+    "spanish": "izlag. de tristeza, de arrepentimiento",
+    "examples": [
+      "damuzko konfesio bat: una confesión de arrepentimiento"
+    ]
   },
   {
     "id": 6786,
     "basque": "damuztagarri",
-    "spanish": "izond. (Ipar.) injurioso, -a, ofensivo, -a"
+    "spanish": "izond. (Ipar.) injurioso, -a, ofensivo, -a",
+    "examples": []
   },
   {
     "id": 6787,
     "basque": "damuztatu, damuzta, damuztatzen",
-    "spanish": "1  du ad. (Ipar.) (zah.) apenar, causar pena // 2  du ad. (Ipar.) (zah.) ofender, injuriar"
+    "spanish": "1  du ad. (Ipar.) (zah.) apenar, causar pena // 2  du ad. (Ipar.) (zah.) ofender, injuriar",
+    "examples": [
+      "askotan haren damuztatzeko eta iraintzeko baliatu izan direla: muchas veces se han valido de ello para ofenderlo e insultarlo"
+    ]
   },
   {
     "id": 6788,
@@ -48593,47 +49135,89 @@
   {
     "id": 8668,
     "basque": "eraman, eraman, eramaten",
-    "spanish": "1  du ad. llevar, conducir, transportar, trasportar; llevarse, llevar consigo // 2  du ad. [arropa] llevar, vestir // 3  du ad. llevarse (algo), quitar; robar // 4  du ad. (osagarriak -ra kasu-atzizkia duela) llevar, conducir, guiar // 5  du ad. [garaipena, saria] llevarse, conseguir // 6  du ad. soportar, aguantar, sufrir // 7  du ad. [elkar] llevarse, arreglarse, amoldarse // 8  du ad. [abantaila] llevar // 9  du ad. [denbora] pasar, llevar // 10  du ad. llevar, seguir (un camino); ir (por un camino) // 11  du ad. [bizimodua, portaera] llevar // 12  du ad. llevar, encargarse (de) // 13  du ad. [atsekabea, poza, ustekabea] llevarse // 14  du ad. [abiadura, indarra, abaila] llevar; ir // 15  du ad. llevar, empujar, impulsar // 16  du ad. (Kir.) [pilota-jokoan] devolver, restar"
+    "spanish": "1  du ad. llevar, conducir, transportar, trasportar; llevarse, llevar consigo // 2  du ad. [arropa] llevar, vestir // 3  du ad. llevarse (algo), quitar; robar // 4  du ad. (osagarriak -ra kasu-atzizkia duela) llevar, conducir, guiar // 5  du ad. [garaipena, saria] llevarse, conseguir // 6  du ad. soportar, aguantar, sufrir // 7  du ad. [elkar] llevarse, arreglarse, amoldarse // 8  du ad. [abantaila] llevar // 9  du ad. [denbora] pasar, llevar // 10  du ad. llevar, seguir (un camino); ir (por un camino) // 11  du ad. [bizimodua, portaera] llevar // 12  du ad. llevar, encargarse (de) // 13  du ad. [atsekabea, poza, ustekabea] llevarse // 14  du ad. [abiadura, indarra, abaila] llevar; ir // 15  du ad. llevar, empujar, impulsar // 16  du ad. (Kir.) [pilota-jokoan] devolver, restar",
+    "examples": [
+      "etxetik lanera eramanen zaitut: te llevaré de casa al trabajo",
+      "txakurra kalean aurkitu eta etxera eraman zuen: encontró un perro en la calle y se lo llevó a casa",
+      "uholdeak autobusa eraman zuen: la riada se llevó el autobús",
+      "kotoizko alkandora zuria darama: viste una camisa blanca de algodón",
+      "istripu batek bizia eraman dio: un accidente le ha quitado la vida",
+      "lapurrek etxean sartu eta zegoen guztia eraman zuten: los ladrones entraron en casa y se llevaron todo lo que había",
+      "nora garamatza bide honek?: ¿a dónde nos lleva este camino?",
+      "lehen saria eraman duen idazlana: la obra que ha conseguido el primer premio",
+      "pazientziaz eraman beharreko kontuak: cuestiones que hay que aguantar con paciencia",
+      "ongi eramaten dute elkar: se llevan bien",
+      "guztiei abantaila eramaten die: les lleva ventaja a todos",
+      "Parisen eraman nituen egunak: los días que pasé en París",
+      "gau guztia lo darama: lleva toda la noche dormido",
+      "bi urte daramatza Madrilen: lleva dos años en Madrid",
+      "bide makurra darama: va por mal camino",
+      "oso bizimodu txarra darama: vive mal, lleva mala vida",
+      "negozioa ondo eraman: llevar bien el negocio",
+      "ez du poz makala eraman!: ¡menuda alegría se ha llevado!",
+      "abiada ederra darama: va a una gran velocidad",
+      "premiak narama lapurtzera: la necesidad me empuja a robar",
+      "aurrelariak atzera, baina atzelariak eraman egin du: el delantero la ha enviado muy atrás, pero el zaguero ha devuelto la pelota",
+      "eraman txikia izan: tener poca paciencia"
+    ]
   },
   {
     "id": 8669,
     "basque": "eramanerraz",
-    "spanish": "izond. llevadero, -a; soportable"
+    "spanish": "izond. llevadero, -a; soportable",
+    "examples": []
   },
   {
     "id": 8670,
     "basque": "eramanezin",
-    "spanish": "insufrible, insoportable, inaguantable"
+    "spanish": "insufrible, insoportable, inaguantable",
+    "examples": []
   },
   {
     "id": 8671,
     "basque": "eramangaitz",
-    "spanish": "izond. insufrible, insoportable, inaguantable"
+    "spanish": "izond. insufrible, insoportable, inaguantable",
+    "examples": [
+      "hango giroa eramangaitza da: aquel ambiente es insoportable"
+    ]
   },
   {
     "id": 8672,
     "basque": "eramangarri",
-    "spanish": "portátil // llevadero, -a; soportable, aguantable"
+    "spanish": "portátil // llevadero, -a; soportable, aguantable",
+    "examples": [
+      "ordenagailu eramangarria: ordenador portátil",
+      "neke hori eramangarriagoa izan dakizun: a fin de que esa carga te sea más llevadera"
+    ]
   },
   {
     "id": 8673,
     "basque": "eramangarritasun",
-    "spanish": "portabilidad"
+    "spanish": "portabilidad",
+    "examples": []
   },
   {
     "id": 8674,
     "basque": "eramankizun",
-    "spanish": "1  iz. padecimiento, penalidad // 2  iz. paciencia"
+    "spanish": "1  iz. padecimiento, penalidad // 2  iz. paciencia",
+    "examples": [
+      "eramankizun eta egonarrian Job zirudien: en cuanto a penalidades y paciencia parecía el santo Job",
+      "eramankizuna ahitu zitzaion, desesperatu zen: se le acabó la paciencia y se desesperó"
+    ]
   },
   {
     "id": 8675,
     "basque": "eramankor",
-    "spanish": "1  izond. paciente, sufrido, -a // 2  izond. llevadero, -a; soportable"
+    "spanish": "1  izond. paciente, sufrido, -a // 2  izond. llevadero, -a; soportable",
+    "examples": [
+      "egiozu bizimodua ahalik eta eramankorrena: hazle la vida lo más llevadera posible"
+    ]
   },
   {
     "id": 8676,
     "basque": "eramanpen",
-    "spanish": "iz. sufrimiento, paciencia, aguante"
+    "spanish": "iz. sufrimiento, paciencia, aguante",
+    "examples": []
   },
   {
     "id": 8677,
@@ -48883,7 +49467,13 @@
   {
     "id": 8726,
     "basque": "eratu, era(tu), eratzen",
-    "spanish": "1  du ad. formar, constituir; organizar, preparar // 2  du ad. proveer, proporcionar // 3  da ad. amoldarse, acomodarse // 4  da ad. presentarse, aparecer"
+    "spanish": "1  du ad. formar, constituir; organizar, preparar // 2  du ad. proveer, proporcionar // 3  da ad. amoldarse, acomodarse // 4  da ad. presentarse, aparecer",
+    "examples": [
+      "zepoa eratu zioat: le he preparado el cepo",
+      "talde bat eratu dugu: hemos formado un grupo",
+      "diru apur bat eratu zioten: le proporcionaron un poco de dinero",
+      "beharretara eratu zenean: cuando se amoldó a las necesidades"
+    ]
   },
   {
     "id": 8727,
@@ -57116,7 +57706,10 @@
   {
     "id": 10370,
     "basque": "esplotatu, esplota, esplotatzen",
-    "spanish": "1 du ad. explotar // 2 du ad. explotar, obtener provecho/utilidad/beneficios; extraer riquezas // 3 du ad. [norbait] explotar, abusar"
+    "spanish": "1 du ad. explotar // 2 du ad. explotar, obtener provecho/utilidad/beneficios; extraer riquezas // 3 du ad. [norbait] explotar, abusar",
+    "examples": [
+      "langile batzuk esplotatzen ditu soldata oso baxuaz lan eginaraziz: explota a algunos de sus trabajadores haciéndoles trabajar con un mísero sueldo"
+    ]
   },
   {
     "id": 10371,
@@ -86572,7 +87165,11 @@
   {
     "id": 16021,
     "basque": "izaera",
-    "spanish": "iz. carácter, naturaleza, forma/manera de ser"
+    "spanish": "iz. carácter, naturaleza, forma/manera de ser",
+    "examples": [
+      "pertsona bakoitzaren izaera desberdina da: el carácter de cada persona es diferente",
+      "gizon fidagaitza, izaeraz: un hombre desconfiado por naturaleza"
+    ]
   },
   {
     "id": 16022,
@@ -93934,7 +94531,13 @@
   {
     "id": 17433,
     "basque": "kitatu, kita, kitatzen",
-    "spanish": "du ad. liquidar, saldar, ajustar, arreglar [las deudas, cuentas...]; perdonar la deuda //  du ad. (Ipar.) dejar, abandonar"
+    "spanish": "du ad. liquidar, saldar, ajustar, arreglar [las deudas, cuentas...]; perdonar la deuda //  du ad. (Ipar.) dejar, abandonar",
+    "examples": [
+      "zorra osoro kitatu arte: hasta saldar por completo la deuda",
+      "harekin ditudan zorrak kitatzearren: para liquidar la deuda que tengo con él",
+      "gauza bat egin behar duzue enegatik eta hartaz kitatzen zaituztet: tenéis que hacer una cosa por mí y con ella os perdono la deuda",
+      "sorterria kitatzen dut, negarra begian: dejo mi tierra natal con llanto en mis ojos"
+    ]
   },
   {
     "id": 17434,
@@ -94939,7 +95542,8 @@
   {
     "id": 17634,
     "basque": "komunikabide",
-    "spanish": "1 iz. medio de comunicación // 2 iz. medio de transporte"
+    "spanish": "1 iz. medio de comunicación // 2 iz. medio de transporte",
+    "examples": []
   },
   {
     "id": 17635,
@@ -96947,7 +97551,13 @@
   {
     "id": 18034,
     "basque": "kosta(tu), kosta, kostatzen",
-    "spanish": "1  da ad. costar (trabajo), resultar difícil // 2  da ad. costar, valer"
+    "spanish": "1  da ad. costar (trabajo), resultar difícil // 2  da ad. costar, valer",
+    "examples": [
+      "ezer kosta gabe azaldu zuen dena: no le costó ningún trabajo explicarlo todo",
+      "kosta zitzaidan bere erantzunaren arrazoiak ikustea: me costó trabajo deducir las razones de su respuesta",
+      "kosta zitzaion gure azalpena sinestea: le resultó difícil creer nuestra explicación",
+      "hau gutxiago kostatu da, bigarren eskukoa baita: esto ha costado menos porque es de segunda mano"
+    ]
   },
   {
     "id": 18035,
@@ -142678,7 +143288,12 @@
   {
     "id": 26601,
     "basque": "zaletasun",
-    "spanish": "iz. afición, tendencia, propensión, inclinación"
+    "spanish": "iz. afición, tendencia, propensión, inclinación",
+    "examples": [
+      "ehizarako zaletasuna: afición por la caza",
+      "irakurtzeko zaletasuna bultzatu: impulsar la afición por la lectura",
+      "zaletasun handia dio kirolari: siente una gran inclinación por el deporte"
+    ]
   },
   {
     "id": 26602,
@@ -161449,7 +162064,8 @@
   {
     "id": 30384,
     "basque": "damuari",
-    "spanish": "iz. (B) pena, pesar"
+    "spanish": "iz. (B) pena, pesar",
+    "examples": []
   },
   {
     "id": 30385,
@@ -170260,7 +170876,8 @@
   {
     "id": 32104,
     "basque": "damu-otoitz",
-    "spanish": "(Erl.) oración penitencial"
+    "spanish": "(Erl.) oración penitencial",
+    "examples": []
   },
   {
     "id": 32105,
@@ -179446,5 +180063,29 @@
     "basque": "jela",
     "spanish": "iz. (G) hielo; helada",
     "examples": []
+  },
+  {
+    "id": 33920,
+    "basque": "damu",
+    "spanish": "1 iz. arrepentimiento // 2 iz. pesar, pena, pesadumbre // 3 iz. (Ipar.) daño, perjuicio; ofensa",
+    "examples": [
+      "damua garaiz: el arrepentimiento a su tiempo"
+    ]
+  },
+  {
+    "id": 33921,
+    "basque": "damu-domaia",
+    "spanish": "(Ipar.) (pl.) daños y perjuicios",
+    "examples": [
+      "damu-domaiak zor dizkidazue: me debéis los daños y perjuicios"
+    ]
+  },
+  {
+    "id": 33922,
+    "basque": "damutan",
+    "spanish": "en perjuicio de",
+    "examples": [
+      "erregearen ohorearen damutan: en perjuicio del honor del rey"
+    ]
   }
 ]
