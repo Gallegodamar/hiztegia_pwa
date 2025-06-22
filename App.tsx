@@ -91,47 +91,50 @@ const App: React.FC = () => {
   }, []);
 
 
-  useEffect(() => {
-    if (loading || error || fetchedWordData.length === 0) {
-      setFilteredWords([]);
-      return;
-    }
+useEffect(() => {
+  if (loading || error || fetchedWordData.length === 0) {
+    setFilteredWords([]);
+    return;
+  }
 
-    if (!searchTerm && searchMode === 'general' && !selectedSuffix) {
-      setFilteredWords([]); 
-      return;
-    }
+  if (!searchTerm && searchMode === 'general' && !selectedSuffix) {
+    setFilteredWords([]); 
+    return;
+  }
 
-    let results = fetchedWordData;
+  let results = fetchedWordData;
 
-    if (searchMode === 'suffix' && selectedSuffix) {
-      results = results.filter(wordPair => {
-        const basqueWordPart = wordPair.basque.split(',')[0].trim();
-        if (basqueWordPart.length >= selectedSuffix.length && !basqueWordPart.startsWith('-')) {
-          return basqueWordPart.toLowerCase().endsWith(selectedSuffix.toLowerCase());
-        }
-        return false;
-      });
-    }
+  if (searchMode === 'suffix' && selectedSuffix) {
+    results = results.filter(wordPair => {
+      const basqueWordPart = wordPair.basque.split(',')[0].trim();
+      if (basqueWordPart.length >= selectedSuffix.length && !basqueWordPart.startsWith('-')) {
+        return basqueWordPart.toLowerCase().endsWith(selectedSuffix.toLowerCase());
+      }
+      return false;
+    });
+  }
 
-    if (searchTerm) {
-      const lowerSearchTerm = searchTerm.toLowerCase();
-      results = results.filter(word => {
-        const matchesBasque = word.basque.toLowerCase().startsWith(lowerSearchTerm) ||
-                              (word.synonyms_basque && word.synonyms_basque.toLowerCase().startsWith(lowerSearchTerm));
-        
-        const spanishTextWords = (word.spanish || "").toLowerCase().split(/[^a-zA-Z0-9ñÑáéíóúüÁÉÍÓÚÜ]+/).filter(w => w.length > 0);
-        const synonymSpanishTextWords = (word.synonyms_spanish || "").toLowerCase().split(/[^a-zA-Z0-9ñÑáéíóúüÁÉÍÓÚÜ]+/).filter(w => w.length > 0);
-        
-        const matchesSpanish = spanishTextWords.includes(lowerSearchTerm) ||
-                               (word.synonyms_spanish && synonymSpanishTextWords.includes(lowerSearchTerm));
-                               
-        return matchesBasque || matchesSpanish;
-      });
-    }
-    
-    setFilteredWords(results);
-  }, [searchTerm, searchMode, selectedSuffix, fetchedWordData, loading, error]);
+  if (searchTerm) {
+    const lowerSearchTerm = searchTerm.toLowerCase();
+    const wildcardRegex = new RegExp('^' + lowerSearchTerm.replace(/[.*+?^${}()|[\]\\]/g, '\\$&').replace(/\\\*/g, '.*') + '$');
+
+    results = results.filter(word => {
+      const basque = word.basque.toLowerCase();
+      const basqueSynonyms = word.synonyms_basque?.toLowerCase() || '';
+
+      const matchesBasque = wildcardRegex.test(basque) || wildcardRegex.test(basqueSynonyms);
+
+      const spanishText = (word.spanish || '').toLowerCase();
+      const synonymSpanishText = (word.synonyms_spanish || '').toLowerCase();
+      const matchesSpanish = wildcardRegex.test(spanishText) || wildcardRegex.test(synonymSpanishText);
+
+      return matchesBasque || matchesSpanish;
+    });
+  }
+
+  setFilteredWords(results);
+}, [searchTerm, searchMode, selectedSuffix, fetchedWordData, loading, error]);
+
   
   const handleShowExplanation = (suffix: Suffix) => {
     const detail = SUFFIX_DETAILS_LIST.find(d => d.value === suffix);
