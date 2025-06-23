@@ -116,17 +116,27 @@ useEffect(() => {
 
   if (searchTerm) {
     const lowerSearchTerm = searchTerm.toLowerCase();
-    const wildcardRegex = new RegExp('^' + lowerSearchTerm.replace(/[.*+?^${}()|[\]\\]/g, '\\$&').replace(/\\\*/g, '.*') + '$');
+
+    const isWildcard = lowerSearchTerm.includes('*');
+
+    let wildcardRegex: RegExp | null = null;
+    if (isWildcard) {
+      wildcardRegex = new RegExp('^' + lowerSearchTerm.replace(/[.*+?^${}()|[\]\\]/g, '\\$&').replace(/\\\*/g, '.*') + '$');
+    }
 
     results = results.filter(word => {
       const basque = word.basque.toLowerCase();
       const basqueSynonyms = word.synonyms_basque?.toLowerCase() || '';
-
-      const matchesBasque = wildcardRegex.test(basque) || wildcardRegex.test(basqueSynonyms);
-
       const spanishText = (word.spanish || '').toLowerCase();
       const synonymSpanishText = (word.synonyms_spanish || '').toLowerCase();
-      const matchesSpanish = wildcardRegex.test(spanishText) || wildcardRegex.test(synonymSpanishText);
+
+      const matchesBasque = isWildcard
+        ? wildcardRegex!.test(basque) || wildcardRegex!.test(basqueSynonyms)
+        : basque.startsWith(lowerSearchTerm) || basqueSynonyms.startsWith(lowerSearchTerm);
+
+      const matchesSpanish = isWildcard
+        ? wildcardRegex!.test(spanishText) || wildcardRegex!.test(synonymSpanishText)
+        : spanishText.includes(lowerSearchTerm) || synonymSpanishText.includes(lowerSearchTerm);
 
       return matchesBasque || matchesSpanish;
     });
